@@ -1,15 +1,18 @@
 <script lang="ts">
-
     export let data
-
 </script>
 
+<svelte:head>
+    <title>{data.title} | {data.wikiLabel} | Fractal Mandala</title>
+    <meta name="description" content="{data.wikiLabel} — {data.title}" />
+</svelte:head>
+
 <article>
-<div class="breadcrumb">
-    <p>The Janapada - Historical Fiction</p>
-    <p> > </p>
-    <p class="tt-c">{data.title}</p>
-</div>
+<nav class="breadcrumb" aria-label="breadcrumb">
+    <a href="/{data.wikiSlug}">{data.wikiLabel}</a>
+    <span aria-hidden="true"> > </span>
+    <span aria-current="page">{data.title}</span>
+</nav>
 <h1 class="tt-c">{data.title}</h1>
 <svelte:component this={data.content} />
 </article>
@@ -22,9 +25,13 @@
     column-gap: 4px
     align-items: center
     margin-bottom: 8px
-    p
-        font-size: 12px
-        color: var(--col-textgreylight)
+    font-size: 12px
+    color: var(--col-textgreylight)
+    a
+        color: inherit
+        text-decoration: none
+        &:hover
+            text-decoration: underline
 
 h1
     border-bottom: 1px solid var(--col-border)
@@ -32,3 +39,4 @@ h1
     margin-bottom: 24px
 
 </style>
+

@@ -3,6 +3,11 @@ title: the janapada
 id: 999
 ---
 
+<svelte:head>
+    <title>The Janapada | Fractal Mandala</title>
+    <meta name="description" content="A historical fiction wiki on the Janapada — places, personalities, tribes, and civilizational world-building from ancient Bharatavarsha." />
+</svelte:head>
+
 This index lists the full Janapada wiki, starting with navigation hubs and then every topic derived from the raw source corpus so each note can be reached directly. It organizes the Janapada historical fiction project into linked notes on places, personalities, tribes, cultural concepts, and source-overview pages so the material can be navigated as a connected civilizational world.
 
 ## Overview

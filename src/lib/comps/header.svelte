@@ -1,22 +1,39 @@
+<script lang="ts">
+  import { WIKIS } from '$lib/wikis';
+  import Mandala from '$lib/assets/mandala.svelte'
+  import Menu from '$lib/assets/menu.svelte'
+  import Close from '$lib/assets/close.svelte'
+  import { toggleMenu, menuMode } from '$lib/utils/stores'
+
+  let text = 'FRACTALMAṆḌALA';
+</script>
+
 <div class="header-comp">
-    <p class="site-title"><a href="/">FRACTAL MANDALA</a></p>
+    <div class="areaoflogo">
+		<a class="logo" href="/">
+			<Mandala/>
+		</a>
+		<a class="name" href="/">
+			{#each text.split('') as char, i}
+				<span class="text-animation char-{i}" style="animation-delay: {i * 0.04}s">{char}</span>
+			{/each}
+		</a>
+	  </div>
     <nav class="nav-row">
-        <p><a href="/wiki-writings">Writings</a></p>
-        <p><a href="/wiki-civilization">Civilization</a></p>
-        <p><a href="/wiki-history">History</a></p>
-        <p><a href="/wiki-auro">Sri Aurobindo</a></p>
-        <p><a href="/wiki-srg&srs">Sita Ram Goel & Ram Swarup</a></p>
-        <p><a href="/wiki-janapada">Janapada</a></p>
-        <p><a href="/wiki-thea">Thea</a></p>
+        {#each WIKIS as wiki}
+            <p><a href="/{wiki.slug}">{wiki.label}</a></p>
+        {/each}
     </nav>
+    <button class="menu" on:click={toggleMenu}>
+        {#if $menuMode}
+        <Close/>
+        {:else}
+        <Menu/>
+        {/if}
+    </button>
 </div>
 
 <style lang="sass">
-
-.site-title
-    a
-        text-decoration: none
-        color: inherit
 
 .header-comp
     display: flex
@@ -32,12 +49,63 @@
     align-items: center
     column-gap: 16px
     p
-        font-size: 13px
+        font-size: 12.5px
         text-transform: uppercase
+        font-weight: 400
+        letter-spacing: -0.25px
         a
             text-decoration: none
             color: inherit
+        &:hover
+            a
+                text-decoration: underline
+                text-decoration-color: var(--col-green)
     @media screen and (max-width: 1024px)
         display: none
+
+.menu
+    background: none
+    border: none
+    padding: 0
+    cursor: pointer
+    @media screen and (min-width: 1025px)
+        display: none
+    @media screen and (max-width: 1024px)
+        display: flex
+        align-items: center
+        justify-content: center
+
+.areaoflogo
+    display: flex
+    flex-direction: row
+    align-items: center
+    column-gap: 0.5rem
+    .name
+        text-decoration: none
+        color: #000000
+        font-family: 'Space Mono', monospace
+        font-size: 18.6px
+        font-weight: 500
+        .char-7, .char-8, .char-9, .char-10, .char-11, .char-12, .char-13
+            color: var(--col-green)
+    &:hover
+        .name
+            .text-animation
+                animation: colorchange 1s infinite forwards
+
+.logo
+    width: 20px
+    display: flex
+    flex-direction: row
+    align-items: center
+    justify-content: flex-start
+
+@keyframes colorchange
+    0%
+        color: #000000
+    50%
+        color: var(--col-green)
+    100%
+        color: #000000
 
 </style>

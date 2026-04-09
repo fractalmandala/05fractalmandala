@@ -1,11 +1,8 @@
-export async function load({ params }: { params: { wiki: string } }) {
-  const post = await import(`../${params.wiki}.md`);
-  const { title, id } = post.metadata;
-  const content = post.default;
+import { loadWikiArticle } from "$lib/utils/locals";
+import { getWikiLabel } from "$lib/wikis";
 
-  return {
-    content,
-    title,
-    id
-  };
+export async function load({ params, url }: { params: { wiki: string }; url: URL }) {
+  const wikiSlug = url.pathname.split("/")[1];
+  return loadWikiArticle(wikiSlug, params.wiki, getWikiLabel(wikiSlug));
 }
+

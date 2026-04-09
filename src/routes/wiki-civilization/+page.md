@@ -6,24 +6,27 @@ id: 999
 <script lang="ts">
 
     import { onMount } from 'svelte'
-    import { wikiCivilization } from '$lib/utils/locals'
+    import { loadWiki, type WikiEntry } from '$lib/utils/locals'
 
-    let dataCiv:any
+    let data: WikiEntry[] = []
 
-    onMount(() => {
-        (async() => {
-            dataCiv = await wikiCivilization();
-        })();
+    onMount(async () => {
+        data = await loadWiki('wiki-civilization')
     })
 
 </script>
 
+<svelte:head>
+    <title>Civilizational Phenomenology | Fractal Mandala</title>
+    <meta name="description" content="A wiki on Indian history, ancient religion, civilizational phenomenology, and the evolution of Hinduism." />
+</svelte:head>
+
 A personal wiki on Indian history, ancient religion, civilizational phenomenology, and the evolution of Hinduism.
 
 ## Topics
-{#if dataCiv && dataCiv.length > 0}
+{#if data.length > 0}
     <div class="wiki-items-box">
-    {#each dataCiv as item}
+    {#each data as item}
         <p class="wiki-items tt-c"><a href={item.linkpath}>{item.meta.title}</a></p>
     {/each}
     </div>

@@ -4,6 +4,7 @@
     import Footer from '$lib/comps/footer.svelte'
     import Header from '$lib/comps/header.svelte'
     import SidebarD from '$lib/comps/sidebar-d.svelte'
+    import SidebarM from '$lib/comps/sidebar-m.svelte'
 
 	let { children } = $props();
 </script>
@@ -15,6 +16,7 @@
 <header>
     <Header/>
 </header>
+<SidebarM/>
 <main class="doc-grid">
     <div class="side">
         <div class="sticker">

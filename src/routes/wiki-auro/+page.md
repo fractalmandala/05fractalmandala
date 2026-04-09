@@ -6,17 +6,20 @@ id: 999
 <script lang="ts">
 
     import { onMount } from 'svelte'
-    import { wikiAuro } from '$lib/utils/locals'
+    import { loadWiki, type WikiEntry } from '$lib/utils/locals'
 
-    let dataAuro:any
+    let data: WikiEntry[] = []
 
-    onMount(() => {
-        (async() => {
-            dataAuro = await wikiAuro();
-        })();
+    onMount(async () => {
+        data = await loadWiki('wiki-auro')
     })
 
 </script>
+
+<svelte:head>
+    <title>Sri Aurobindo | Fractal Mandala</title>
+    <meta name="description" content="A wiki on Sri Aurobindo — Vedic interpretation, Integral Yoga, metaphysics, and civilizational thought." />
+</svelte:head>
 
 This wiki organizes Sri Aurobindo's work into major thematic topics, moving from early cultural and political work toward Vedic interpretation, Upanishadic exegesis, the Gita, Integral Yoga, metaphysics, and social philosophy. Each topic page begins with a summary paragraph, includes source summaries for the relevant volumes, and links outward to related pages through the internal wiki-link format.
 
@@ -34,9 +37,9 @@ His work traces a movement from cultural criticism and anti-colonial nationalism
 - Politics, culture, yoga, and metaphysics are connected rather than separated into different compartments.
 
 ## Topics
-{#if dataAuro && dataAuro.length > 0}
+{#if data.length > 0}
     <div class="wiki-items-box">
-    {#each dataAuro as item}
+    {#each data as item}
         <p class="wiki-items tt-c"><a href={item.linkpath}>{item.meta.title}</a></p>
     {/each}
     </div>

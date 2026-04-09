@@ -15,6 +15,7 @@
 		"@sveltejs/adapter-vercel": "^6.3.3",
 		"@sveltejs/kit": "^2.57.0",
 		"@sveltejs/vite-plugin-svelte": "^7.0.0",
+		"@types/node": "^25.5.2",
 		"mdsvex": "^0.12.7",
 		"sass": "^1.99.0",
 		"svelte": "^5.55.2",

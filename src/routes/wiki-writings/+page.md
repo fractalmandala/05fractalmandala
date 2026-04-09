@@ -6,24 +6,27 @@ id: 999
 <script lang="ts">
 
     import { onMount } from 'svelte'
-    import { wikiWritings } from '$lib/utils/locals'
+    import { loadWiki, type WikiEntry } from '$lib/utils/locals'
 
-    let dataOwn:any
+    let data: WikiEntry[] = []
 
-    onMount(() => {
-        (async() => {
-            dataOwn = await wikiWritings();
-        })();
+    onMount(async () => {
+        data = await loadWiki('wiki-writings')
     })
 
 </script>
 
+<svelte:head>
+    <title>Own Writings | Fractal Mandala</title>
+    <meta name="description" content="Personal writings on Indian history, dharma, consciousness, technology, design, fiction, and poetry." />
+</svelte:head>
+
 This wiki organizes my own writings into major themes spanning Indian history, Vedic chronology, dharma and civilizational thought, consciousness and psychedelics, technology and web development, design, fiction, poetry, and whisky notes.
 
 ## Topics
-{#if dataOwn && dataOwn.length > 0}
+{#if data.length > 0}
     <div class="wiki-items-box">
-    {#each dataOwn as item}
+    {#each data as item}
         <p class="wiki-items tt-c"><a href={item.linkpath}>{item.meta.title}</a></p>
     {/each}
     </div>

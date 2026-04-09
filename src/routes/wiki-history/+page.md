@@ -3,6 +3,11 @@ title: indian history
 id: 999
 ---
 
+<svelte:head>
+    <title>Indian History | Fractal Mandala</title>
+    <meta name="description" content="A wiki on ancient Indian history — chronology, Vedic literature, the Sarasvati-Harappan world, Indo-European debate, and Sanskrit traditions." />
+</svelte:head>
+
 This wiki organizes the collection into major themes, then links to source-digest pages that summarize every individual file in the corpus while preserving connections across [[ancient-indian-chronology]], [[vedic-literature-and-cosmology]], [[sarasvati-and-harappan-world]], and related topics.
 
 ## Major Topics

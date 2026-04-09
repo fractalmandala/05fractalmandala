@@ -3,6 +3,11 @@ title: thea - science fiction
 id: 999
 ---
 
+<svelte:head>
+    <title>Thea | Fractal Mandala</title>
+    <meta name="description" content="A science fiction wiki for the Thea setting — species, places, history, theology, technology, and the Trithan epoch." />
+</svelte:head>
+
 This wiki organizes the Thea raw corpus into major topics so the setting can be navigated quickly without losing source coverage. Each page begins with a synthesis paragraph, then summarizes the relevant raw entries and links outward to related pages using the internal `[[topic-name]]` format.
 
 ## Topics

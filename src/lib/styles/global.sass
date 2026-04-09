@@ -1,10 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Google+Sans+Flex:opsz,wght@6..144,1..1000&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;500;600;700&display=swap')
 
 :root, *
     --col-border: #e7e7e7
     --col-textgrey: #5d5d5d
     --col-textgreylight: #a7a7a7
     --col-green: #37B24D
+    --col-greendark: #277D36
 
 body, html
     box-sizing: border-box
@@ -14,6 +17,11 @@ body, html
 
 p, em, li, ul, ol, cite, caption, blockquote, small, h6, h5, h4, h3, h2, h1
     margin: 0
+
+.themed
+    color: var(--col-green)
+.themedark
+    color: var(--col-greendark)
 
 .tt-c
     text-transform: capitalize
@@ -36,6 +44,9 @@ p, em, li, ul, ol, cite, caption, blockquote, small, h6, h5, h4, h3, h2, h1
     a
         text-decoration: none
         color: #37B24D
+    pre, p, li
+        white-space: pre-wrap
+        word-break: break-word
     @media screen and (min-width: 1025px)
         p
             font-size: 18px
@@ -50,3 +61,54 @@ p, em, li, ul, ol, cite, caption, blockquote, small, h6, h5, h4, h3, h2, h1
             font-size: 24px
             margin-bottom: 16px
             margin-top: 24px
+    @media screen and (max-width: 1024px)
+        p
+            font-size: 17px
+            line-height: 1.5
+            margin-bottom: 1em
+            &.wiki-items
+                margin-bottom: 0
+        li
+            font-size: 17px
+            line-height: 1.5
+        h2
+            font-size: 22.5px
+            margin-bottom: 16px
+            margin-top: 24px
+
+.grid
+    display: grid
+    grid-auto-flow: row
+    @media screen and (min-width: 1025px)
+        &.two
+            grid-template-columns: 1fr 1fr
+        &.three
+            grid-template-columns: 1fr 1fr 1fr
+    @media screen and (max-width: 1024px)
+        &.two, .three
+            grid-template-columns: 1fr
+
+.cgap8
+    column-gap: 8x
+.cgap16
+    column-gap: 16px
+.cgap24
+    column-gap: 24px
+.cgap32
+    column-gap: 32px
+.cgap48
+    column-gap: 48px
+.cgap64
+    column-gap: 64px
+.rgap8
+    row-gap: 8x
+.rgap16
+    row-gap: 16px
+.rgap24
+    row-gap: 24px
+.rgap32
+    row-gap: 32px
+.rgap48
+    row-gap: 48px
+.rgap64
+    row-gap: 64px
