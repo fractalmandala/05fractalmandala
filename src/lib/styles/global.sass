@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans+Flex:opsz,wght@6..144,1..1000&display=swap')
+
+:root, *
+    --col-border: #e7e7e7
+    --col-textgrey: #5d5d5d
+    --col-textgreylight: #a7a7a7
+    --col-green: #37B24D
+
+body, html
+    box-sizing: border-box
+    margin: 0
+    padding: 0
+    font-family: 'Google Sans Flex', sans-serif
+
+p, em, li, ul, ol, cite, caption, blockquote, small, h6, h5, h4, h3, h2, h1
+    margin: 0
+
+.tt-c
+    text-transform: capitalize
+
+.page-shell
+    min-height: calc(100vh - 240px)
+    padding-top: 48px
+    padding-bottom: 64px
+    @media screen and (min-width: 1025px)
+        padding-left: 64px
+        padding-right: 64px
+    @media screen and (max-width: 1024px)
+        padding-left: 16px
+        padding-right: 16px
+        &.wiki-home
+            padding-left: 0
+            padding-right: 0
+
+.wiki-home
+    a
+        text-decoration: none
+        color: #37B24D
+    @media screen and (min-width: 1025px)
+        p
+            font-size: 18px
+            line-height: 1.5
+            margin-bottom: 1em
+            &.wiki-items
+                margin-bottom: 0
+        li
+            font-size: 18px
+            line-height: 1.5
+        h2
+            font-size: 24px
+            margin-bottom: 16px
+            margin-top: 24px
