@@ -11,11 +11,11 @@ date: 2021-11-11
 supergroup: writings
 kind: posts
 ---
-##### Abstract
+### Abstract
 
 This paper proposes a novel interpretation of the Ṛg Vedic sūktas 7-18, 7-33 and 7-83, which are together taken to contain the chronicle of a battle of ten kings, or Dāśarājña. In this proposal, the Dāśarājña is shown to be an account of separate campaigns by Sudās Paijavana in ~2500 BC, which can be mapped to IE dispersal and Mature Harappan timelines. This yields Sudās as a unifying force for Indus-Sarasvatī Civilisation, and a catalytic agent for the formation of proto-Bhāratavarṣa.
 
-#### Introduction
+## Introduction
 
 An account of a historical battle of ten kings has been found in some sūktas of the Ṛg Veda, for example by Witzel who considers the Dāśarājña a “battle of ten kings of the five peoples of the Panjab (Yadu, Turvaśa, Anu, Druhyu, Pūru) against the Bharata king Sudās”. This account is contained in Maṇḍala 7, in the sūktas 18, 33 and 83. Witzel also speculates this to be the kernel event for the later Mahābhārata. In contrast to this is the reading by Danino, who points out that dāśarājña only means ‘ten kings,’ and the ‘Battle of’ is an addition in English. In Danino’s words, “Anyone expecting a workable, even partial or ‘poetic’ narrative of this event, on which so much historical reconstruction has been attempted, will be disappointed.”
 
@@ -25,7 +25,7 @@ This is at odds with the general view of Dāśarājña, surveyed by Stuhrmann. T
 
 Any attempts to press history out of Ṛg Vedic sūktas are notoriously problematic, and no attempt is free of critique from multiple quarters. But there are many examples of singular sūktas or mantras being used to support all kinds of Aryan invasionist/ migration scenarios. This paper is premised upon the assertion that the Dāśarājña sūktas contain enough richness of information to consider their historicity not an isolated evidence, but an overwhelming preponderance. When supplemented with other mantras, it paints a clearly historical picture. Before examining the data in these sūktas, two important frameworks must be established, which together allow Sudās’ placement in 2500 BC, coinciding with the Mature Harappan. 
 
-##### Framework 1 – Mature Harappan and IE Dispersals
+### Framework 1 – Mature Harappan and IE Dispersals
 
 The proto-Indo-European (PIE) homeland question is a scholastic field too vast to succinctly discuss here. The overall landscape is well covered by Mallory-Adams, and the Indian view of this by Bryant. It bears reiteration that dogmatic (or ignorant) dismissals of the PIE question are untenable. Whether one appeals to a wave-theory of language evolution, or to the archaic nature of Saṁskṛta, the linguistically validated existence of a hypothetical PIE is taken as established in this paper. A few periodisations are important in this context, beginning with Kenoyer’s periods of the Indus-Sarasvatī Civilisation (ISC):
 
@@ -70,7 +70,7 @@ To summarise—when the matter is examined to detail, and when all circular logi
 
 2. 2500/2000 BC: Eastern IE languages leave the homeland. They have satem characteristics, but still no chariots. Witzel notes the Lithuanian ratas to mean wheel, circle. In OIT, this is when proto-forms of Armenian, Greek, Albanian and Iranian leave the homeland in 2600-1900 BC, during the Mature Harappan. This is TB’s classic Ṛg Vedic period, of Indra-Agni-Soma. Talageri asserts that “the recorded evidence of the Ṛg Veda has the last 5 IE branches in Punjab, on the Paruṣṇī’s banks.” This is predicated on a reading of the Dāśarājña sūktas, but Witzel rejects Talageri’s conclusions even as he too reads a battle of ten kings.
 
-##### Framework 2 – Chronology of Indian Lineages
+### Framework 2 – Chronology of Indian Lineages
 
 There are many debates on whether to consider any historicity to the Purāṇas at all. Witzel favours discarding their authority altogether, and whether this is done or not, the Ṛg Veda must be taken as a more reliable timestamp. But the baby need not be thrown out with the bath water, and the Purāṇas are surprisingly in note with archaeological, linguistic or other evidence—provided they are read a certain way. 
 
@@ -82,7 +82,7 @@ Pargiter’s reconstruction need not be taken as entirely correct, and a possibi
 
 What’s left is a date for the Mahābhārata. Archaeoastronomical readings that require extraordinary evidence, such as 5000 BC or prior, are rejected. As is a date around 3000 BC, both because it stems from a late astronomical reading by Āryabhaṭa, and also because it violates the Sarasvatī evidence. Kak points to the actual options—2100, 1900 or 1500 BC. Benedetti favours 1500 BC, which yields 2150 BC as the era of Sudās. A date of 1900 BC places Sudās in 2550 BC. In other words, he falls squarely in 1- the Mature Harappan, and 2- the wave of Eastern IE dispersals. 
 
-#### The Ṛg Veda and Maṇḍala 7
+## The Ṛg Veda and Maṇḍala 7
 
 The Ṛg Veda is a collection of 10 books, or Maṇḍalas, which each contain several hymns, or sūktas, that are made of verses, or mantras. To Indian tradition, the Ṛg Vedic poets were not mantra-kārtas but mantra-dārṣṭas. This means they did not create or compose the sūktas, but perceived them through their evolved dṛṣṭi. This is why the Vedas are considered apauruṣeya—authorless, and anādi—eternal. Comparable situations are the law of gravitation, which existed before Newton described it, and the continent of North America, which existed long before Columbus discovered it. 
 
@@ -97,11 +97,11 @@ There are nuances and disagreements to this broad stroke, but the general fact a
 The family books are so called because each of them contains sūktas from an exclusive ṛṣi-clan. Maṇḍala 2 is composed almost entirely by Gṛtsamada Bhārgava, Maṇḍala 3 by the Viśvāmitras, Maṇḍala 4 by Vāmadeva Gautama, Maṇḍala 5 by Atris, Maṇḍala 6 by Bharadvāja Bārhaspatya and his clan, and finally Maṇḍala 7 by Vasiṣṭha Maitrāvaruṇi. Though Witzel criticises Talageri when the latter assigns chronology within the family books, he also asserts that Oldenberg’s analysis proves that Maṇḍala 3 was composed only a few years or months before Maṇḍala 7—which if nothing else means that there are indeed ways to an internal chronology for the family books. 
 Maṇḍala 7 is of interest to this paper, where the chief patron of Vasiṣṭha Maitrāvaruṇī’s sūktas is Sudās Paijavana. The identification of Sudās as a Tṛtsu Bharata, and of the Tṛtsus as the ruling sub-clan among Pūru-Bharatas, who are the figurative people of the book of the Ṛg Veda, is well established by Talageri. To this is supplemented Paurāṇika evidence, which is not considered historical in the mainstream. Certainly, it should only be supplementary on the linguistic issue of PIE origins, or of IE dispersals. 
 
-#### Data: The Dāśarājña Sūktas
+## Data: The Dāśarājña Sūktas
 
 The two frameworks allow the temporal and spatial equation—Sudās  Eastern IE Dispersal  Mature Harappan  2500 BC. With this equation established, the Dāśarājña data can now be examined. IAST renditions of mantras are presented first, and the translations are Jamison-Brereton (henceforth, JB). Other translations are given as appendix. 
 
-##### Maṇḍala 7, Sūkta 18
+### Maṇḍala 7, Sūkta 18
 
 The first four mantras of sūkta 7-18 are general invocations to Indra, so they are ignored for this historical analysis, which begins from mantra 5. The entire sūkta is composed by Vasiṣṭha Maitrāvaruṇi.
 __________
@@ -237,7 +237,7 @@ Mantra 20 lauds Indra’s past victories, and alludes to ancestral battles again
 
 This mantra is a dānastuti, so the ‘he’ refers to Sudās. It portrays him as apportioning things (regions? resources?) among people, which emerges better in Griffith’s translation as gives each chief his portion. Geldner also reads verteiler and beute verteilt hat. Trivedi finds wealth sharing with śreṣṭha vyakti, and Wilson eminent person. Line 2 gives the personal name of another enemy, Yudhyāmadhi, which all translations find. But while JB translate moment of encounter, Geldner sees a duel and Griffith a close encounter. Might this suggest the resolution of final conflict through one-on-one combat?
 
-#### Maṇḍala 7, Sūkta 33
+## Maṇḍala 7, Sūkta 33
 
 Not all mantras here are of interest in the Dāśarājña context. The historical relevance begins at mantra 3.
 
@@ -265,7 +265,7 @@ JB’s translation of puny Bharatas here is uncharitable, and Geldner’s weak, 
 
 JB translate pratṛdo as thrusters forth, but Griffith and Geldner favour Pratṛdas as the name of a tribe. To Trivedi/Wilson the mantra is entirely ritual, and pratṛdo refers to the adhvaryu that officiates the Vedic ritual and guides the patron. Oldenberg agrees when he sees the mantra identifying the three priests of ritual, though not by title—hotar, udgātar and adhvaryu. Talageri reads Pratṛdo as a patronymic for Sudās, which is supported by Paurāṇika genealogy which has Pratardana descend from Divodāsa. But Pargiter has conclusively shown this Divodāsa to be an earlier ruler of Kāśī, not the Ṛg Vedic Divodāsa. This mantra should therefore be delinked from the Dāśarājña.
 
-##### Maṇḍala 7, Sūkta 83
+### Maṇḍala 7, Sūkta 83
 
 To quote JB—“This hymn looks back at the Battle of the Ten Kings described in VII.18, in which the Bharata king Sudās with the help of the Vasiṣṭhas triumphed over an alliance of ten rulers. This battle was a key moment in Vasiṣṭha history, and the poet recalls this historic victory in order to extend it into the present.” This supports the conjecture that the Ṛg Vedic Bharatas looked to the Dāśarājña battles in hindsight, likely towards the end of Sudās’ reign.
 
@@ -312,7 +312,7 @@ This mantra gives further hints to the theme of mantras 5 and 6, when it declare
 
 The description of Tṛtsus here as bright-faced and with braided hair has been taken by some as a description of Vasiṣṭha ṛṣis, implying that Tṛtsus were Vasiṣṭhas. But this is reading too much into a single line, and the larger evidence equates Tṛtsus with Pūru-Bharatas, specifically the clan led by Sudās. JB’s insightful Tṛtsus though their insight is translated by Geldner as artful poetry and by Griffith as skilled in song. These give rise to images of a gāthin, which could well be equated with Viśvāmitra! In other words, the safer conclusion is that Tṛtsus are a sub-branch of Pūru-Bharatas, with Sudās as their leader and Vasiṣṭha(s) as their purohita. 
 
-##### Supplementary Mantras
+### Supplementary Mantras
 
 The above covers all mantras generally considered relevant in the Dāśarājña context, but a few more add to the picture.
 
@@ -380,7 +380,7 @@ Finally, the word samrāṭ is interesting. JB translate it frankly as universal
 
 Sudās Paijavana is attributed as composer of RV 10-133, but with the attributions of Maṇḍala 10 quite suspect, this need not be taken literally. In any case, while JB do find some connections with RV 7-33, this sūkta does not yield historical information, so can be ignored. A lacuna in the regnal gradations shown above is that none of the Dāśarājña mantras declare Sudās to be a rājā, rājakā or samrāṭ, though at least the latter is a known title from before his time. This concludes the survey of Ṛg Vedic data. 
 
-#### Dāśarājña Re-contextualised
+## Dāśarājña Re-contextualised
 
 The general interpretation of Dāśarājña as a singular battle among/with ten kings must be discarded. At the very least, it must be supplemented it with the clear evidence of Sudās’ campaigns along at least 4 rivers, and possibly as far as Magadha. When done with Sudās’ placement in ~2500 BC, this reorients the view for IE dispersals and Mature Harappan. Given the two frameworks, the few centuries prior to Sudās can be briefed.
 
@@ -392,19 +392,19 @@ Paurāṇika tradition has him establish a capital called Sivipuri, geographic h
 
 The rise of the Bharata dynasty conveniently follows the beginning of Harappan integration, which peaks by 2500 BC during the era of Sudās. Mature Harappan is astounding for its level of civilisational uniformity, reflected in aspects such as town-planning and weights and measures. Such organisation cannot come about without some kind of ruling authority, whether it be federal or sovereign. This organising force is provided to the ISC by the Bharatas, and the Dāśarājña mantras show precisely how Sudās yokes civilisation proper. The hard data can be summarised such:
 
-##### Personal Names:
+### Personal Names:
 
 Śimyu (tribal affiliation uncertain), Purodātā (Turvaśa), Kavi (Ānava/Pārthava), Kavaṣa (Ānava), Śruta, Vṛddha, Bheda, Trasadasyu (as ally of Sudās), Yudhyāmadhi, Pramaganda, Vitahavya (extremely unlikely). If all possibilities including Vitahavya are accepted, there are ten names for Sudās’ enemies.  
 
-##### Tribe Names:
+### Tribe Names:
 
 Yakṣu (possibly Yadu), Matsya, Bhṛgu, Druhyu, Paktha, Bhalāna, Ālina, Viṣāṇin, Śiva, Pṛśni, Vaikarṇa, Anu/Ānava, Pūru, Tṛtsu, Bharata, Aja, Śighra, Pārthava, Parśava, Kuśika, Kīkaṭa. 
 
-##### Locations (Rivers and Places):
+### Locations (Rivers and Places):
 
 Paruṣṇī, Yamunā, Vipāś, Śutudrī and possibly a place named Manuṣa. Tangentially, if the identification of Kīkaṭa with Magadha is accepted, then the latter. One reading places Bheda at Sindhu, but here the term should be understood generically, and yield Yamunā through context. 
 
-##### Events:
+### Events:
 
 - The possible drowning and killing of Śimyu (7-18-5).
 - Sudās prevails over Purodātā Turvaśa. It’s unclear whether he defeats/kills him through war or through some kind of treaty/negotiation (7-18-6). In corollary,
@@ -465,7 +465,7 @@ Next are the Pārthavas and Parśavas, found only in Ludwig’s translation as P
 
 A final connection Talageri draws is between Bhṛgus and Phrygians, again dismissed by Witzel as folk etymology. But the Indo-Aryan ‘bha’ is the Greek ‘pha,’ so the linguistic connection is sound. Also sound is the Bhṛgu  Phleguai connection, for -l- and -r- are interchangeable in this context. Bhṛgus are noted for introducing fire to the Āryas, and Phleguai were fire-priests among the Greeks. The connection is both phonetic and semantic. 
 
-#### The composite picture then is this:
+## The composite picture then is this:
 
 The Eastern IE languages (proto-Greek, proto-Albanian, proto-Armenian, proto-Iranian and proto-Thraco-Phrygian) migrated out of the homeland 2500-2000 BC.
 
@@ -474,7 +474,7 @@ Through Ālinas, a number of proto-Greek/Albanian/Armenian languages were disper
 
 Sudās’ reign thus triggers two spatially exclusive trends. Within India, he’s responsible for the emergence of Mature Harappan, and the integration associated with it. Outside India, he’s to be blamed/credited for the arrival of Eastern IE languages. As traced by Hodiwala, Talageri and Elst, the story isn’t complete with Sudās. It continues with his descendants Sahadeva and Somaka, which evidences that IE dispersals happened not as a singular event, but over a few centuries for each wave. 
 
-#### The Reign of Sudās Paijavana
+## The Reign of Sudās Paijavana
 
 Following the above re-contextualisation, an attempt can be made to paint a temporal sequence of Sudās’ reign. This is conjectural territory that plays within the two frameworks, and brings in Paurāṇika testimony provided it does not violate Ṛg Vedic data. 
 
@@ -522,7 +522,7 @@ This organisation is imperial, but not always through conquest. At many places S
 At the long end of these campaigns, Sudās conducts a rājasūya, the regnal ritual, where Vasiṣṭha list the many victories and battles, exalting Sudās and Indra. Sudās’ enemies are thought of as the Dāśarājña, and the name is embedded into the sūktas Vasiṣṭha composes. 
 The geography of Sudās’ campaigns covers modern Greater Punjab, Haryana and parts of Himachal Pradesh, Uttarakhand, Uttar Pradesh and Rajasthan. In other words, in 2500 BC, around the time that the Harappan Civilisation enters its mature, integration phase, there is evidence of a political force spreading across its entire geographical extent. Sudās Paijavana gives clear evidence of the ruling authority behind Mature Harappan. 
 
-#### Conclusion
+## Conclusion
 
 This paper engages in the following three steps:
 
@@ -538,7 +538,7 @@ Witzeḷ’s characterisation—“It celebrates the victory of Sudās in the Ba
 
 > “Celebrates the victories of Sudās in his battles against ten kings, which once and for all established Bharata supremacy in northern India, ushered in Mature Harappan, triggered the dispersal of Eastern IE languages, and set the stage for the formation of proto-Bhāratavarṣa.” 
 
-#### Appendix A – Prior IE Dispersals
+## Appendix A – Prior IE Dispersals
 
 Sudās’ era is one of Eastern IE language dispersals. Prior to this were dispersals of proto-Anatolian and proto-Tocharian in 3700-3300 BC and of Western IE languages in 3000-2500 BC. Talageri traces Western IE dispersal in the attestation of Celtic drui, or druids, who were priests that held sacred knowledge in an exclusive dialect and transmitted it orally for generations, and connects it to Druhyu. He notes Druhyus to be a general name for IE people and priests, both, that are distant from Pūru-Bharatas. This is why they are mentioned alongside Bhṛgus in the Ṛg Veda, and the Aṅgrā in the Avesta (both are priestly classes). 
 
@@ -553,7 +553,7 @@ Finally, if Anatolian is sister to PIE and split much earlier, or if major lingu
 
 In other words, Paurāṇika tradition distinctly remembers that notable changes took place 7000-6000 BC. These are attested archaeologically in Mehrgarh and Bhirrana, and genetically through influx of “Iranian” genes into India during the same period. Pṛthu Vainya is remembered as the first king, born with armour and weapon in hand. Before him there were no cities, no agriculture, and no metallurgy. After him there were large farms, irrigated canals, long-distance trade and major shopping complexes. This is why Greek records knew of 6000 years of Indian dynasties. 
 
-#### Appendix B – Forgotten Sudās
+## Appendix B – Forgotten Sudās
 
 Why is Sudās not remembered by Paurāṇika tradition? In the traditional list of ṣoḍaśa-rājikas, or sixteen cakravartins, why does Sudās not feature, if he was so instrumental in proto-Bhāratavarṣa? In the entire Bharata dynasty, which lent India its name, only Bharata and Suhotra are remembered as cakravartins, and they are early kings in the line. What of the Bharatas mentioned in the Ṛg Veda—Sudās, Divodāsa, Sṛñjaya, Devavāta, Vadhryāśva, Devaśravas, Sahadeva and Somaka? Why has an entire dynasty, clearly pivotal to ushering mature Indian civilisation, been ignored by historical tradition?
 

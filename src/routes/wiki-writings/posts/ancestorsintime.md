@@ -59,6 +59,6 @@ passed no lore down their lines.
 in their yarns is no account of the past,  
 do not look and do not find.  
 
-##### the wheel was innovated by no one. the grain tilled itself. the vṛṣabha came willingly to help. the mantra was seen by no seer.
+### the wheel was innovated by no one. the grain tilled itself. the vṛṣabha came willingly to help. the mantra was seen by no seer.
 
-##### outside of time.
+### outside of time.

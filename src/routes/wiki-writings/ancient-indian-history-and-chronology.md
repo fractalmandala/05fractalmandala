@@ -13,19 +13,18 @@ This page collects the corpus devoted to deep Indian antiquity, the reconstructi
 - Treating history as both civilizational memory and narrative inheritance.
 
 ## Source Summaries
-
-- `broadcontours.md` - Sketches a very long chronology from the Younger Dryas to the Mahabharata, arguing for civilizational continuity in India from deep antiquity.
-- `chronology.md` - Proposes an integrated framework tying together Holocene geology, Indus-Sarasvati periodization, Vedic chronology, yugas, and Puranic genealogies.
-- `dasavatarachronology.md` - Interprets the Dashavatara as a layered civilizational memory and chronology rather than a simple allegory of Darwinian evolution.
-- `macrohistoriccase.md` - Argues that Indian civilization addressed recurring civilizational problems earlier and more deeply than others, making India civilizationally primary.
-- `mandhatra.md` - Internal note around Mandhatra, preserving a dynastic or historical thread for later development.
-- `onhistory.md` - Extended reflection on the reality of history, the limits of modern historicism, and the need for macrohistorical thinking.
-- `rakhigarhi.md` - Uses the Rakhigarhi site to support a deeper and more indigenous framing of Indian antiquity.
-- `rigvedicchronology.md` - Works through how the Rigveda can still be historically dated despite its apaurusheya status, especially by distinguishing composition from later assembly.
-- `somavanshalegacy.md` - Fiction-linked note preserving the Somavansha as a dynastic memory and literary-historical line.
-- `suryavanshadyn.md` - Internal historical note on the Suryavansha dynasty and its place in early Indian memory.
-- `historyvsitihasa.md` - Distinguishes empirical history from Itihasa, arguing that Itihasa preserves ontological rather than merely ontic truth.
-- `rammandiraphorisms.md` - Condenses arguments around the Ram Mandir issue into brief civilizational propositions.
+  - [Broad Contours](/wiki-writings/posts/broadcontours) - Sketches a very long chronology from the Younger Dryas to the Mahabharata, arguing for civilizational continuity in India from deep antiquity.
+  - [Chronology](/wiki-writings/posts/chronology) - Proposes an integrated framework tying together Holocene geology, Indus-Sarasvati periodization, Vedic chronology, yugas, and Puranic genealogies.
+  - [Dasavatara Chronology](/wiki-writings/posts/dasavatarachronology) - Interprets the Dashavatara as a layered civilizational memory and chronology rather than a simple allegory of Darwinian evolution.
+  - [Macrohistoric Case](/wiki-writings/posts/macrohistoriccase) - Argues that Indian civilization addressed recurring civilizational problems earlier and more deeply than others, making India civilizationally primary.
+  - [Mandhatra](/wiki-writings/posts/mandhatra) - Internal note around Mandhatra, preserving a dynastic or historical thread for later development.
+  - [On History](/wiki-writings/posts/onhistory) - Extended reflection on the reality of history, the limits of modern historicism, and the need for macrohistorical thinking.
+  - [Rakhigarhi](/wiki-writings/posts/rakhigarhi) - Uses the Rakhigarhi site to support a deeper and more indigenous framing of Indian antiquity.
+  - [Rigvedic Chronology](/wiki-writings/posts/rigvedicchronology) - Works through how the Rigveda can still be historically dated despite its apaurusheya status, especially by distinguishing composition from later assembly.
+  - [Somavansha Legacy](/wiki-writings/posts/somavanshalegacy) - Fiction-linked note preserving the Somavansha as a dynastic memory and literary-historical line.
+  - [Suryavansha Dynasty](/wiki-writings/posts/suryavanshadyn) - Internal historical note on the Suryavansha dynasty and its place in early Indian memory.
+  - [History vs Itihasa](/wiki-writings/posts/historyvsitihasa) - Distinguishes empirical history from Itihasa, arguing that Itihasa preserves ontological rather than merely ontic truth.
+  - [Ram Mandir Aphorisms](/wiki-writings/posts/rammandiraphorisms) - Condenses arguments around the Ram Mandir issue into brief civilizational propositions.
 
 ## Cross-References
 

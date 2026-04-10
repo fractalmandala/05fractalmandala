@@ -22,17 +22,17 @@ Now let’s come to the meatier part, to the idea of an inclusive India. What do
 
 There exists a continuum of languages, culture, customs, rituals, trade, science, astronomy and hundreds of other practices that not only have their origin in India, but have survived here for at least 6 millennia (in fact far longer). This. Is. India. Of the 45-odd world heritage cultures that the UNESCO recognises, 44 are extinct cultures. The 45th is India. Long before we even had words like inclusive and secular, when persecuted Jews took refuge in India, when persecuted Christians took refuge in India, and when persecuted Buddhists and Zoroastrians took refuge in India- that is India.
 
-##### It has a history of being inclusive and plural even if 80% of Indians believe in someone called Rama, or at least in the sanctity of his story.
+### It has a history of being inclusive and plural even if 80% of Indians believe in someone called Rama, or at least in the sanctity of his story.
 
 A story, mind you, that is so indelible that it is known even in Indonesia, Thailand, Malaysia and other south-east Asian countries. Rama or his dynasty never waged war on Thailand, never conquered it. But Thai kings consider themselves Rama’s descendants and called their old capital Ayutthaya. I do not know what Harsh’s India is, but this is the India of millions of people. There is no other nation, culture, civilisation or religion in the world with the above to its credit. When the state of Israel was formed, it formally thanked India for being the only nation that never persecuted Jews. When a non-inclusivist religion conquered most of India’s neighbours and eradicated local cultures, they found refuge in India. It’s laughable that such a nation must now be reminded of or appraised on its inclusivity by modern intellectuals.
 
 My India is still very much an inclusive nation, so inclusive that it accommodates the fact that the only surviving major non-Abrahamic culture in the world (they either killed the rest or converted them, so much for their inclusivity) deserves its holy land, just like they have their Vaticans, Jerusalems and Meccas.
 
-##### I see no violation of any secular ideal in allowing Hindus their sacred land, in the only land in the world where their religion sprung and has survived for thousands of years.
+### I see no violation of any secular ideal in allowing Hindus their sacred land, in the only land in the world where their religion sprung and has survived for thousands of years.
 
 Anyone truly concerned about a plural and diverse society should welcome Hinduism finding its moors again. If they don’t, I again invite them to remind us of all the other surviving plural and inclusive cultures of the world, any that have survived the Abrahamic onslaught of the past 1400-2000 years. Where in fact do India’s inclusive ethos come from? We were last ruled by the British, who were anything but inclusive and anyone making the opposite case deserves to be laughed off. Prior to the British, we had a spate of Islamic rulers who destroyed at least 40,000 temples, burnt countless Indic texts, enslaved and sold thousands of Indians, and forced conversions to Islam. I’m certain that none possessed of intellectual honesty would consider this a period of stellar inclusivity, even if we are to accept the propaganda of Akbar and din-i-ilahi. So at least in the last 700-odd years, India’s rulership has not been inclusive to any significant degree. Clearly, for us to state that India has an inclusive ethos, we need to go further back in time to find the roots, and this takes us to the existential problem for modern secularism.
 
-##### It fails to understand that secularism can co-exist with a happy appreciation for the one culture in India that can actually provides basis and psychology for it- Hinduism. You cannot derive secularism from the Quran or the Bible, though apologists do not tire of trying.
+### It fails to understand that secularism can co-exist with a happy appreciation for the one culture in India that can actually provides basis and psychology for it- Hinduism. You cannot derive secularism from the Quran or the Bible, though apologists do not tire of trying.
 
 The above rant done, let us now address the article point-by-point:
 
@@ -98,6 +98,6 @@ Funny how while I disagree with the first statement here, I completely agree wit
 
 To sum up, I find in Harsh’s article excessive hyperbole and the kind of Hinduphobia modern secularism is stained with. I should even confess I recognise it better now since for long years I carried it too.
 
-##### We have no qualms lauding India’s inclusive ethos and plural identity, but we seem to find an ideological block in admitting where these ethos are truly rooted.
+### We have no qualms lauding India’s inclusive ethos and plural identity, but we seem to find an ideological block in admitting where these ethos are truly rooted.
 
 We seem to forget that were India not imbibed with its characteristic Hindu tolerance, it would likely not be a democracy at all. We forget, that everywhere else in the world that Abrahamic faiths took majority, tolerance and diversity were consigned to the dustbin. We need not look too far. Afghanistan lost its Buddhist culture, Pakistan killed its Hindu culture, and Iran’s own children, the Parsis, had to flee their country. None of that has happened in India. And to pretend that it could happen now because Hindus have reclaimed ramjanmabhoomi is either ignorant fear mongering or malicious agenda driving- I’m yet to figure out which.

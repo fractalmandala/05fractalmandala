@@ -13,23 +13,21 @@ This page gathers the speculative fiction, mythic retellings, sci-fi, dynastic s
 - Mythic and sacred imagination extended into genre fiction.
 
 ## Source Summaries
-
-- `acontact.md` - Sci-fi story about a lonely AI explorer whose cosmic contact transforms its understanding of the multiverse.
-- `aneniatsvarajya.md` - Dharmic science-fiction tale set on Svarajya, where advanced technology and Vedic culture coexist.
-- `anika.md` - Internal story draft for “The Celestial Loom,” a Hindupunk narrative blending cybernetics and cosmic consciousness.
-- `eternalseven.md` - Short creation-style story about the emergence of the seventh Eternal.
-- `giveropeiclimb.md` - Internal fragmentary note preserving language, themes, or phrases for a future narrative project.
-- `janapadaplotting.md` - Extensive chapter-by-chapter plot architecture for a Sudas-centered Bharata saga.
-- `leksgambit.md` - Dramatic science-fiction ceasefire story staged between advanced warships.
-- `lightofmasters.md` - Brief internal fiction or concept fragment preserved for future development.
-- `religioninkadorra.md` - Worldbuilding note detailing religious systems and histories within the fictional world of Thea/Kadorra.
-- `sealofsurya.md` - Fictionalized account of Ikshvaku and the founding of the Suryavansha.
-- `somavanshalegacy.md` - Seed note for a Nahusha-centered Somavansha fiction project.
-- `story-exercise.md` - Trial story exercise around Yati and Yayati.
-- `thedepths.md` - Horror-fantasy tale of archaeologists awakening Naga guardians beneath Indraprastha.
-- `thejanapada.md` - Part 1 of a historical-fiction epic centered on Sudas and the Bharata line.
-- `voidseraphs.md` - Space opera about Captain Aria Zenith, the Starlance crew, and a galactic struggle against the Void Seraphs.
-- `parental.md` - Brief internal note or concept placeholder related to parental controls or a future story/tool idea.
+- [A Contact](/wiki-writings/posts/acontact) - Sci-fi story about a lonely AI explorer whose cosmic contact transforms its understanding of the multiverse.
+- [Aneni at Svarajya](/wiki-writings/posts/aneniatsvarajya) - Dharmic science-fiction tale set on Svarajya, where advanced technology and Vedic culture coexist.
+- [Anika](/wiki-writings/posts/anika) - Internal story draft for “The Celestial Loom,” a Hindupunk narrative blending cybernetics and cosmic consciousness.
+- [Eternal Seven](/wiki-writings/posts/eternalseven) - Short creation-style story about the emergence of the seventh Eternal.
+- [Janapada Plotting](/wiki-writings/posts/janapadaplotting) - Extensive chapter-by-chapter plot architecture for a Sudas-centered Bharata saga.
+- [Lek's Gambit](/wiki-writings/posts/leksgambit) - Dramatic science-fiction ceasefire story staged between advanced warships.
+- [Light of Masters](/wiki-writings/posts/lightofmasters) - Brief internal fiction or concept fragment preserved for future development.
+- [Religion in Kadorra](/wiki-writings/posts/religioninkadorra) - Worldbuilding note detailing religious systems and histories within the fictional world of Thea/Kadorra.
+- [Seal of Surya](/wiki-writings/posts/sealofsurya) - Fictionalized account of Ikshvaku and the founding of the Suryavansha.
+- [Somavansha Legacy](/wiki-writings/posts/somavanshalegacy) - Seed note for a Nahusha-centered Somavansha fiction project.
+- [Story Exercise](/wiki-writings/posts/story-exercise) - Trial story exercise around Yati and Yayati.
+- [The Depths](/wiki-writings/posts/thedepths) - Horror-fantasy tale of archaeologists awakening Naga guardians beneath Indraprastha.
+- [The Janapada](/wiki-writings/posts/thejanapada) - Part 1 of a historical-fiction epic centered on Sudas and the Bharata line.
+- [Void Seraphs](/wiki-writings/posts/voidseraphs) - Space opera about Captain Aria Zenith, the Starlance crew, and a galactic struggle against the Void Seraphs.
+- [Parental](/wiki-writings/posts/parental) - Brief internal note or concept placeholder related to parental controls or a future story/tool idea.
 
 ## Cross-References
 

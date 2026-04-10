@@ -45,16 +45,16 @@ To help you prepare for your 2-hour workshop on "Advanced AI Tools, Data Analyti
 
 ### Workshop Outline
 
-#### Part 1: Overview of Advanced AI Tools (30 minutes)
+## Part 1: Overview of Advanced AI Tools (30 minutes)
 - **Introduction to AI Tools**: Discuss various AI tools that are currently at the forefront of technology, including machine learning frameworks, deep learning platforms, and automated data processing systems.
 - **Examples and Applications**: Highlight specific tools such as TensorFlow, PyTorch, Google AI Platform, and IBM Watson, and discuss their unique features and applications in different industries.
 
-#### Part 2: Importance of Data Analytics and Visualization in AI (30 minutes)
+## Part 2: Importance of Data Analytics and Visualization in AI (30 minutes)
 - **Role of Data Analytics**: Explain how data analytics is used in AI to make data-driven decisions and to train predictive models.
 - **Data Visualization**: Discuss the significance of visualizing data for insights, showcasing tools like Tableau, Power BI, and Google Data Studio.
 - **Case Studies**: Provide examples from healthcare, finance, and retail to illustrate the impact of effective data analytics and visualization.
 
-#### Part 3: Hands-On Session on Using AI Tools for Data Analytics and Visualization (1 hour)
+## Part 3: Hands-On Session on Using AI Tools for Data Analytics and Visualization (1 hour)
 - **Setup Instructions**: Guide participants on setting up a simple AI tool environment using platforms like Google Colab or Jupyter Notebooks.
 - **Practical Exercise**: Create a small project where participants use Python libraries like Matplotlib, Seaborn for data visualization, and Scikit-Learn for data analytics.
   - **Task 1**: Load and analyze a dataset using Pandas.

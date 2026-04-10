@@ -11,7 +11,7 @@ kind: posts
 ---
 I'm 36 now, nearing 37, but if I look back and ask- *what have I learnt/realised* about/in life, no particular wisdom or epiphany jumps to mind. There is however one fundamental realisation I had quite some time back.
 
-##### Anything you want to do in life is possible. Anything at all. You just have to do it.
+### Anything you want to do in life is possible. Anything at all. You just have to do it.
 
 Sounds pithy, maybe, but I do believe it. The difference between what is in our heads/desires and what really is, is measured simply by our actions or the lack of them. I cannot help but be amused, and at times irritated, by people who bemoan- i want to be a writer, oh I want to learn the guitar, I wish I could do what you do, and infinite variations of such.
 
@@ -23,4 +23,4 @@ Any reader who is a writer, or a coder, or a designer, is likely to attest to th
 
 I often have people tell me, "*I want to be a writer, how do I go about it?" *My response is always the same- "*what's stopping you?"  *In fact, all of this is all the more amusing when one remembers that adage we're all taught in childhood,
 
-##### god helps those who help themselves...
+### god helps those who help themselves...

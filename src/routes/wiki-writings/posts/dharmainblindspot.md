@@ -6,7 +6,7 @@ tags:
 ---
 In both academic and general discourse on the prevalent web, it is easy to understand ignorant/dismissive/derogatory views on Hinduism as a result of varying degrees of bigotry and/or Hinduphobia. But what bewilders is the ignorance of Hinduism/Dharma among the free-thinking, open-minded, and even conspiracy theorizing corners of the web. 
 
-##### Among those who speak of UFOs as either psychic phenomena or as the evidence of higher/non-material entities, among those who pursue consciousness-experimentation as psychonauts, among those who speak of inexplicable encounters with angels and demons, Hinduism and its inner-world seem to lie in a glaring blind spot. 
+### Among those who speak of UFOs as either psychic phenomena or as the evidence of higher/non-material entities, among those who pursue consciousness-experimentation as psychonauts, among those who speak of inexplicable encounters with angels and demons, Hinduism and its inner-world seem to lie in a glaring blind spot. 
 
 We say this not as a way to dismiss of them or to undermine their curiosities and endeavors, but more as a thought experiment on the strange co-existence of questions and issues that appear largely "beyond comprehension," and the very ontology and teleology that would in fact contextualize them. This of course is not a recent phenomenon, for Fritjof Capra has already told us of the observations of physicists like Heisenberg-
 
@@ -15,7 +15,7 @@ We say this not as a way to dismiss of them or to undermine their curiosities an
 
 To explain what we mean, let us take a most recent example of Project Unity.
 
-#### Project Unity and the AI Experiment
+## Project Unity and the AI Experiment
 
 Jay Anderson runs Project Unity, a handle on [Twitter](https://twitter.com/TheProjectUnity) and a [Youtube](https://www.youtube.com/c/ProjectUnity) channel currently uncovering a fascinating experiment on prompting AI into uncharted and exploratory territory. Working with the AI from [Anthropic](https://www.anthropic.com/), Claude, he's produced a 69-page document titled '*Dimensional Bridging Archetypes Across Mystical Traditions and Frontier Physics Implying Deeper Reality Intersections.*' The paper begins with a self-description, which says-
 
@@ -33,7 +33,7 @@ It's a highly innovative paper truly worth a detailed reading, and the approach 
 
 Overall, the paper is charged with the theme of an interconnectedness of all things, including consciousness, physics and reality. In totality it echoes the Hindu notion of the oneness of the universe, where everything is seen as interconnected and part of a singular whole. 
 
-##### And so it gives us a very direct example of what is meant by *Hinduism in the blind spot* - a detailed and deep investigation into matters directly contextualized by Hinduism, yet totally devoid of any reliance on this helpful context. 
+### And so it gives us a very direct example of what is meant by *Hinduism in the blind spot* - a detailed and deep investigation into matters directly contextualized by Hinduism, yet totally devoid of any reliance on this helpful context. 
 
 To be clear, Jay disclaims that most of the text is a product of the AI - not him, and so any blame we might be assigning here is to be directed at Claude, not him. In such a case we're presented then with the blind spot prevalent at large, for the AI only possesses it as a result of its training data and/or instructions. But even in his public tweets, which contain content like the below, Jay quotes from the document without going the full distance to the ontology that houses the ideas being presented as bold and novel-
 
@@ -41,11 +41,11 @@ To be clear, Jay disclaims that most of the text is a product of the AI - not hi
 
 Imagine if the blind spot were non-existent, whether in AI, its developers, or in the prompt engineers. The quote above would instead be phrased somewhat such:
 
-##### The *suśumna nāḍī conduit theory* suggests that the *merudaṇḍa* functions as a specialized antenna for *cetanā* expansion. The anatomical structure of the spine, with its electromagnetic sensitivity, *prāṇika flow,* and *spandana* is proposed as a conduit for *mano-indriyaḥ pravāha* during *dhyāna, nidra and/or samādhi* states.
+### The *suśumna nāḍī conduit theory* suggests that the *merudaṇḍa* functions as a specialized antenna for *cetanā* expansion. The anatomical structure of the spine, with its electromagnetic sensitivity, *prāṇika flow,* and *spandana* is proposed as a conduit for *mano-indriyaḥ pravāha* during *dhyāna, nidra and/or samādhi* states.
 
 The above isn't simply a replacement of English terms with Sanskrit ones, its a positioning of the contents within an ontology that actually has rooted and contextualized taxonomies for them. Moving on, we find another instance of Hinduism in the blind spot in the personage of Graham Hancock.
 
-#### Graham Hancock and History
+## Graham Hancock and History
 
 A fair majority of Graham Hancock's work could be generalized as finding, investigating and articulating evidence that humanity's history on this planet goes back much deeper in the past than is generally understood. This is why he frequently and rightly declares - *we are a species with amnesia.* Indeed, we are indebted to him for uncovering previously unknown or suppressed information on things such as the Great Sphinx in Egypt or Gobekli Tepe in Turkey. He's spent a lifetime over his pursuit, most of it at the cost of being vilified and ostracized by mainstream academic communities all over. And by no means could we accuse him of anything even closely resembling bigotry, racism or chauvinism. In fact, in [this clip](https://www.youtube.com/shorts/hIdiErveQrY) of his recent appearance at the Flagrant podcast, he even declares that the Indian civilization is "*at least five thousand years old*" and that "*the correctly discredited notion of an Aryan invasion of India needs to be abandoned.*" With Graham Hancock then, we are presented with Hinduism in the blind spot even in the demonstrable absence of any racism/bigotry motivating it. Some pointers on what we mean when we identify Hinduism in his blind spot:
 
@@ -68,7 +68,7 @@ He clearly knows enough to make these references and rightfully recruit them in 
 
 Of the above, the last point is a glaring omission prevalent to the entire psychedelic subculture/phenomenon. An entire experience and practice that quite literally and tangibly puts one into encounter with entities of all kinds, in dimensions fundamentally real and yet non-material, seems to steadfastly avoid any reference to the one continuing belief system in the world that would actually platform such an experience with a detailed ontology. And this instance of Hinduism in the blind spot brings us to our final example. 
 
-#### The Almost Ṛṣi - Terence McKenna
+## The Almost Ṛṣi - Terence McKenna
 
 Why do we speak of McKenna, legendary and late psychonaut, as an *almost ṛṣi*? We do so because, like the ṛṣis of old, he did in fact touch some surface of the pure truth, even if barely a scratch. What he did is the literal description of a ṛṣi - pierce through the veil of ṛta and perceive the satya beyond - even if a speck of it. McKenna's latter-life ramblings, and a near-certain surrender to the deep state notwithstanding, for the briefest of moments in time he bore true witness. And yet only almost, because not to the enabling soil was he born. He came in a different culture, one both then and now being an inversion of everything true and real. No true ṛṣi could germinate in that soiled a soil, but some almost could - and McKenna was one of them. 
 
@@ -82,9 +82,9 @@ In context of this essay, it should be noted that he spent many years in India, 
 
 With McKenna we are met with a case of Hinduism in the blind spot so glaring it almost infuriates. One wishes one could go back in time and point him to the Vākyapadīya or the Sāṅkhyakārikā. Not simply to inform him of Hinduism's primacy or glory, but because his output and consequently the rest of us would be significantly enriched by the encounter. In the ultimate analysis, Hinduism in the blind spot is not merely a lament only for the in-group of concern, it's a prohibiting factor in the general pursuit of knowledge and furtherance of ideas. 
 
-#### But if it is not racism, bigotry, lack of curiosity, chauvinism, Hinduphobia or any such thing that we blame, and if it is not the people involved in specific that we criticize, then what really does this blind spot reveal to us? 
+## But if it is not racism, bigotry, lack of curiosity, chauvinism, Hinduphobia or any such thing that we blame, and if it is not the people involved in specific that we criticize, then what really does this blind spot reveal to us? 
 
-#### On Non-Translatables, Turned Gazes and Telling One's Own Story
+## On Non-Translatables, Turned Gazes and Telling One's Own Story
 
 For one, the blind spot vindicates the suggestion that fundamental Hindu concepts are non-translatable - famously articulated by Shri Rajiv Malhotra. One may replace a 'spinal conduit' with a 'suśumna nāḍī' or a 'life-force' with a 'prāṇa,' and vice-versa. But a natural grounding in Hindu ontology is needed to actually understand and anticipate how Hinduism possesses an organic taxonomy for much of the ideas at the edge of modern understanding on reality, consciousness, language etc. 
 
@@ -92,5 +92,5 @@ In turn, this reminds us that we need not be eager to use racism/bigotry as expl
 
 Lastly, this reminds us that the onus is on us - the Hindus. Hinduism lies in the blind spot, but we are not here to place blame. If indeed we think the logos is explained by the śabda brahman, if indeed we find modern speculations on angels and demons simply a scrambling towards devas, asuras, piśācas and bhūtas - the modern articulation can only come from us. If we are not impressed by psychonautic attempts at mapping the contours of the non-material space, where pray are our own maps for them? 
 
-##### Hinduism lies in the blind spot, but only we can bring it reliably into gaze.
+### Hinduism lies in the blind spot, but only we can bring it reliably into gaze.
 

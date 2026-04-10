@@ -13,23 +13,22 @@ This page gathers the sources concerned with artificial intelligence, technologi
 - Critical resistance to “disruption” myths and Big Tech ideology.
 
 ## Source Summaries
-
-- `ai.md` - Reflects skeptically on current AI, treating LLMs as powerful statistical systems but not yet full intelligence.
-- `artificialintelligenceishere.md` - Considers AI’s arrival as a civilizational event with cultural and ethical stakes.
-- `civilization2.md` - Speculates on blockchain as infrastructure for a transformed civilization.
-- `criticalpath.md` - Uses Buckminster Fuller’s idea of the critical path to think about technological progress and human development.
-- `cryptoprimer.md` - Introductory explanation of blockchain and cryptocurrency with an emphasis on conceptual foundations.
-- `disruptionandbigtech.md` - Critiques the celebratory myth of disruption and the social costs of Big Tech ideology.
-- `futuredevatatechnologies.md` - Experimental Claude-generated thought exercise imagining technologies for interfacing with devatas.
-- `gptbotsbuilt.md` - Catalogs custom GPT bots built for Sanskrit, philosophy, coding, Hindu ontology, and analysis tasks.
-- `greatappsandtech2023.md` - Year-end roundup of software, tools, and technologies that shaped the author’s work in 2023.
-- `imagegenai.md` - Reviews the generative AI art tool landscape of 2023.
-- `midjourney.md` - Personal history of digital art tools culminating in AI image generation and Midjourney.
-- `opensourcellms.md` - Introductory overview of open-source large language models and their importance.
-- `paymentsapi.md` - Internal payment API note preserved as part of the future systems/tooling layer.
-- `razorpay.md` - Short internal note tied to payment tooling and integration ideas.
-- `ruff.md` - Internal Claude-generated workshop outline covering advanced AI tools, analytics, and visualization.
-- `time-travel.md` - Speculative argument for why time travel is impossible, extending the broader future-systems imagination.
+- [AI](/wiki-writings/posts/ai) - Reflects skeptically on current AI, treating LLMs as powerful statistical systems but not yet full intelligence.
+- [Artificial Intelligence is Here](/wiki-writings/posts/artificialintelligenceishere) - Considers AI’s arrival as a civilizational event with cultural and ethical stakes.
+- [Civilization 2.0](/wiki-writings/posts/civilization2) - Speculates on blockchain as infrastructure for a transformed civilization.
+- [Critical Path](/wiki-writings/posts/criticalpath) - Uses Buckminster Fuller’s idea of the critical path to think about technological progress and human development.
+- [Crypto Primer](/wiki-writings/posts/cryptoprimer) - Introductory explanation of blockchain and cryptocurrency with an emphasis on conceptual foundations.
+- [Disruption and Bigtech](/wiki-writings/posts/disruptionandbigtech) - Critiques the celebratory myth of disruption and the social costs of Big Tech ideology.
+- [Future Devata Technologies](/wiki-writings/posts/futuredevatatechnologies) - Experimental Claude-generated thought exercise imagining technologies for interfacing with devatas.
+- [Gptbots Built](/wiki-writings/posts/gptbotsbuilt) - Catalogs custom GPT bots built for Sanskrit, philosophy, coding, Hindu ontology, and analysis tasks.
+- [Great Apps and Tech 2023](/wiki-writings/posts/greatappsandtech2023) - Year-end roundup of software, tools, and technologies that shaped the author’s work in 2023.
+- [Image Gen AI](/wiki-writings/posts/imagegenai) - Reviews the generative AI art tool landscape of 2023.
+- [Midjourney](/wiki-writings/posts/midjourney) - Personal history of digital art tools culminating in AI image generation and Midjourney.
+- [Open Source LLMs](/wiki-writings/posts/opensourcellms) - Introductory overview of open-source large language models and their importance.
+- [Payment API](/wiki-writings/posts/paymentsapi) - Internal payment API note preserved as part of the future systems/tooling layer.
+- [Razorpay](/wiki-writings/posts/razorpay) - Short internal note tied to payment tooling and integration ideas.
+- [Ruff](/wiki-writings/posts/ruff) - Internal Claude-generated workshop outline covering advanced AI tools, analytics, and visualization.
+- [Time Travel](/wiki-writings/posts/time-travel) - Speculative argument for why time travel is impossible, extending the broader future-systems imagination.
 
 ## Cross-References
 

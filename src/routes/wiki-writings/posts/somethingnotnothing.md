@@ -16,7 +16,7 @@ kind: posts
 
 It’s a relevant query to ask- why do we exist in the first place? Why does this universe exist? Why such diversity and complexity of life? There is nothing necessarily theological about these questions. It is not akin to asking, as often suggested- whose slave shall I be if there is no master? To deny the most fundamental question of _why_ is to deny what differentiates our self-awareness from that of other species. To be a homo sapien **is to ask why. There are those who remind us that it’s arrogant to assume that the ultimate reality of this universe should be perceivable to our ape minds. I’m aware of the biological limits to our cognition, but I refuse to be drawn into semantic debates. Obviously, what we attempt to do is to understand reality to _the best of_ our ape capabilities, and the observation that there is an upper limit to our cognition is not an argument for surrender in the midway. In answering the question of origin, we will examine three broad fields: theological, scientific and speculative.
 
-#### The Theological Explanations
+## The Theological Explanations
 
 In short- God did it.
 
@@ -104,7 +104,7 @@ Y- On the worlds of Brahma.
 
 G- On what are the worlds of Brahma woven?
 
-##### Y- Gargi, don’t ask too many questions or your head will split open. You ask too many questions about something which too many questions should not be asked.
+### Y- Gargi, don’t ask too many questions or your head will split open. You ask too many questions about something which too many questions should not be asked.
 
 The Upanishad tells us that poor Gargi fell silent at that rejoinder. Another way the ancient Vedics solved the fundamental question is by viewing time as cyclical. In traditional Vedic cosmology, the universe is cyclically created and destroyed over a timespan of nearly 9 billion years (modern physics places the age of our universe at around 14 billion years). This solves the question of origin, but it still leaves us asking why the endless chain of creation and destruction exists in the first place. Of course, if we view brahman as the source of this chain, the link is complete. There exist both similar and varying views in other cultures- Egyptian, Sumerian, Aztec, Greek, etc. We won’t go into the details of each of them, for the Vedic model is illustrative enough of how theology tackles tough questions.
 
@@ -118,7 +118,7 @@ All variations of the theological model solve the problem of origin through posi
 
 To be fair, without conceptualising this sort of an absolute brahman, we are fated to dally in endless regressions. The ancient Indians clearly realised this, and as we’ll later see, so do neo-Platonic mathematicians such as Max Tegmark. But it is also fair to ask why this world is considered an illusory representation of the absolute, while the latter is considered causal to it. We will visit these questions in greater detail in the chapter on consciousness. For now, as we move on to examining scientific models, it is worth spending some time on understanding the various human fields of inquiry and their characteristics. We’ve previously discussed how science is the body of knowledge we produce when using the scientific method. The scientific method has universal applicability, and nothing says it must be confined to physics, chemistry and biology. These sciences are simply descriptions of reality, working on us through different layers. As we will see, different layers of our reality originated at different moments in time.
 
-#### Making Sense of It All: Human Discplines of Inquiry
+## Making Sense of It All: Human Discplines of Inquiry
 
 Reality is made of processes. From gravity and natural selection to neurotransmission, the world works because these processes exist. They form the basis for a deist explanation of existence, which defines god as a clockmaker that wound this universe up and set it off. The clockmaker built mechanics and other laws into this clock, and need not interfere in its life after creation. But that’s yet another way of surrendering to the necessary gap cheaply, and god is a placeholder in a deist model.
 
@@ -140,7 +140,7 @@ This difference between objective and consensual realities gives rise to alterna
 
 Thus, while consciousness and all that precedes it are essential to explain this universe, they are not enough. There exist social processes that directly impact the very mind that perceives all previous layers of reality. The study of these processes is called history, and we ask forgiveness from social scientists for lumping linguistics, philosophy, anthropology and archaeology under this umbrella. Allowing for such broad sweeps in how we paint the canvas, these disciplines reflect the combined attempt of humanity to make sense of what is going on. Let us now see what the best of our application has to say about origin.
 
-#### The Scientific Explanation
+## The Scientific Explanation
 
 In the previous section we saw how the laddered view of the universe tells us that the universe came before life, which in turn came before mind. But we will give the issue of mind a separate section, so the scientific fields of interest here are biogenesis and cosmogony, the origin of life and universe respectively.
 

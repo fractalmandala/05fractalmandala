@@ -14,7 +14,7 @@ kind: posts
 
 *In this article I visit the ideological and political aspects of cryptocurrency to explain why it seems like such a big deal, and why people who get into this world quickly become staunch evangelists. Please note that in this article we will not go into the technicalities, so I will not spend time explaining what blockchain technology is or how it works. In this article we simply take this as accepted and examine the philosophy behind it.*
 
-#### The Philosophy in One Word
+## The Philosophy in One Word
 
 If there’s one word that encapsulates the entire movement- it’s decentralization. Decentralization is the idea that individuals or groups of individuals can interact and transact with each other without needing third parties to validate, monitor, police or regulate these interactions. In this sense, the idea of decentralization that blockchain technology furthers is perhaps the most revolutionary idea in the history of humanity. If you go back in our evolutionary history, much of our success has been enabled by our ability to co-ordinate in large numbers across space and time. It is even argued that this is why we won while the Neanderthals went extinct. While thousands and thousands of homo sapiens could organize together under the banner of, say, an imagined deity, Neanderthal groups could rarely co-ordinate beyond their immediate tribal group and geography.
 
@@ -26,7 +26,7 @@ Using the power of blockchain, human interactions no longer need these middle-me
 
 Bitcoin itself is modelled not on fiat currencies, but on gold. The idea was that, like gold, Bitcoin must have an intrinsic value, not be subject to too much volatility, have a finite supply, and be used for payments and transactions. In this way, world governments or financial institutions would not be able to artificially inflate or deflate its value, and storing Bitcoin could be as reliable as storing gold. Bitcoin thus became the first workable decentralized currency- it was not created or controlled by any single power. Instead, its value and creation were spread over thousands of nodes on the internet. In this way Bitcoin was the first step our species took towards decentralized coordination.
 
-#### A New World Before Our Eyes
+## A New World Before Our Eyes
 
 But a decentralized currency is not all we need. In a decentralized world, we need to be able to transact and interact even without knowing or trusting the other party. In the current world, this is again where banks, brokers and agents of all kinds step in. When you want to buy a piece of property, you need a broker to ensure that all documents are in order and the other party needs an agent to ensure they receive the money committed to them. This is again a situation of centralized power. Neither you nor the property seller will commit to a deal when you don’t know or trust each other. The centralized power is able to spend on its brand and recruitment, so knowing its name and seeing its ads you trust it to be a reliable intermediary for you. This is just one example, but one can think of many fields and interactions where there exist middlemen who act as “trust-figures” so that two independent human beings can interact.
 
@@ -34,13 +34,13 @@ This is where the idea of smart contracts comes in. Built using blockchain techn
 
 Now imagine a smart contract based ecommerce platform. Here there are only buyers and sellers. The algorithm of the contract knows how to check for “sale made validly” and “payment done validly.” Putting this into the smart contract removes the need for Amazon or Flipkart guarantees. Here, you can trust the algorithm and know that you will get what you paid for. This is of course only a small example. Blockchain and smart contracts are sliding their way into several industries, from banking and real estate to recruitment and health management.
 
-#### Why this is Important
+## Why this is Important
 
 So imagine now the new world- one where human interactions are managed through smart contracts built over blockchains. There are no centralized power keepers, no middlemen that live off rent and interest alone, and no financial power-brokers who decide the wealth fortunes of billions. This is the world that blockchain promises to give us, and it explains why it increasingly worries the State and financial ‘leaders’ of the world. We have with us, for the first time in human history, a technology that would allow us to coordinate and cooperate at massive scales- except this time we will not have to do it while ALSO accepting a King, a Government, a Central Bank and all those ways in which the elite have kept everyone else in check throughout civilization. The crypto trading boom of 2017 is only the tip of the iceberg, and it’s entirely fair to say that the revolution lies in the technology itself, not its currencies and tokens.
 
 Take the example of a charming idea I read about. A startup called Demeter seeks to take agriculture onto the blockchain. One way they want to do it is by connecting farmers with buyers directly- so that anyone in the world can ‘rent’ a farm anywhere else and pay to consume its produce directly to the farmer. Several logistical questions notwithstanding, this is a good example of the many ways in which blockchain will truly decentralize and thus democratize the planet.
 
-#### Who are the Believers?
+## Who are the Believers?
 
 So who are the people taking to this readily? Here, we are not talking about the many people who are buying cryptos only to be able to retire by 2020 or buy a plot of land on Mars by 2030. We’re talking about the true believers- ones who were pulled into this world first by the philosophy and relevance we’ve discussed above. The story for this begins, somewhat, in the 1980s- when a group of people began realizing that the spread of the internet was going to change privacy, anonymity and freedom forever. They called themselves the Cypherpunks, and ideologically affiliated themselves to crypto-anarchy. This gives us our first hint- for anarchy is at the heart of the matter. We do not mean of course the bomb and spread chaos kind of anarchy. We refer to this word in its simplest sense- an arch. Or without a ruler.
 

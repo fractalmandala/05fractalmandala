@@ -13,13 +13,13 @@ We all have that friend who went to Amsterdam, tripped on truffles, and experien
 
 The idea of mapping the psychedelic experience across five levels emerges from Timothy Leary, who translated the Bardo states mentioned in the Tibetan Book of Dead into the five levels we know today. Since then other psychonauts have added to it, and some have suggested slightly different interpretations. The basic gradations however remain the same, as well as the well-identified characteristics of each level.
 
-#### Level 1 – I’m Feeling Goood
+## Level 1 – I’m Feeling Goood
 
 We begin the psychedelic experience at the lowest tangibly differentiable state. For most people, the best way to know whether you’re on level 1 or not is to listen to music. Under level 1 we begin to perceive a marked difference in the quality of music. To some, it even conveys direct meaning or imagery simply through vibration. Other symptoms include a general uplifting of mood and sociability. 
 
 Anyone who’s been even remotely stoned knows what level 1 feels like, though the level 1 of cannabis is still significantly different than the level 1 of psilocybin or MDMA. Even the onset and recognition of this level is a different experience for every substance. 
 
-#### Level 2 – And So It Begins
+## Level 2 – And So It Begins
 
 It doesn’t take too many experiences for one to figure out that level 2 is where the party really begins. For me, this is so because it is at level 2 where our mind wonders for the first time, even if for fleeting moments, whether it can handle what it knows is coming next. This tickling sense of slight trepidation characterises the gradation from level 1 to level 2. For substances that are relatively short-lasting and usually do not take us much higher, such as MDMA, level 2 can feel more like an intense rush of the nervous system.
 
@@ -27,7 +27,7 @@ For the core psychedelics like LSD or psilocybin, level 2 is marked by the onset
 
 Each level also by definition contains characteristics of previous levels, and so reaching level 2 can create situations where we find creases on our bed to be moving in beat with the music we’re listening to, which itself is sending dizzying phases of light behind our eyelids! Those who enjoy psychedelics for the creative states they encourage usually prefer to stay at level 2, and thus weigh their dose accordingly. Thoughts seem to flow rapidly, which in turn catalyses thinking in new and unexplored directions. Yet you are still well-oriented to the world around you, and can thus engage in art, writing or other creative pursuits. As a writer, in my own experience, trying to write once I’m beyond this level usually produces only gibberish. Usually.
 
-#### Level 3 – The Universe within your Head
+## Level 3 – The Universe within your Head
 
 When the multi-dimensional, meaning-loaded, infinite-hued and fractal universe behind your eyelids becomes so overwhelming that it sucks you into your own head, you know that you’ve arrived at level 3. For me, you haven’t really had a psychedelic experience unless you’ve reached this level. The time and perception warping characteristics of level 3 are necessary for one to truly understand why everyone who’s ever had a psychedelic experience recommends it so sincerely to others.
 
@@ -35,7 +35,7 @@ At level 3, the visuals, fractal and kaleidoscopes oft mirrored in movies and an
 
 The primary characteristics of level 3 are not merely visual, for it is also marked by flights of profound and racy thought. Commonly reported sentiments are moral epiphanies, feelings of sonder, ellipsism, onism and occhiolism. (Yep, search each of them up on Google, and then know that you can truly understand them only on level 3 of psychedelia!)
 
-#### Level 4 – Alien Beings have Infected Us, ‘bout Time we Infected Them!
+## Level 4 – Alien Beings have Infected Us, ‘bout Time we Infected Them!
 
 In my opinion, level 4 is the psychedelic reward. It is the delicious fruit that is yielded when our labour through the previous levels is done. Level 4 is where all our assumptions are laid out bare in front us and whipped flat, ground into a fine paste-like membrane. Level 4 is where we are turned inside out, ripped of all our vanity and fake skin, and hurled into the heart of the universe. Finally, level 4 is where the difference between hallucination and reality ceases to matter—for we realise that meaning is meaning, regardless of where it is manifested. 
 
@@ -45,7 +45,7 @@ It should be clear by now that level 4 is pretty intense and certainly no laughi
 
 A certain peculiarity about level 4 emerges when sitting with a friend or a group of friends (all of whom are on level 4 like you). I’ve experienced the phenomenon first-hand, and have talked to others who conform it. Testimonials of it can even be found online—telepathy. Not telepathy in the way that science fiction would have us imagine, but a vaguer, less tangible conveyance of thought or intent without the use of words. I’ve been in situations where, after riding hard and long on a vital query, I’ve reached the point of giving up and my friend blurts out—What’s the point, you’ll never figure it all out anyway! Those who’ve experienced this phenomenon will know what I mean, but unfortunately those who haven’t will find that I fail to describe it well enough.
 
-#### Level 5 – Load Brain into Cannon, Aim at the Universe, Fire!
+## Level 5 – Load Brain into Cannon, Aim at the Universe, Fire!
 
 Timothy Leary described level 5 as the ‘epicentre of the psychedelic experience,’ and it is mighty difficult to describe anything psychedelic better than him! Terence McKenna viewed level 5 as the centre of one’s ‘mandala network,’ though with McKenna it is easy to slip into woo-woo and pseudoscience. These are some of the qualities that differentiate level 5 from all previous states:
 

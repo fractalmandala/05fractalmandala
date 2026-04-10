@@ -11,13 +11,13 @@ supergroup: webdev
 kind: posts
 ---
 
-##### 1. Install auth.js in sveltekit
+### 1. Install auth.js in sveltekit
 
 ```bash
 npm install @auth/sveltekit
 ```
 
-##### 2. Set up Github OAuth app
+### 2. Set up Github OAuth app
 
 - go to https://github.com/settings/developers
 - click on "New OAuth App"
@@ -27,7 +27,7 @@ npm install @auth/sveltekit
 - copy and paste the client ID and client secret into .env file in sveltekit as GITHUB_ID and GITHUB_SECRET respectively
 - also set AUTH_SECRET by generating it from here - https://generate-secret.vercel.app/32
 
-##### 3. Set up Hooks
+### 3. Set up Hooks
 
 - create hooks.server.ts in the src directory and add below code:
 
@@ -47,7 +47,7 @@ export const handle = SvelteKitAuth(async() => {
 }) satisfies Handle;
 ```
 
-##### 4. Create root +layout.server.ts file and add code:
+### 4. Create root +layout.server.ts file and add code:
 
 ```js
 import type { LayoutServerLoad } from './$types';
@@ -59,7 +59,7 @@ export const load: LayoutServerLoad = async (event) => {
 };
 ```
 
-##### 5. Now in the root +layout.svelte file, we need to do the following:
+### 5. Now in the root +layout.svelte file, we need to do the following:
 
 - in the script tag:
 
@@ -68,7 +68,7 @@ import { page } from '$app/stores'
 import { signIn, signOut } from '@auth/sveltekit/client'
 ```
 
-##### 6. Login/logout Buttons
+### 6. Login/logout Buttons
 
 anywhere in the layout.svelte file, add these 2 buttons:
 
@@ -80,4 +80,4 @@ anywhere in the layout.svelte file, add these 2 buttons:
   {/if}
 ```
 
-##### and your're all set!
+### and your're all set!

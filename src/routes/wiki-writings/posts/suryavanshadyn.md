@@ -1,6 +1,7 @@
 ---
 title: suryavansha dynasty
 ---
+
 This is the 5th of a series of threads on luminaries of the Sūryavanśa/Raghuvanśa dynasty. The previous threads are linked at the end of this one.
 
 After detailing illustrious Solar monarchs, today we look at a man who struck at something deeper, and strived at something higher, transcendent.
@@ -12,13 +13,11 @@ From Sagara's tale in the previous thread, recall the dynastic imperative to bri
 It shows us the multi-layered nature of our civilizational memory. For in the prelude to Bhagīratha's tale we must note not one but three Gaṅgās.
 
 The first resided in the sky as the Milky Way, Ākāśa Gaṅgā.
- 
 The second sat in the lap of mount Meru, the Hema Gaṅgā.
- 
 The third was brought to earth by two people, Bhagīratha and Gotama.
- 
+
 And so on Prithvī she is called Bhāgīrathī and Gautamī. Historical discovery, exploration and excavation underpin both tales.
- 
+
 Some generations before Bhagīratha, the Āṅgirasa sage Dīrghatamās in north Bihar was set adrift the Gaṅgā, likely modern Kosi. 
 
 He flowed downstream to the great delta, discovering where Gaṅgā met the ocean. Here he adopted the name Gotama, and this path of the Gaṅgā is thus called Gautamī.

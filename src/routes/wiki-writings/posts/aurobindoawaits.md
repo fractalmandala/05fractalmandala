@@ -11,19 +11,19 @@ supergroup: dharmabook
 kind: posts
 ---
 
-##### What is Aurobindo?
+### What is Aurobindo?
 
 It is not a pithy cliche to say that Sri Aurobindo needs no introduction. The question of “who” is Aurobindo scarcely arises. But what does it mean to ask “what” is Aurobindo? Is that not syntactically incorrect?
 
 It would be, but what is being suggested is that Aurobindo was not merely a person, not just a Bhāratīya, and not even only a ṛṣi.
 
-##### Aurobindo is an Artefact, and we say this in the present tense because Aurobindo is not in history, not behind us on the arrow of time. Aurobindo is in the future, awaiting us.
+### Aurobindo is an Artefact, and we say this in the present tense because Aurobindo is not in history, not behind us on the arrow of time. Aurobindo is in the future, awaiting us.
 
 He sits at the head of a distant era, his work and his teachings in anticipation of the day when at a species-level we will be ready to imbibe the full implication of his revelations.
 
 This is not to say that the light he cast is not available to us now, or that we cannot hope to attain it in the current epoch. The truths he spoke were not new, the message in them no different to what sits at the core of the Veda. But to bring them alive in a completely different epoch, one where mantra and magic no longer existed, was to snatch something outside of spacetime and give it form in the here and now.
 
-##### It was shaman magic in the purest sense of the term.
+### It was shaman magic in the purest sense of the term.
 
 When we say that Aurobindo awaits us in the future, we speak of the vision in his teachings and the future-readiness they contained, of the long journey needed for complete realization of the super-human, the Bhārata-Soul, and the Humanity-Ascendance he laid runway for. His contributions range to the nation, the nation-soul, the civilization itself and indeed- to the individual. If we are to describe the individual contribution in a word, it would be adhyātma. But the full import needs contextualization of a few realities facing the Bhārata of 2022:
 
@@ -33,7 +33,7 @@ When we say that Aurobindo awaits us in the future, we speak of the vision in hi
 
 - As the cocoon of technology pervades ever-more, the future looks inevitably one of increasing individuation. Family and community will breakdown further as populations urbanize and the haunting solitude of metropolis life swallows new entrants. The real and organic life of people will be replaced by the digital, corporatized life of metaverses. Digital avatars will be more of both- what we attach to and what is deceptively illusory.
 
-##### In other words, the testimony of a true seeker like Aurobindo, one who did indeed find the light, will become more and more relevant- even needed. Mokṣa in the coming epochs will be accessible only to the self-initiated, the ones who seek on their own, the svataḥ siddha, who put their ātma at head or in lead- adhi kṛt ātma, adhyātma.
+### In other words, the testimony of a true seeker like Aurobindo, one who did indeed find the light, will become more and more relevant- even needed. Mokṣa in the coming epochs will be accessible only to the self-initiated, the ones who seek on their own, the svataḥ siddha, who put their ātma at head or in lead- adhi kṛt ātma, adhyātma.
 
 Asato mā sadgamaya, tamaso mā jyotirgamaya. From untruth to truth, from darkness to light. This civilizational imperative will always be salient. But increasingly would bear an addendum- will one have to find a path oneself. The worldly truism has been around for a while- one can take the horse to the pond, one cannot force it to drink. In the new world, the horse must find the pond itself too, there is none to take it there. This is not to bring despair, or to speak with dismay.
 
@@ -49,4 +49,4 @@ They will have an ultimate affirmation through Aurobindo’s personal journey. S
 
 They will have, in effect, a guru who lives with them. Who exists still and awaits their awakening. A sage mind a śiṣya can surrender to and through this be led to enlightenment.
 
-##### With that seeking horse does Aurobindo walk, ever present and reassuring. Through his teachings can the thirst be quenched. He is the pond and the path, the past and the future. He awaits, is ready to receive us. Are we ready to rise towards him? We need the self-placed-ahead, adhī kṛt ātma. Adhyātma. 
+### With that seeking horse does Aurobindo walk, ever present and reassuring. Through his teachings can the thirst be quenched. He is the pond and the path, the past and the future. He awaits, is ready to receive us. Are we ready to rise towards him? We need the self-placed-ahead, adhī kṛt ātma. Adhyātma. 

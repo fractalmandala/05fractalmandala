@@ -16,7 +16,7 @@ For fans of Islay, Smokehead is definitely a malt to enjoy neat. Ice will just m
 
 This is a malt that employs considerable branding efforts- visible in its packaging. There are enough images of it online, so I'm not going to post one here. For me, such extravagance seems somewhat out-of-place with single malts. Yet that may be a justifiable attempt by a distiller to make itself seem more accessible and appeal to a younger crowd. I'm quite eager to try out some of Smokehead's other expressions, especially the Extra Rare- which can only be found in travel retail.
 
-###### Notes
+#### Notes
 
 nose: wood and smoke- lots of it!
 palate: peat, herb, fruit

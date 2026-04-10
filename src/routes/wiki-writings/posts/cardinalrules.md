@@ -29,13 +29,13 @@ The above set is only a gist of the caveats mandated when you recommend a drug t
 
 Longer, more elaborate lists of warnings come along with any recommendation to do mushrooms, acid, DMT or other deep psychedelics. It’s beyond the scope of our journey here to go into each in detail, but here are the six things everyone should keep in mind before thinking of attempting a psychedelic experience. The aim here is not to dissuade- that would be a tragic result of such a list. The objective is to impress upon the reader that this experience is a serious one, as are the rewards it can give. I call these the cardinal rules of psychedelia.
 
-#### 1. Inform Yourself
+## 1. Inform Yourself
 
 Psychedelicos from the 80s and early 90s will tell you how easy we have it to engage with psychedelic culture in the internet age. Use this resource. If you are a reader, head to Erowid or conduct your own searches to read up on whatever route you elect to attain a psychedelic experience. If you prefer videos, YouTube is your best resource. There is no excuse in this era for not unlearning what you know through propaganda, or not learning what you don’t get to know even through recommendation and word-of-mouth. 
 
 Every psychedelic route comes with its own set of precautions, possible downers, and eventual experiences. No two routes are alike, and the periphery of what constitutes a psychedelic experience is an amorphous membrane. This makes it all the more important that you do your research well. There is yet another reason to arm yourself with knowledge—it can help you form a paradigm through which to interpret the experience itself. How you interpret the experience of five grams of mushrooms, for example, will vary greatly depending on whether you’re familiar with the works of Terence McKenna or not. Though all eventual conclusions must be formed only by yourself, it helps to have a platform to stand on before you leap forward.
 
-#### 2. Choose Your Company Well
+## 2. Choose Your Company Well
 
 There is a reason why the only prescribed way to have ayahuasca is under the guidance of a genuine shaman. An experience so profoundly psychedelic needs an adept guide, and this extends to all other psychedelic methods. For most of us, our first experience will not be in an Amazonian jungle, but it is still important to choose our companions and a sitter with discretion. 
 
@@ -43,7 +43,7 @@ Your companions need to be people we trust and sync with well in real life. The 
 
 At least one of these people must also be an experienced navigator of the route you embark upon. This is important because she must be at hand to deal with experiences that go ‘sideways.’ My own initiation into the psychedelic domains was guided by an experienced, conscientious friend—and I am forever indebted to him for that. It is easy to take this rule lightly, mostly because the psychedelic experience itself is so alien to a first-timer that the requisite amount of seriousness is tough to muster. But sticking to this rule with diligence is one of the necessary ingredients for a positive psychedelic experience.
 
-#### 3. Be Judicious with the Method
+## 3. Be Judicious with the Method
 
 As previously acknowledged, there are several routes to attaining a psychedelic experience, and not all of them require the ingestion of a substance. Rule 3 is a corollary to rule 1—an essential part of pre-psychedelic research is choosing what way to experience these realms. When it comes to substances, though you will find opposing views as well, my take is a modified version of one of Terence McKenna’s quotes:
 
@@ -56,7 +56,7 @@ To experienced psychedelicos, the meaning of the above will be clear even if the
 
 Most plant psychedelics have been used by central American tribes for centuries, which is another way of saying that we have very tangible human data on the long term effects of their usage. On the other end of the psychedelic spectrum, testimonials from deep meditation techniques reveal that the experience can be attained even without the ingestion of a substance. Rule 3 reminds us that there are many methods of psychedelic attainment to choose from, and each of us must be judicious to our own degree.
 
-#### 4. Understand Set and Setting
+## 4. Understand Set and Setting
 
 The mother of all clichés, the baap of all oft-repeated things, yet the most justifiably emphasised concept ever. Set and Setting. Set and Setting. Set and Setting. Drill this into your head. To understand what Set and Setting means is to understand how to have a positive psychedelic experience 100% of the time. Shamans and experienced psychedelicos alike will tell you that set and setting are more important than the substance.
 
@@ -66,7 +66,7 @@ Sailors will tell you, the day of embarkation for an important journey is carefu
 
 Also remember—set and setting differ from person to person. How the set differs is obvious enough, but even under the same setting the effects can vary between you and your fellow-psychedelicos. When I began my psychedelic journeys, I was in a place that enjoyed beautiful, sunny days during spring. My companions, like most normal people, enjoyed the wonderful sun and the fresh, liberating feel of open air. I was unlike most normal people, for I preferred a closed environment—preferably my own room. Most people will recommend that you undertake the psychedelic experience of say, psilocybin mushrooms, when outdoors. I am here to tell you that I found the opposite to be advisable in my own case. You must similarly test the waters to ascertain your comfort zone.
 
-#### 5. Biology Is Important
+## 5. Biology Is Important
 
 Too many people limit the implications of set to their mental makeup alone, thus requiring a separate rule to drive home an important point—your biological state is equally important. Follow this prescription religiously:
 
@@ -74,7 +74,7 @@ Too many people limit the implications of set to their mental makeup alone, thus
 2. Do not eat anything heavy at least 12 hours before you begin the journey. This includes all oily and fried things. 
 3. Make sure that you have been well-slept for the past 3-4 days, and are adequately rested on the day of embarkation itself.
 
-#### 6. The Law Is Real
+## 6. The Law Is Real
 
 All of the substance-based methods available to us to experience the psychedelic realms are classified illegal by Indian and international law. Be very careful as you embark upon these journeys, and consider whether you want to at all. In most cases, you are a criminal simply for having such an experience. Possession and trade in psychedelic substances can land you in jail and hand you a lifetime of bad record. Enough said.
 

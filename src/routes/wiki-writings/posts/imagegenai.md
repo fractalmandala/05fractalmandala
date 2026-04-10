@@ -23,13 +23,13 @@ kind: posts
 
 Over the course of 2023, including all tools used and prompts input, I'd wager I've ended up generating more than 10,000 AI-art images, using primarily Midjourney and DallE. All image galleries and archives can be explore [here](/gallery). So why not put up a brief comparison of 2023's main platforms, a sampling of their images, and my own assessments? Here we go:
 
-#### TL;DR
+## TL;DR
 
 Going into 2024, with Midjourney v6 out, I'd put it at the top of my list, followed a close second by DallE. More than directly comparing them, I've found each to have its own set of advantages. Stable Diffusion XL (SDXL) can be prompted to generate image qualities at par with those of Midjourney, but this requires a fair bit of tinkering and the prompt architecture is more complex. Thus I don't rank it too high, and show its samples only for the first prompt below. Bing also uses DallE for its image gen, so we're covered. Click on any of the images below to open them in full screen.
 
-#### Specific Prompts on Each Platform
+## Specific Prompts on Each Platform
 
-###### Prompt 1 - Scenes from Hindu Puranas, Water Color on Marble
+#### Prompt 1 - Scenes from Hindu Puranas, Water Color on Marble
 
 With this prompt, we get to see 1) how these tools are w.r.t. Hindu imagery and 2) their depiction of a specified art style (here, "water color on marble"). The prompts at Midjourney, DallE and Leonardo were the same- *"scenes from Hindu Puranas, water color on marble*," but on Stable Diffusion we added (best image), (high quality) to the prompt and (poor image), (low quality) in negative prompts. In Stable Diffusion one can also define the number of "steps" where higher counts give better qualities and the default is usually around 30. I set mine to 60. These are the results:
 
@@ -88,9 +88,9 @@ In a different era, the results of Leonardo would have been "not bad." But by th
 
 So the competition here is between DallE and Midjourney. Both have a high detail level and capture Hindu imagery/aesthetic well, but it's DallE that truly gets what I mean by "water color on gouache." 
 
-##### We'll see later too that DallE beats Midjourney when it comes to depicting specific art styles. 
+### We'll see later too that DallE beats Midjourney when it comes to depicting specific art styles. 
 
-###### Prompt 2 - Massive Battle between Spaceships Orbiting Binary Star, Comic Art Illustration
+#### Prompt 2 - Massive Battle between Spaceships Orbiting Binary Star, Comic Art Illustration
 
 This and the next prompt allow us to check the platforms on how well they follow specific instructions in the prompt. With this one, we are able to see if details like "orbiting binary star" and "comic art" are followed. With the below results, it becomes clear that Leonardo is simply not at the level of Midjourney and DallE.
 
@@ -135,7 +135,7 @@ This and the next prompt allow us to check the platforms on how well they follow
 
 While DallE has more explicitly given me what I envisioned when I added "comic art illustration" to the prompt, the detail and quality of Midjourney's generations are staggering. These prompt demonstrates how artistically and modern digital art aesthetic Midjourney is pre-tuned to. 
 
-###### Prompt 3 - Ancient Hindu Yogi Meditating Atop Snowy Himalaya Peak
+#### Prompt 3 - Ancient Hindu Yogi Meditating Atop Snowy Himalaya Peak
 
 With this prompt, Leonardo returns some images that are as bad as Stable Diffusion. Again we see how far behind its tech is, for what kind of training data makes a generator that gives us a blue colored face? 
 
@@ -180,13 +180,13 @@ With this prompt, Leonardo returns some images that are as bad as Stable Diffusi
 
 Notice in the above, that in a prompt without any art style/ aesthetic defined, Midjourney quality is far better than DallE, with Midjourney B almost looking like a photo. But arguably it compromises on the "ancient" in the prompt, which DallE probably does better at - thus giving us a Shivji-like yogi. This prompt also shows one bias that comes up in Midjourney more often than it does elsewhere - it has a more "Buddhist" aesthetic in prompts related to dharma/yoga/Hinduism etc.
 
-#### Usage of Art Styles
+## Usage of Art Styles
 
 With 2 prompts we tested the platforms on how well they are able to render specific art styles. My favorites are "art nouveau" and "zero group," so I tested the prompts "a great battle featuring elephants and chariots, hindu fantasy fiction, art nouveau" and "kaal bhairav, zero group art." 
 
 Midjourney just doesn't seem to understand these styles, and while Leonardo does a try with "art nouveau" its overall quality is dismal. You can clearly see DallE actually following the styles and delivering on what's required:
 
-###### 1 - Art Nouveau
+#### 1 - Art Nouveau
 
 <div class="grid two gap1 stay">
   <div class="column gap0 null">
@@ -227,7 +227,7 @@ Midjourney just doesn't seem to understand these styles, and while Leonardo does
   </div>
 </div>
 
-###### 2 - Zero Group
+#### 2 - Zero Group
 
 <div class="grid two gap1 stay">
   <div class="column gap0 null">
@@ -278,13 +278,13 @@ Once again though, even while Midjourney doesn't follow the styles, its quality 
 - [Zero Group](/gallery/zerogroup) - conceptual foray into Hindu deities and zero group art.
 - [Sanatana Sarvatra Galaxy](/gallery/sanatanasarvatragalaxythread) - art nouveau imaginations of a galaxy-wide sanatana dharma.
 
-#### Conclusions
+## Conclusions
 
 At the end of 2023, Midjourney and DallE are the only real players in town (not counting custom, highly configured builds of Stable Diffusion). On its own, with no art styles prompted, Midjourney excels at generating high quality artistic images. But DallE is much better at following instructions and specific styles. *Also bear in mind that while Midjourney v6 is vastly better at understanding natural language, with DallE you can actually converse and iterate to get to what you want.* And once you get to that tuning with DallE, you can simply keep prompting "generate more" to rapidly generate a lot of images. With Midjourney you've got to type/paste the full prompt each time. 
 
 [Midjourney](https://www.midjourney.com/explore) | [DallE](https://openai.com/dall-e-3) | [Leonardo](https://leonardo.ai/) | [Stable Diffusion](https://diffusionbee.com/)
 
-#### Other
+## Other
 
 We've also got image-to-video and text-to-video platforms making a move, with a similarly skewed split among players. [Runway](https://runwayml.com/) is leagues ahead of other options, but [Pika](https://pika.art/login) is a new entrant that could catch up in an update or two. Here's two short clips I made stitching together Midjourney images in Runway, and adding an audio track:
 

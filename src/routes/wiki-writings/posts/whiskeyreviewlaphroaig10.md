@@ -18,7 +18,7 @@ Though it goes against the 'recommended' procedure for enjoying malts, I have fo
 
 The reaction of malt beginners to this expression is mixed.  I have found some take up to the smokiness instantly, while others are unable to digest the medicinal, raw taste.  To me, as I began experiencing single malts, the smoke and iodine of Laphroaig allowed me to characterize single malts for the first time.  Even now, the peaty Laphroaig 10 year old is iconic of single malt scotch in my mind.
 
-###### Notes
+#### Notes
 
 nose: smoke, wood, salt
 palate: seaweed, peat, spice

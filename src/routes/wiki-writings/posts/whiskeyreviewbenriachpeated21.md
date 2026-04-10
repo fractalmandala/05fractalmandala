@@ -16,7 +16,7 @@ On the nose, the Authenticus is a solid peat blast, almost phenolic. Even after 
 
 The malt is considerably lighter after airing. Give it some 10-15 minutes to breathe and a lot of its peat gets balanced, making it taste much more like a 21 year old Speyside malt that it is. It is a lot sweeter now, and the peat is only a mild hint. This goes to show the complexity of this, now rare, offering. All in all, I am delighted to have tried it, and will definitely be on the lookout for the Authenticus that has succeeded it- the BenRiach peated 25 year old!
 
-###### notes
+#### notes
 
 nose: peat blast! Then some medicine
 palate: peat, smoke, black pepper

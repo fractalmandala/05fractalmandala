@@ -17,9 +17,9 @@ This is an example of how to integrate Supabase with Sveltekit. Some caveats to 
 2. These secret values should never be used such that they are passed out publicly, as it creates a major security vulnerability.
 3. In Sveltekit, this means that ‘private environment variables’ are only used in server-side code, and never in client-side code.
 
-##### Simply put, server-side code runs on the web-server (uses host-side resources/applications) while client-side code runs on the user’s end. This is why private keys should not pass to client-side codes.
+### Simply put, server-side code runs on the web-server (uses host-side resources/applications) while client-side code runs on the user’s end. This is why private keys should not pass to client-side codes.
 
-#### Install Supabase
+## Install Supabase
 
 I’m going to assume instances of Sveltekit and Supabase projects already set up and running. To begin on this with Supabase, first:
 
@@ -33,7 +33,7 @@ yarn add @supabase/supabase-js
 
 Next, we must incorporate into Sveltekit the private environment variables we will need, to access our Supabase project. These are the _public url_ and _public anon key_ of the project, which are found in our Supabase project Settings as **Project URL** and **Project API Keys**. While the URL is public and you may well have use-cases of letting users call it directly, the API keys are not to be publicly shared. Also look into row-level-security at Supabase (RLS).
 
-#### Keys and Client
+## Keys and Client
 Create a file title .env in your root Sveltekit folder. This means that if you have a project folder titled ‘Bananas,’ within which you would have ‘src,’ ‘static,’ ‘lib’ and other folders, create the .env file in the folder ‘Bananas’. Inside this file, we add the two variables like so:
 
 ```shell
@@ -60,10 +60,10 @@ In the above code, we first import a client-creator that the Supabase library we
 import supabase from '$lib/utils/supabase'
 ```
 
-#### Fetch and Render
+## Fetch and Render
 I prefer to create all my project Supabase functions in the same file as this client creator. So the above code is followed by all sorts of async functions that fetch from different Supabase tables as required. We’ll look at one example of how this is done. Assume a Supabase table titled ‘notes’ which has the columns ‘id’, ‘title’, and ‘note’. I can fetch the data like so:
 
-#### Integrating Sveltekit and Supabase
+## Integrating Sveltekit and Supabase
 
 This is an example of how to integrate Supabase with Sveltekit.SVELTEKIT | SUPABASE
 
@@ -73,9 +73,9 @@ This is an example of how to integrate Supabase with Sveltekit. Some caveats to 
 2. These secret values should never be used such that they are passed out publicly, as it creates a major security vulnerability.
 3. In Sveltekit, this means that ‘private environment variables’ are only used in server-side code, and never in client-side code.
 
-##### Simply put, server-side code runs on the web-server (uses host-side resources/applications) while client-side code runs on the user’s end. This is why private keys should not pass to client-side codes.
+### Simply put, server-side code runs on the web-server (uses host-side resources/applications) while client-side code runs on the user’s end. This is why private keys should not pass to client-side codes.
 
-#### Install Supabase
+## Install Supabase
 
 I’m going to assume instances of Sveltekit and Supabase projects already set up and running. To begin on this with Supabase, first:
 
@@ -89,7 +89,7 @@ yarn add @supabase/supabase-js
 
 Next, we must incorporate into Sveltekit the private environment variables we will need, to access our Supabase project. These are the _public url_ and _public anon key_ of the project, which are found in our Supabase project Settings as **Project URL** and **Project API Keys**. While the URL is public and you may well have use-cases of letting users call it directly, the API keys are not to be publicly shared. Also look into row-level-security at Supabase (RLS).
 
-#### Keys and Client
+## Keys and Client
 
 Create a file title .env in your root Sveltekit folder. This means that if you have a project folder titled ‘Bananas,’ within which you would have ‘src,’ ‘static,’ ‘lib’ and other folders, create the .env file in the folder ‘Bananas’. Inside this file, we add the two variables like so:
 
@@ -117,7 +117,7 @@ In the above code, we first import a client-creator that the Supabase library we
 import supabase from '$lib/utils/supabase'
 ```
 
-#### Fetch and Render
+## Fetch and Render
 
 I prefer to create all my project Supabase functions in the same file as this client creator. So the above code is followed by all sorts of async functions that fetch from different Supabase tables as required. We’ll look at one example of how this is done. Assume a Supabase table titled ‘notes’ which has the columns ‘id’, ‘title’, and ‘note’. I can fetch the data like so:
 

@@ -13,17 +13,16 @@ This page gathers the sources on design method, art, interface thinking, digital
 - Project-making as a sustained craft rather than one-off execution.
 
 ## Source Summaries
-
-- `artstyles.md` - Samples a range of art styles through DALL-E 3 prompting and visual experimentation.
-- `artvsdesign.md` - Reflects on why art and design are distinct despite overlapping creative energy.
-- `design.md` - Treats design as a core way of structuring thought, interfaces, and action.
-- `digitalgarden.md` - Explains the motivation and stack behind building a personal digital garden.
-- `documentation.md` - Presents documentation as an essential design discipline because iteration depends on recorded thinking.
-- `peeves.md` - Collects user-experience annoyances and technology frustrations that inform design sensibility.
-- `projectcrafting.md` - Large craft-oriented note on building projects deliberately and coherently.
-- `rid.md` - Internal draft on “rta in design,” arguing for a Dharmic, value-rooted evolution of design thinking.
-- `stackanddesign.md` - Summarizes the site’s tech stack and design choices at a practical level.
-- `webinterfaceguidelines.md` - Stores comprehensive interface principles gathered from an external source for direct design reference.
+- [Art Styles](/wiki-writings/posts/artstyles) - Samples a range of art styles through DALL-E 3 prompting and visual experimentation.
+- [Art vs Design](/wiki-writings/posts/artvsdesign) - Reflects on why art and design are distinct despite overlapping creative energy.
+- [Design](/wiki-writings/posts/design) - Treats design as a core way of structuring thought, interfaces, and action.
+- [Digital Garden](/wiki-writings/posts/digitalgarden) - Explains the motivation and stack behind building a personal digital garden.
+- [Documentation](/wiki-writings/posts/documentation) - Presents documentation as an essential design discipline because iteration depends on recorded thinking.
+- [Peeves](/wiki-writings/posts/peeves) - Collects user-experience annoyances and technology frustrations that inform design sensibility.
+- [Project Crafting](/wiki-writings/posts/projectcrafting) - Large craft-oriented note on building projects deliberately and coherently.
+- [Rta in Design](/wiki-writings/posts/rid) - Internal draft on “rta in design,” arguing for a Dharmic, value-rooted evolution of design thinking.
+- [Stack and Design](/wiki-writings/posts/stackanddesign) - Summarizes the site’s tech stack and design choices at a practical level.
+- [Web Interface Guidelines](/wiki-writings/posts/webinterfaceguidelines) - Stores comprehensive interface principles gathered from an external source for direct design reference.
 
 ## Cross-References
 

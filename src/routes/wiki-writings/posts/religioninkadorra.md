@@ -12,7 +12,7 @@ kind: posts
 ---
 Thean religions are diverse and often in direct contradiction with each other. Despite this, there have been only a few religious wars on Thea. In a larger sense, Theans tend to focus more on the philosophical and ritualistic prescribed paths or ‘doraks’ rather than the religious aspect of their beliefs. The major Thean religions are bividadorak, ikividadorak, ahimvadorak, and karhimvadorak. Minor religions such as unhati and avilka are found in some regions such as Ahurun.
 
-#### History
+## History
 
 Early tribes in both Kadorra and Inglika show signs of having both- a prescribed set of rituals and practices, and early forms of cosmogony; in around 300. Prior to this, Thea’s bronze, copper, and lithic ages are lost to historians and archaeologists. It is almost as if tribes sprung up from nowhere onto the Thean lands. So a single line of descent and religious evolution from early totemism and matriarchal worship patterns to the later doraks cannot be found.
 
@@ -25,7 +25,7 @@ But the religion of one tribe differed drastically from that of its neighbouring
 
 Bivida and ikivida were the first official ‘vidas’ or spiritual knowledge banks, and later the popularity of the Trithans allowed ahimvan to be accepted as a vida as well. The Trithas’ later doctrine- karhimva, however, is not accepted into the vidan fold since it is quite acrimonious of the vidan God- Prakadora. For many centuries after Yaktuki Tritha’s death in 1000, the vidan religions and karhimva prospered across Thea, enjoying Imperial patronage. Even today they are the four largest religions on Thea. The period between 1600 and 2100 saw a renewed enquiry into the nature of existence and origins of the cosmos, with special focus on understanding better the ancient concepts of kadora, vida, Prakadora, etc. This religious and spiritual renewal was strongest in north western Kadorra and in Inglika. A lot of the old texts were translated into modern languages or adapted into film, music, and drama. The period saw the rise of a new religious doctrine- Ahimvida, which is amoral and extremely atheistic by vidan standards. Ahimvida enjoys considerable popularity in Inglika even today though it has all but died out in Kadorra, unable to stand against the ancient vidan religions. In the last few centuries new cosmogonies as well as modified understandings of kadora have emerged but have been unable to shake the religious establishment of the four oldest and largest religions.
 
-#### Bividadorak
+## Bividadorak
 
 The pre-Trithan age tribes of Kadorra were distinctly dualistic and monotheistic in their religious nature as evidenced through various scrolls and torn segments of text found along Kadorran river beds. An early text called the ‘Kaduraksini’, dated to around year 170, gives detailed descriptions of worship halls and temples where people went to offer prayer “to their maker.”  Another text, the ’Gunananga’, a treatise on the rivers of Kadorra written in around 230, gives references to the personalization of rivers as great whip lashes of “the one who was before all.”  
 
@@ -50,7 +50,7 @@ Krita-prakas (often written Praka-kritas) are understood to be the official ‘c
 
 On the issue of cosmology Oldenki is animated and excitable. He relates a great battle in the sky between the Praka king and his Anta brother that unleashed forces that are now causing our universe to contract. The ancient Kadorrans were aware of the concepts of planets (arha), stars (solak, sol), galaxies (alakshin), etc. Oldenki claims the universe to be made of exactly five hundred alakshins with a total of eight billion stars and ninety two billion planets. The distance between these bodies are both physical and kadoral (the ancient Kadorrans believed that travel could also be done from one kadora to another just as from one place to another), but kadoral travel was allowed only to the Prakas and the Antas. Thus Oldenki relates an account where the Praka king visits his ‘queen-sister’ on a planet ‘seventy thousand planets’ removed from Thea but his human army had to stay back because it could not make the kadoral travel, being of lesser blood. In time, Oldenki assures, even beings of lesser blood will be able to travel between arhas and alakshins because the universe is closing in ever since the above-mentioned battle, and thus physical distances are shortening.
 
-#### Ikividadorak
+## Ikividadorak
 
 In 308 the Kadorran tribes Nuk, Ari, and Hrugu went to war out of which Nuk emerged the winner, the other two being destroyed and assimilated. A Hrugu priest, Elori, was tortured by soldiers of the Ari army and forced to accept bividan doctrine even as Nuk (tribe of Oldenki) counselled tolerance. To save his life Elori, who was originally a priest of a pre-vidan religious precursor, converted to bividadorak and was spared. He spent the next two years visiting temples in Nuk controlled Kadorra and studying the doctrine of bivida. In 309 he met Oldenki (who had around two decades ago compiled and published the bividan doctrine) and the two had the famous ‘Kadorran Vidan debate’ where they debated and argued on the concepts of kadora and Prakadora. 
 
@@ -67,7 +67,7 @@ Ikividan Ahuharta has a lot in common with bividan Ahuharta. Elori agrees with t
 
 The only difference between ikividan and bividan Ahuhartas is that ikivida rejects the notion that the universe is contracting and will one day close up, which bivida supports. Ikividan Ahuharta is vague on the present conditions and future of the universe, but denies the possibility of a contracting universe as a paradox in the world of Prakadora. Since everyday kadoras in the world are increasing, the power and strength of Prakadora is only increasing. A waning universe cannot belong to a strengthening Prakadora, so Elori concludes that the universe is at least static, if not expanding. He considers the decision irrelevant though, because physical or kadoral intraverse travel will never be possible, so making the size of the universe meaningless in his opinion. However, says Elori, the chances are that Prakadora is an artificial construct, and so there is no way to determine the size and future course of the universe.
 
-#### Ahimvadorak
+## Ahimvadorak
 
 Ahimvadorak is the third and last vidan religion, but is atheistic in its nature. Not only does the ahimvak deny the existence of Prakadora, he also rejects the concepts of kadora and the vidan Ahuharta. This sort of atheism was unknown in Kadorra before the birth of the twins Vaktuki and Yaktuki Tritha in 400. Born to bividan priests in a newly formed nation that was also officially bividan (Kadorra), the Trithas were exposed to all of bivida’s doctrines, practices, beliefs, and cosmogonies. 
 
@@ -92,7 +92,7 @@ The Trithan Command is divided into ten parts, each part dealing with a stage in
 
 Though these ten parts Yaktuki reveals ten commandments that must be followed by the ahimvak to make his life misery and hassle free. Apart from that each part also contains anecdotal references as well as digressional musings to relate the proper code of living and existence for an ahimvak. Today, ahimvaks can be found in Vaktuki, Yaktuki, Kadorra, and some also in Inglika. The ahimvaks in Vaktuki are different in that they do not subscribe to the book Trithan Command, as it was written around 500 years after Vaktuki actually set foot on the land and spread his atheist religion. Vaktukans believe that the Trithan Command is highly biased by the prejudices and idiosyncrasies of Yaktuki Tritha and does not represent the pure atheist doctrine that the brothers had brought with them out of Kadorra. Ahimvaks are found in Kadorra in the south and they along with the Yaktukan and Inglikan ahimvaks are devout followers of the Trithan Command and consider the word of Yaktuki Tritha almost as the word of god.
 
-#### Karhimvadorak
+## Karhimvadorak
 
 Prior to the conquest and settlement of the land of Vaktuki, the Tritha Twins preached the ahimvak doctrine- one of minimal participation in wordly affairs to ensure least misery in a misery filled and purposeless world. However, the work they carried out in Vaktuki and then intended to carry out elsewheres was in direct contrast with the minimal interference that they preached. Nor did the Twins seek to make their life misery free as ahimva recommends, instead choosing to face mortal dangers, weird creatures, and savage tribes to bring peace and stability to Vaktuki.
 

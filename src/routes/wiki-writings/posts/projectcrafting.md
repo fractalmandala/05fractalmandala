@@ -13,7 +13,7 @@ kind: posts
 
 A project to try and create a simple crafting game in the world of Thea. No clue where it'll lead to, but just want to try this even if to learn some Sveltekit actions and stores stuff. Also to maybe try things with openAI assistant. Will take cues from what [Neal Agarwal](https://twitter.com/nealagarwal) is doing.
 
-#### 1 - The Raw Materials
+## 1 - The Raw Materials
 
 Using the GPT bot I've built and equipped with the lore of Thea, generated 20 raw materials to start with:
 
@@ -38,7 +38,7 @@ Using the GPT bot I've built and equipped with the lore of Thea, generated 20 ra
 19. pad'ga'rud feather - lightweight and sturdy feathers from an ancient bird
 20. ahurunian clay - moldable clay with high thermal resistance
 
-#### 2 - Images for Each Raw Material
+## 2 - Images for Each Raw Material
 
 Again- the built Thea-generator bot to the rescue for each of the images.
 
@@ -65,7 +65,7 @@ Again- the built Thea-generator bot to the rescue for each of the images.
 <img src="https://rnfvzaelmwbbvfbsppir.supabase.co/storage/v1/object/public/gallery/crafting/vinagaacid.webp" alt="1"/>
 </div>
 
-#### 3 - Crafting Logics
+## 3 - Crafting Logics
 
 Got the bot to create combinations of all these raw materials, but work Neal Agarwal is doing could create an infinite crafter using AI. Will see how to proceed.
 
@@ -102,7 +102,7 @@ This then is the inherent logic - when a user selects any 2 raw materials, we tr
 
 If any item here has both the selected raw materials in its recipe, we return details of that item as the "crafted substance."
 
-##### I first wasted a lot of time trying to create a drag-and-drop UI, where users could drag the raw materials into a crafting area. But then I realized just making them clickable buttons was simpler.
+### I first wasted a lot of time trying to create a drag-and-drop UI, where users could drag the raw materials into a crafting area. But then I realized just making them clickable buttons was simpler.
 
 These 2 images show the basic UI:
 
@@ -110,7 +110,7 @@ These 2 images show the basic UI:
 <img src="https://rnfvzaelmwbbvfbsppir.supabase.co/storage/v1/object/public/gallery/01postarchive/02feb24/c2.webp" alt="crafting two"/>
 The UI is simply a selection area and a crafting area. Users can click on an item to select, and they move into crafting area. If the 2 items are a recipe, the substance is crafted. This involves quite some spaghetti logic I've managed to wrangle. I'm sure there are much cleaner ways to do this.
 
-#### 4 - Selections and Checks
+## 4 - Selections and Checks
 
 I created a bunch of stores, and functions to set/clean them:
 ```js
@@ -414,11 +414,11 @@ button.material.soon
     filter: grayscale(1)
 ```
 
-#### 5 - Not Generative vs. Generative
+## 5 - Not Generative vs. Generative
 
 The best thing to do would be to make this infinitely generative using AI, so that it generates items for any combination, and we could source it to the Thean Archive knowledge base for it to do worldbuilding consistently. Will try that eventually.
 
-##### For now, try out the Thean Crafter [here](/th/crafter)!
+### For now, try out the Thean Crafter [here](/th/crafter)!
 
 <style lang="sass">
 

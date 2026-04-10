@@ -29,7 +29,7 @@ As its most fundamental unit, civilizational proto-trajectory begins at the indi
 
 The problems begin when we deal not with one but at least two tribes. What we have in this situation is two separate ancestry sets, and likely separate deities, values and vocations. Now fundamental questions arise- how are these two tribes to interact? What ought to be the power equation? Given their interaction they are now likely upon a common resource pool- how should it be shared? And to put it realistically- how are multiple tribes to interact in these circumstances?
 
-#### 1: The Fundamental Problem of Multiple Tribes
+## 1: The Fundamental Problem of Multiple Tribes
 Viewed in very broad strokes, humanity’s solution to this problem has been ethnocide, slavery, and genocide (though the problem does not disappear). The history of homo sapiens begins not only with tribal genocide but the eradication of entire human species, so at the earliest layer we must concede to amorality and not hasten to judge. But clearly by ~2000 BC our species had figured out other solutions, workable enough to allow for grand civilizations to exist in India, Sumer and Egypt. If we are being honest, we only have guesswork to explain how these civilizations organized themselves, and we simplistically prop imperial monarchy as the route. The standard explanation is this- as humans began to grow crops, granaries were needed to store the surplus. In turn, armies were needed to protect these granaries. The armies would have to be paid and fed, and this was done by the king- the imperial authority.
 
 The explanation skips past the important part. Why were armies needed to protect granaries? It alludes to the fundamental problem of multiple tribes- of ‘us’ and ‘them,’ in-groups and out-groups. Clearly, the mainstream model has this problem solved through imperialism, force and military. But is that the only solution?
@@ -38,7 +38,7 @@ Indian civilization acutely remembers the fundamental problem of multiple tribes
 
 An early example of this is the Samudra Manthana myth, and the larger story around Mahābali and his conflict with Mantradruma Indra. Given in genealogy as the son of Virocana and grandson of Prahlāda, Bali is born in the line of the Daitya greats- Hiraṇyakaśipu and Diti. Each of his named ancestors, sans the matriarch, died in previous wars or to avatāras of Mahāviṣṇu. Among the Ādityas, Śakra Indra gave way to Śatakratu who rivaled Prahlāda, and by Bali’s time the position was held by Mantradruma. Ancestry on both sides is rife with near-ceaseless conflict, not excluding a range of other named tribes- Dānavas, Gandharvas, Yakṣas, Kinnaras, Kiṃpuruṣas, Piśācas, Uragas, Siddhas, Caraṇas, Rākṣasas and more. Paurāṇika tales of the eras preceding Bali show a clear engagement of ancient Indians with the fundamental problem of multiple tribes- and no lasting or non-violent solutions.
 
-##### Samudra Manthana shows an attempt to come up with a sustainable, working solution- a sharing of resources and ownership. It shows a stage in our civilizational past when the proto-Neolithic tribes, finally tiring of war, tried to sit down and work it out among themselves.
+### Samudra Manthana shows an attempt to come up with a sustainable, working solution- a sharing of resources and ownership. It shows a stage in our civilizational past when the proto-Neolithic tribes, finally tiring of war, tried to sit down and work it out among themselves.
 
 How can we say this? Even singular, literal examples such as Mantradruma taking Airāvata (domesticated elephant?) and Bali taking Ucchaiśravas (domesticated horse?) indicate an agreement of sharing (Aryan migration enthusiasts may note that Indra chose elephant, not horse). The conflicting tribes together negotiated halāhala, or proto-metallurgical ash and lava, and their disparate worldviews were reconciled by the ‘priests’ among them- Śukra and Bṛhaspati. This represents a unique, antique and continuing Indian ritual tradition. When there are two ways of doing things, the representatives among us talk it out and agree on the common way together- one that gives requisite accord to both ways. It is found even in modern Indian marriages, between any two people who hail from different regions. More fundamentally, in context of civilizational trajectories- the solution is not predicated on the eradication of one by the other, whether through genocide or through conversion. This is not to say that India bypassed the genocidal phase. Only that it eventually did look beyond, long back in our history.
 
@@ -54,7 +54,7 @@ In the modern world too we understand this problem, which is why we cherish idea
 
 Now, all said and done, what if this harmony does not last? If it dies with Mantradruma or Bali? If the cultural continuity established between Śukra and Bṛhaspati disappears a few generations later? The fact is that it takes great leaders, great personalities and civilization movers- or cakravartins- to establish authority and legacy. And neither authority nor legacy can have existence without leadership. Modern laudations of democracy hide the deeper questions, for they pretend that the only thing of importance is that we choose our leaders (through a convoluted democratic process). Instead, beyond how we choose the leader(s), more important is how the leadership authority conducts itself. The Western civilization has understood this, even as it retains pride and possessiveness for its solution called democracy. This is why the great Western hero, Churchill, said that “democracy is the worst system there is. Except for all the others.” More fundamentally, this is why all modern democratic systems try to enshrine what they call “checks and balances.”
 
-#### 2: The Fundamental Problem of Leadership
+## 2: The Fundamental Problem of Leadership
 
 Before we dive into the Indian trajectory on this fundamental problem, let us assess where the modern world stands. We have the Western solution of democracy, which argues that there is a way to select leadership that reflects what the citizenry wants. Further, the vesting of power and authority isn’t absolute. Thus, all democratic nations have some kind of separation of power and/or functions. But we live in a world where a democratically elected president of the USA was hounded for all the years of his presidency, and banned from the world’s foremost social platform while still in office. In this same world, the democratically elected prime minister of India can be accused of trying to overthrow democracy and bringing in fascism. This indicates that for all its gloss, democracy tends to exist in our minds only when we agree with its decisions.
 
@@ -68,7 +68,7 @@ The point is that we are at a critical flashpoint between group-benefit and indi
 
 That digression done we return to the fundamental problem, which the digression lays bare- Who is in control? Who gets to decide? Who validates and invalidates? As is evidently clear by 2022, neither the Western nor the Chinese civilizations have a working solution to this. But now we may think of a new civilization, the latest entrant to the scene- Islam. What answer does Islam give to this problem? Put simply- a Higher Order. Remember again the macro historic lens. Our question isn’t whether Islam’s higher order is right or wrong. Our question is whether adherence to a “Higher Order” can solve all problems. In fact, Islam gives the answer- No. The higher order of Muhammad and Allah has not prevented a deep and violent schism between Shias and Sunnis. Further, in using Higher Order to solve this problem, Islam regresses on the previous problem of multiple tribes. In all the centuries of its existence, the religion of peace is yet to prove that it can coexist with other tribes when it is in control. In the Higher Order that Islam establishes to solve the fundamental problem of leadership, there is neither a place for any other “tribe,” nor any dimension of individual-autonomy.
 
-##### Our examination of civilizational trajectory so far summarizes to this:
+### Our examination of civilizational trajectory so far summarizes to this:
 
 Modern homo sapiens, once they had eliminated all competing human species, were left to deal with competing tribes of same competence/ability/motivation. In broad, our history on this emerges violent and genocidal. But surely humans across the planet attempted peaceful solutions- ones that recognised both shared interests and differing paradigms. The Indian civilization contains vivid records of this.
 
@@ -80,7 +80,7 @@ His guru, Śukrācārya, teaches him to be benevolent and indiscriminate. He can
 
 But of course, few among us would truly have a problem with dictatorship if it were benevolent, and further- if the son of the benevolent dictator were not a tyrant. Indian civilization remembers this problem. Some time after the era of Mahābali, still in the 6th manvantara, the ruler turns tyrannical- Veṇa. Complacent and arrogant, he bans the study of Vedas and rituals of all kinds (the reference to Vedas here is retroactive, and does not mean that the Ṛgveda existed then). He commands his subjects to pray only to him, and denies ancient tribes like the Ādityas the use of soma. In other words, he acts in contradiction to how a ruler ought to conduct himself. The distraught citizenry appeals to the ṛṣis to intervene, and under the latter’s leadership a rebellion foments. In the coup that follows, Veṇa is deposed and a boy named Pṛthu is established on the throne. The Purāṇas describe that Pṛthu is formed from Veṇa’s thigh, and list him as the latter’s son.
 
-##### There is a memory of civilizational trajectory in this story.
+### There is a memory of civilizational trajectory in this story.
 
 For one, it reiterates that solving the first fundamental problem of multiple tribes is only the beginning of a journey. The second, a problem of leadership, even if solved momentarily needs to be rooted to something deeper if the solution is to be sustained. And so the replacement to the incumbent, Pṛthu, arrives to his position not through divine right or ordained birth. Two aspects are important here. For one, Pṛthu is fashioned from Veṇa’s thighs by the ṛṣis- indicating that he was selected by a group of elders. Second, the ṛṣis are moved to do this by the appeal of common people- indicating the salience of citizens’ will. This is why Pṛthu emerges from the thigh- the same part of Puruṣa’s body from which emerge the Vaiśyas. Veṇa is remembered by tradition as an example of the dangers to embedding leadership and/or power in one source. It tells us that even the supreme ruler must submit to a core duty, one enshrined not in the personality but the position. This is not the Western coalition between ‘priestly’ and ‘royal’ classes (or Church and King), and neither is it the Islamic derivation from a higher order/bloodline.
 
@@ -104,8 +104,8 @@ Rāma’s imperial record comes to us from the Purāṇas, where at the end of l
 
 The sermon runs long, listing not only the kinds of kingdoms but the kinds of allies, enemies, treaties and war. When to conduct what treaty, and when to conduct war. How to motivate an armed force, and when to negotiate peace with the enemy. And now we can bring in the great running thread through the entire civilizational journey so far.
 
-##### DHARMA. IT IS THE BHĀRATĪYA ETHOS.
-##### It is the endeavor to conduct life and society in harmony with ṛta- the eternal order of reality. It is a naturalist civilization’s character.
+### DHARMA. IT IS THE BHĀRATĪYA ETHOS.
+### It is the endeavor to conduct life and society in harmony with ṛta- the eternal order of reality. It is a naturalist civilization’s character.
 
 It is the means, formulated over countless generations, to navigate the absurd life. To deal with the fundamental problems faced by individual and collective- both. And thus when the ocean was churned, when the ancient tribes attempted truce under the spiritual preceptorship of Śukra and Bṛhaspati, what they finally churned out was Dharma. It was the means to prevent mṛta, or the unbecoming/crumbling of ṛta. They called it a-mṛta.
 
@@ -115,7 +115,7 @@ But if the dharma-vṛkṣa is strong, if the leaves and branches are well-roote
 
 Thus develops a mesh network of ideas, synthesized over many millennia, layers built atop layers into a fractal maṇḍala, and decentralized among the collective. It is called Dharma. It is the Bhāratīya Ethos. But more problems await the civilizational trajectory.
 
-#### 3: The Fundamental Problem of Conflicting Ethos
+## 3: The Fundamental Problem of Conflicting Ethos
 
 Petty religions, ever anxious and insecure, their pettiness always causing internal rifts, do not rise above the level of us-vs.-them. They remain grappling with the fundamental problem of multiple tribes, their solutions no more sophisticated than wiping out those that are not “us.” But viewed from the level of civilizational trajectory, once multiple tribes have united under a common ethos, they must then face the ethos of other tribal collectives. It is easy to call this a problem of conflicting religions, but in reality it is the problem of conflicting dharmas- or rather of dharma vs. adharma.
 
@@ -127,7 +127,7 @@ We could take the case of the Haihayas, an ancient Indian collective descended f
 
 With the Haihayas, Indian civilization learnt a new lesson. In resolving the first fundamental problem, it learnt the value of tolerance, acceptance, co-existence and pluralism- such that even today it stands as the best example of these values. But the Haihayas forced it to understand the problem with tolerating intolerance. It is all well and good to consider the whole world one family, but when dharma itself is in danger a different strategy must be adopted. It is a lesson we would be made to learn again and again. And again.
 
-##### Enter Sagara. Enter Pratardana. Enter Marutta. Enter the realization that dharma must be protected, sometimes by violent, aggressive and assertive means.
+### Enter Sagara. Enter Pratardana. Enter Marutta. Enter the realization that dharma must be protected, sometimes by violent, aggressive and assertive means.
 
 When Sagara Aikṣvāku sets out to reclaim land and region for his people, he takes on many enemies. The stories of his treatment to non-Haihaya enemies is exemplar of the Indian resolution to problem 1. He does not harm innocents, women or children. He does not destroy cities or property. He wages dhārmika war on the warriors among his enemies, and once they are defeated he accepts his guru’s counsel to exile them- not decimate them. He was battling different tribes here, but not people with a different ethos. This is why even those defeated people turned to Vasiṣṭha, and he endorsed their plea for mercy to Sagara.
 
@@ -143,11 +143,11 @@ This is not one tribe against another, or one religion against another. These we
 
 The Śukras and Bṛhaspatis, the Bhṛgus and Āṅgirasas, the fire-bringers and the metallurgy-magicians, had done their job. They had laid down the palimpsest that is Bhārata, but much more was to be carved atop yet. Each layer of India’s civilizational trajectory builds atop another, and with the Vedic Indians it was time for yet another layer. It was time for our civilization to become fractal.
 
-##### When you (re)embed the same wisdom and insights at every new level of civilizational trajectory, you give to your civilization a fractal character. No matter what level one zooms into, or out to, one finds the same themes playing out- the same civilizational ethos and archetypes.
+### When you (re)embed the same wisdom and insights at every new level of civilizational trajectory, you give to your civilization a fractal character. No matter what level one zooms into, or out to, one finds the same themes playing out- the same civilizational ethos and archetypes.
 
 What Vasiṣṭha did for the Vedic Indians was no different to what Śukra did for the Samudra Manthan-ing Devas and Asuras. But to do it all over again, at a higher level of civilization, is to embed fractal resilience. We call this resilience because, given this consolidation, when civilization was unsettled again- this time by geology itself- it gave birth to one of the greatest Indians of all time. But before we reach him, let us understand the next fundamental problem in civilizational trajectory.
 
-#### 4: The Fundamental Problem of Individual Well-being
+## 4: The Fundamental Problem of Individual Well-being
 
 Imagine a world that has suitably resolved all the problems we have listed above. Does that create a utopia then? Is civilizational trajectory over, the end of history? Western civilization would have us believe so. In its narrative, it has resolved all previous problems and history is over. The future only consists of those joining this civilizational consensus, or those losing their culture to European museums which descendants will pay handsomely to visit. But when the jana gets resolved with such hyper-chauvinistic focus, it is the jīva that suffers.
 
@@ -171,7 +171,7 @@ Instead, the young man, born on an island and thus named Dvaipāyana, encountere
 
 But the disciple, the young Dvaipāyana, soon to become the 28th and final (known) of his line, was not content to simply compile and assemble. He was navigating through a more existential problem.
 
-##### The problem of embedding dharma in jīvas, such that dilution at jana level would not lead to civilizational death. The problem was of building a dharma vṛkṣa- roots, shoots, leaves and branches all.
+### The problem of embedding dharma in jīvas, such that dilution at jana level would not lead to civilizational death. The problem was of building a dharma vṛkṣa- roots, shoots, leaves and branches all.
 
 The wisdom existed, this much he knew. The accumulated tales of Indian sūtas and māgadhas, the folk songs of forest dwellers and riparine tribes, the esoteric sound-instruments of the Ṛgvedic ṛṣis, the hidden rituals of the mountain caves, the memories of great avatāras and cakravartins- all these and more contained the wisdom of how each jīva must live his/her life in accordance with ṛta- or in the most harmonious and prosperous way possible. But the wisdom was decentralized, diluted even, and decaying fast. The lessons that ancestral grandmothers and grandfathers had embedded into each level of civilization, creating the Fractal Bhārata, needed to be preserved.
 
@@ -193,7 +193,7 @@ Artha. Kāma. Mokṣa.
 
 And since ours is a ṛta-driven civilization, we know that the requisite is a balance of human impulses. Any desire chased to the extreme takes us away from ṛta. Only when all desires are given natural space, but managed with restrain, will we achieve what is the ultimate objective to begin with- dharma- existence in accordance with ṛta.
 
-##### And so when Veda Vyāsa (re)created the Fractal, he knew to embed into every layer this Pauruṣārthika wisdom. No longer were the ballads historical or lore- they were appropriated for the dharma project. Finally, history was made important for the lessons it could teach to us.
+### And so when Veda Vyāsa (re)created the Fractal, he knew to embed into every layer this Pauruṣārthika wisdom. No longer were the ballads historical or lore- they were appropriated for the dharma project. Finally, history was made important for the lessons it could teach to us.
 
 And thus we learnt of the avatāras, the fractal containing Mahāviṣṇus and Mahāśivas at any zoom-level. We learnt of the cakravartins- but not of their imperial conquests. Of how they upheld or re-established dharma. Of the personal conducts and sacrifices they embodied. We learnt of the Samudra Manthana, but more than learning of how ancient Indians embarked on agriculture, animal domestication and metallurgy, we learnt how they consumed amṛta, or the ṛta-upholding dhārmika code.
 
@@ -201,7 +201,7 @@ We learnt of the centuries of conflict preceding the high civilization of Mature
 
 Each a maṇḍala in itself. Each a whole, yet each forming one pearl in a string, the string itself a maṇḍala. A fractal at every layer, all re-iterating the same truth over and over again, from different angles, as if we are in a civilizational psychedelic trip of cosmic import. And yet, the trajectory is not complete. The maṇḍala is woven, the fractals are embedded. But what is the super-structure? What will mesh dharma, artha, kāma and mokṣa into a stable whole that can become sanātana- or eternal?
 
-#### 5: The Fundamental Problem of Stewarding it All
+## 5: The Fundamental Problem of Stewarding it All
 
 What is capitalism? What is communism? What is an open market? What is a welfare state? What are taxes? What is Amazon? What is Elon Musk’s soon-to-come Starlink Satellite Internet? What is a patent, or a copyright? What is the Bilderberg meeting? What is a glass-ceiling, and what is nepotism?
 
@@ -233,9 +233,9 @@ And on the fourth fundamental problem of individual well-being, the results are 
 
 The Indian civilization has a deep well to draw from, one that truly runs back thousands of years, and through it all it has a near infinite amount of lessons on each of these fundamental problems. The sum total of these lessons is dharma, the Indian answer to life- both for civilization and for consciousness.
 
-##### It is a Fractal Maṇḍala. It is Home.
+### It is a Fractal Maṇḍala. It is Home.
 
-#### The Fractal Maṇḍala
+## The Fractal Maṇḍala
 
 Zoom in to the level of the Ṛgveda, where experts will tell us we find semi-nomadic pastoralists composing hymns to the ‘Gods of Natural Phenomena.’ When they want rain, they pray to Indra, the God of Thunder. When they conduct a ritual, they pray to Agni, the God of Fire. For every need they might have, they have a God. A God of Water, and of Wind. A Goddess of Dawn, and of the Rivers. A God here, a Goddess there. Ah, such simple pastoralists, these Vedic Indians.
 
@@ -244,7 +244,7 @@ The Vedic yajña is the ritual of life, of the individual felt-experience. The p
 
 The Ṛgveda’s mantras lend themselves to many layers of interpretation, but at the deepest ones we find the flame of awakened consciousness – a manual for yoga, the union. It is a theme that is encoded in every level of Indian civilization. Agni, which rises from the earth and connects to the sky above, is called the great rodasi – connector. To relive Agni’s journey is the ultimate goal of Hindu life – the mokṣa in our puruṣārthas. In the endeavor of dharma to be in consonance with ṛta, in the eternal quest for harmony unique to our civilization, in our prayer to be led from darkness to light and from untruth to truth, we are constantly seeking the yajña.
 
-##### It makes our civilization a fractal maṇḍala. No matter what level you look at, it reiterates the same truths. No matter what tangent you approach from, or what segment of the arc you start from, it always takes you back home.
+### It makes our civilization a fractal maṇḍala. No matter what level you look at, it reiterates the same truths. No matter what tangent you approach from, or what segment of the arc you start from, it always takes you back home.
 
 Layers upon layers, each layer the same. Journey to the same Holocene onset, to the time when Svāyambhuva prays to Mahāviṣṇu as the floodwaters claim his lands. Incarnates Varāha and returns the earth above the water surface. A different layer, but still the victory of Indra over Vṛtra. The same story, but weaved onto a different thread. Some time during the era of the above Vedic Indians, in a different part of India, another man’s story will be added to the same thread- Rāma Dāśarathi. Another avatāra. Another layer. But Mahāviṣṇu again. This Rāma travels to southern India, and returns with an idol of Vāmana which he consecrates at Mathurā. Another layer, but Mahāviṣṇu again. Many centuries after Rāma, an Indian born in Mathurā will be added to this thread. We remember him as Kṛṣṇa, an epitome of Mahāviṣṇu. A fractal maṇḍala. Approach from any tangent, land at any level, but you will be returned to the source. To dharma. This is the true beauty of the Bhāratīya code.
 

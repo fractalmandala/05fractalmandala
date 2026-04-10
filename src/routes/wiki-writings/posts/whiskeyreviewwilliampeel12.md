@@ -20,7 +20,7 @@ On the palate, taken straight, the whisky is syrupy, floral and light.  Hints of
 
 The labelling of this whisky tries to suggest that it is a Glenlivet, but it only refers to the region where it is distilled.  It is not to be confused with The Glenlivet, but that takes nothing away from its own distinct, quite satisfying character.  I would like a bottle of this in my collection, for the more relaxed, low-key evenings with just a few friends.
 
-###### Notes
+#### Notes
 
 Eye- dark barley, possibly caramel-coloured
 Nose- apricot, butter, pepper

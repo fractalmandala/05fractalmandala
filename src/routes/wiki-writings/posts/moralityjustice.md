@@ -29,7 +29,7 @@ This is why we do not allow science to comment upon the Cultural Universe. It is
 
 There are many variations of the line of argument represented in the questions above. This line would have us believe that morality is subjective. It mandates that a writer place this section in a chapter on the cultural universe, not in the ones dealing with science. We follow this dictum in this journey not because it is right, but because most of us still think it is right. Morality can be and increasingly is approached scientifically, which is another way of saying that it can be approached through reason, observation and experience.
 
-#### Tolerance and Tribalism
+## Tolerance and Tribalism
 
 The 21st century was heralded by one of those moments for which we could ask, do you remember what you were doing at that point, and most people would answer in the affirmative. On September 11, 2001, two airplanes were flown into the most iconic symbols of the free world. In the aftermath, then US President George Bush declared on live television- ‘you’re either with us, or against us.’
 

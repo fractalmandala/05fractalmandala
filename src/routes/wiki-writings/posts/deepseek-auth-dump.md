@@ -12,7 +12,7 @@ supergroup: webdev
 kind: posts
 ---
 
-#### 1. Set Up Authentication
+## 1. Set Up Authentication
 
 You can use a library like Supabase or Firebase for authentication. Both support Google OAuth and email/password authentication.
 
@@ -54,7 +54,7 @@ async function signUpWithEmail(email, password) {
 }
 ```
 
-#### 2. Integrate Razorpay for Payments
+## 2. Integrate Razorpay for Payments
 
 Include Razorpay's script in your project:
 
@@ -91,7 +91,7 @@ async function handlePayment() {
 }
 ```
 
-#### 3. Link Payment Success to User Sign-Up
+## 3. Link Payment Success to User Sign-Up
 
 Store the user's authentication details temporarily (e.g., in a session or local storage) before payment.
 
@@ -107,7 +107,7 @@ async function completeSignUp() {
 }
 ```
 
-#### 4. Handle Payment Failure
+## 4. Handle Payment Failure
 
 Add a modal_close callback to Razorpay to handle payment abandonment:
 
@@ -123,7 +123,7 @@ const options = {
 };
 ```
 
-#### 5. Backend Validation (Optional but Recommended)
+## 5. Backend Validation (Optional but Recommended)
 
 Use Razorpay's webhooks to verify the payment:
 
@@ -141,7 +141,7 @@ export async function post(request) {
 }
 ```
 
-#### 6. Putting It All Together
+## 6. Putting It All Together
 
 - Create a sign-up form for email/password or Google OAuth.
 - On form submission, store the user's details temporarily and initiate the Razorpay payment.
@@ -162,7 +162,7 @@ Example Workflow:
 - Show an error message.
 - Do not create the user account.
 
-#### Option 1: Load the Script in a Svelte Component
+## Option 1: Load the Script in a Svelte Component
 
 ```html
 <script>
@@ -217,7 +217,7 @@ Example Workflow:
 <button on:click={handlePayment}>Pay with Razorpay</button>
 ```
 
-#### Option 2: Load the Script in src/app.html
+## Option 2: Load the Script in src/app.html
 
 Open the src/app.html file in your SvelteKit project.
 

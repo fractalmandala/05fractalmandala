@@ -15,7 +15,7 @@ There’s no end to how delightful Supabase is, and how simple it is to set its 
 User auth at the Supabase end is mostly good-to-go at outset. In the authentication settings, roll over to ‘Providers’ to make sure that “Email” is enabled by default. You can enable other auth types here such as phone, Google and others. I have auth by email and Google in my setup.
 
 Then, go to “URL Configuration” and setup your base URL. This is where users will be redirected to when they confirm signup emails. You can configure additional redirect URLs, for example the post-authentication redirect URL.
-##### The above done, it’s time to set up Sveltekit
+### The above done, it’s time to set up Sveltekit
 
 1. Install Supabase auth helpers:
 ```shell

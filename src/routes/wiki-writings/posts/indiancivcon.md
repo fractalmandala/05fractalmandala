@@ -15,7 +15,7 @@ Being of the same basic physio-neurological make, humans are largely the same ev
 
 The key to this system “jailbreaking” is the reconnection to one’s civilizational language. For language is like code, and like code it can be hacked. A good way to discern the native OS from the acquired one is to examine any given notion in the original code. In light of this, when we say ‘Indian Civilizational Consciousness,’ what we speak of is ‘Bhāratīya Sāṃskṛtika Cetanā (भारतीय सांस्कृतिक चेतना),’ and in reverse order we unpack each term as follows.
 
-#### Cetanā (चेतना)/Consciousness:
+## Cetanā (चेतना)/Consciousness:
 
 Against the profusion of words to describe mental phenomena that can be generated from roots such as √man (√मन्), √budh (√बुध्), √jñā (√ज्ञा), and √cit (√चित्), we find the English words mind, consciousness and brain of limited potential in understanding the mind-map of our ancient ancestors. Anticipating the modern world’s notice of ego, id, free-will, free-won’t, compatibilism and more, the ancients perceived many aspects to Mind, or Mentality. To them, consciousness was not mere thinking, nor the presence of thinking activity; and neither was it simply the presence of understanding or comprehension alone. It was the feedback-loop that existed between these processes — the process of reflection and self-awareness. The mind that is aware of its thinking, that can reflect on it, and can contextualize what it comes to know or understand — is the conscious mind.
 
@@ -31,7 +31,7 @@ In other words, when we speak of Bhāratīya Sāṃskṛtika Cetanā we do not i
 
 To use notions developed by Martin Heidegger and cardinal to philosophy — since we speak of an ontologic and not of an ontic. The difference, reductively phrased, is that an ontic is a thing or entity as described through its properties- a clinical analysis. But an ontologic is Being — or what that thing/entity is to itself. That a civilization could be self-aware is understood better with the next word.
 
-#### Sāṃskṛtika (सांस्कृतिक)/ Civilizational:
+## Sāṃskṛtika (सांस्कृतिक)/ Civilizational:
 
 Rooted in the Latin word ‘civilis,’ the word ‘civilization’ came into its current usage in the 1600s from the French word ‘civiliser,’ — to bring out of barbarism, to introduce order and civil organization. Civilization is then the deliberate process of removing barbarism and increasing civility in the collective aggregate. This gives more information to Huntington’s definition- ‘the highest cultural grouping of people and the broadest level of cultural identity people have, short of that which distinguishes humans from other species.’
 
@@ -39,23 +39,23 @@ To reinforce salient terminology, Huntington’s definition is an ontic one, whi
 
 There is thus a subtle but crucial difference between saṃskṛti and civilization. While both denote a deliberation to aspire to a ‘better’ state, one with more order or “proper”-ness, ‘civil-ize’ carries the added evocation of thrusting a certain way of life onto a people or a group. It implies a value judgement being made, a predetermination of what is more “civil”, what is the “better” way to live, and the imposing expansion of this on everyone else. In contrast, though also aiming for order and correctness, saṃskṛti is something done ‘together,’ or ‘along-with.’ It is our creation, our accomplishment, against the many teṣāmkṛtis (their creation, their accomplishment) out there. And it is accomplished together, augmented by our collective faith and adherence, and aligned to a in common goal — samyak.
 
-##### Prof. Kapil Kapoor describes this as ekatva buddhi — being of one mind.
+### Prof. Kapil Kapoor describes this as ekatva buddhi — being of one mind.
 
 It is this kind of civilization that could plausibly emerge into consciousness- for in its samyak-orientation it is built with self-awareness and agency — or cetanā. The march of ‘Western civilization’ derives imperative from the claim it brings peace, progress and liberty to all humans and countries, that its specific paradigm for what constitutes ‘civilisation’ is universally applicable, and even that it has a moral duty to bring this “civility” to other cultures.
 
 The churn of Bhāratīya saṃskṛti is that it is formed together, in collaboration, and has as its ideals not ‘civility’ or ‘liberty’ but loftier goals better understood with the third word.
 
-#### Bhāratīya (भारतीय) / Indian:
+## Bhāratīya (भारतीय) / Indian:
 
 Much ink still spills over the meaning and origin of ‘India,’ contention to the Sindhu/Indus derivation coming from the ‘Yin-tu/Indū’ of Chinese records. But as a recent book has reminded us — we are India, that is Bhārata. Reconnection with our civilizational consciousness will come not with an etymology of India, but with that of Bhārata —where the derivation from Bharata as patronymic is the mundane stuff of historia, of the ontic. But we seek the ontologic, and thus we notice the root- √bhṛ (भृ)- evocative of dhāraṇa, poṣaṇa and bharaṇa, or bearing, nourishing, supporting.
 
-##### Bearing What?
+### Bearing What?
 The Fire, Agni, the lamp of civilization. The continuity of felt-experience built through itihāsa and emergent in saṃskṛti.
 
-##### Nourishing What?
+### Nourishing What?
 This very saṃskṛti and its denizens, who as the product of the process are thus Bhāratīya – coming from Bhārata.
 
-##### Supporting What?
+### Supporting What?
 Dharma, the eternal tradition, the Yajña that kindles the unifying fire – from earth to sky, from tamas to jyoti, from asat to sat, from ātman to brahman. That leads us to mokṣa, the ultimate goal of it all.
 
 These exalted actions are found reflected in the hands of the simple potter, who gives shape to clay, the pot in turn an instrument for carrying and sustenance. And the potter creates through simple rotation, through gently shaping the clay as it spins around the wheel — a metaphor for the ṛta that guides all of reality. To live life in consonance with ṛta, to spin with its motions yet not disintegrate to centrifugal entropy, is the Indian endeavor. To be a Bhāratīya is to uphold Dharma, to gently shape the river of tradition as we collectively spin under the yoke of ṛta. Suitably, bharaṭaḥ is a Sanskrit word for potter.

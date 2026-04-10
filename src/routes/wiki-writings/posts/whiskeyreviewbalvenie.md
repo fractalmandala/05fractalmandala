@@ -20,9 +20,9 @@ Perhaps it was the anticipation, but I smelt sherry-like fruitiness the moment I
 
 As I spent more time with The Balvenie, I found myself wishing that it came with a higher ABV concentration. I can see how its balance might by undesirably disrupted by a 48% bottling, but is asking for 43% being too greedy? In any case, as the night went on, I soon came to taking it neat- the water was getting in the way.
 
-##### this malt is always written and said as "The Balvenie," like The Glenlivet.
+### this malt is always written and said as "The Balvenie," like The Glenlivet.
 
-###### Notes
+#### Notes
 
 nose: nut, grape, earthy oak
 palate: fruity sherry, cinnamon and subtle, balanced oak

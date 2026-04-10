@@ -10,11 +10,16 @@ date: 2021-04-15
 supergroup: writings
 kind: posts
 ---
-#### Abstract
 
-It has been two decades since Subhash Kak developed a chronological framework for Indian culture, which set a paradigm for plausible chronology of Vedic literature and the Mahābhārata. This paper builds on the work by tethering the Mahābhārata to 1900-1500 BC, and using Purāṇic tradition to set a chronological framework for Indian History since the onset of the Holocene, i.e. 11,600 years BP. This will propose a reconciliation between 1- Periodisation of the Indus-Sarasvatī Civilisation, 2- Chronology of Vedic Culture, 3- Yuga-Manvantara System and 4- Prominent Purāṇic legends and names. 
+## Abstract
 
-#### Introduction
+It has been two decades since Subhash Kak developed a chronological framework for Indian culture, which set a paradigm for plausible chronology of Vedic literature and the Mahābhārata. This paper builds on the work by tethering the Mahābhārata to 1900-1500 BC, and using Purāṇic tradition to set a chronological framework for Indian History since the onset of the Holocene, i.e. 11,600 years BP. This will propose a reconciliation between 
+1. Periodisation of the Indus-Sarasvatī Civilisation,
+2. Chronology of Vedic Culture,
+3. Yuga-Manvantara System and
+4. Prominent Purāṇic legends and names. 
+
+## Introduction
 
 In his works Timaeus and Critias, Plato wrote of the land of Atlantis, of which he heard through his ancestor, Solon. Solon, the story goes, heard of Atlantis at a temple in Egypt. Whether the story is true or not need not detain us. What’s notable is that while the Egyptians looked to the Greeks as children, they considered themselves the descendants of an even older civilisation. The discovery of megalithic Gobekli Tepe, dated to at least 9000 BC, challenges general timelines for agriculture, wheel, pottery and other aspects of the Neolithic Revolution. In other words, we now know that civilisational history goes back deeper in time than has been generally thought. In the words of Graham Hancock, who thinks of us as a species with amnesia—“stuff just keeps on getting older.”
 
@@ -34,7 +39,7 @@ Prior to this window is the zone of uncertainty, for even the Ṛg Vedic timesta
 This is done by beginning at prehistory, in the last glacial period which lies beyond epistemological event horizons for linguistics and archaeology. 
 
 
-#### Geological Scale
+## Geological Scale
 
 Geological epochs are measured through the advance and retreat of world glaciers, or Glacial Periods. The Last Glacial Period (LGP) was 115,000-11,700 years BP. During this period there were alternating glacial advances and retreats, with 22,000 years BP being the period of Last Glacial Maximum (LGM)—when world glaciers were at their most advanced. A general de-glaciation followed the LGM, ice sheets beginning to recede 19,000 years BP. This was the Holocene glacial retreat.
 
@@ -44,7 +49,7 @@ Human technological development maps along the above with a lithic scale, stemmi
 
 The above is a broad summarisation, and carries several implications that are covered in consequent sections. For now, it gives us the first pillar of our chronological framework—the geological.
 
-#### Indus-Sarasvatī Periodisation
+## Indus-Sarasvatī Periodisation
 
 Palaeolithic hominids are first attested in India through the Sohavian Culture, dated from the 2nd interglacial period. By 200,000 years BP these ancestors move to the Acheulian Culture, a broad generalisation for a characteristic stone tool technology found in parts of Africa, Europe and Asia. Neanderthal remains have not been found in India, but stone tools remarkably similar to those associated with them have. The middle Palaeolithic, a period spanning from 300,000 to 30,000 years ago BP, was characterised in India by extreme cold and aridity in the northern latitudes and high altitudes, and lowered sea levels along the coastlines. Findings from Baghor, in the Son Valley, during this period attest to deep antiquity of mother goddess worship in India. 
 
@@ -62,7 +67,7 @@ A recent study which need be investigated more suggests that wetland rice cultiv
 
 Archaeological testimony converges on the Harappan Civilisation, where three broad periods were divided by Keyoner into regionalisation, integration and localisation eras. All of these form the 2nd pillar of our framework.
 
-#### PIE Origins, IE Dispersals and Vedic Chronology
+## PIE Origins, IE Dispersals and Vedic Chronology
 
 The previous pillars are relatively non-controversial, and differences in opinion do not disturb the broad consensus overmuch. They deal with what might be consider harder sciences—geology and archaeology. But despite linguistics’, and specifically comparative linguistics’, scientific contours, the landscape here is highly contentious. While the Holocene sets an event horizon for comparative linguistics, language itself goes into prehistory. To Cavalli-Sforza, “the family tree relating human populations corresponds to another relating the languages of the world.” Against this, van Driem cautions—“linguistic ancestors are not the same set of people as genetic ancestors.”
 
@@ -76,7 +81,7 @@ On issue of Ṛg Vedic chronology the question is framed such—when did Ṛg Ve
 
 But linguistically, the Ṛg Vedic language is a timestamp in PIE chronology. It is a sister to other IE languages, and thus it existed at a (plausibly) identifiable point in time. Again—this is true even if Vedic knowledge-systems have long presence in the subcontinent. Invasionist/migrationist models of PIE place this timestamp near 1500 BC, a paradigm that is rejected for this paper. Instead, Tonoyan-Belyayev’s mapping of Ṛg Vedic chronology to Harappan periods is taken as framework, to which is appended Kak’s chronology of Vedic literature. With this, we now have the third pillar of our framework.
 
-#### Yugas and Manvantaras
+## Yugas and Manvantaras
 
 An easy way out is to discard Purāṇic chronologies altogether, especially since scientific evidence is available anyway. But India’s historical tradition has provable consonance with reality, so the baby need not be thrown out with the bath water. The Purāṇic division of time speaks of a moment as small as the truthi—1/168th of a second, to an epoch of reality that lasts 155 trillion years, all of this part of an eternal cycle of creation and destruction. Of historical relevance are the concepts of yuga and manvantara, literal readings of which throw irresolvable challenges.
 

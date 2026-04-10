@@ -14,7 +14,7 @@ Glenfiddich 12 year old is a classic malt from Speyside with a lot of spice and 
 
 Those more inclined to the peat and smoke, such as myself, will have to spend some time with the Glenfiddich 12 year old to appreciate its character. I easily recommend adding a dash of water to this one, and also allowing it some 'air-time' in the glass before giving it a go. The air allows its full spicy, oaky and fruity nature to come out, and the water provides a great balance.  Ice is definitely not recommended here, as the malt is not too strong and will immediately be numbed by the cold.
 
-###### Notes
+#### Notes
 
 nose: grain, spice, fruits
 palate: spice, oak, floral fresh

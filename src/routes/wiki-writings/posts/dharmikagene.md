@@ -12,4 +12,4 @@ supergroup: dharmabook
 kind: posts
 ---
 
-This [essay](https://www.brhat.in/dhiti/dharmikagene) is published at Dhīti, Bṛhat's blog.
+This [essay](https://www.bodharesearch.in/blog/dharmikagene) is published at Bodha Research

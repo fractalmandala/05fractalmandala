@@ -18,7 +18,7 @@ On the palate, the Nadurra gives gracious flavours of toffee, butter, cocoa and 
 
 All in all a great additional to my collection, both at the bar cabinet and also for personal experience.  This is not a malt I would readily share with guests.
 
-###### Notes
+#### Notes
 
 Eye- pale gold
 Nose- nuts, grain, caramel, citrus and aniseed

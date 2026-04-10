@@ -12,4 +12,4 @@ supergroup: writings
 kind: posts
 ---
 
-This [essay](https://www.brhat.in/dhiti/historyvsitihasa) is published at Dhīti, Bṛhat's blog.
+This [essay](https://www.bodharesearch.in/blog/historyvsitihasa) is published at Bodha Research.

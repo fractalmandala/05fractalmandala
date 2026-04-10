@@ -13,18 +13,17 @@ This page gathers the notes most directly concerned with Rigvedic interpretation
 - Sanskrit roots, etymology, and semantic reconstruction as civilizational method.
 
 ## Source Summaries
-
-- `aitoitgpt.md` - A polemical GPT-assisted essay rejecting Aryan invasion or migration theories and articulating an Out of India case.
-- `newreadingofdasarajna.md` - Reinterprets the Battle of Ten Kings with a revised premise meant to yield a substantially different historical picture.
-- `pratyaya.md` - Internal note preserving grammatical or semantic material on affixes for later Sanskritic analysis.
-- `rigvedauntranslation.md` - Draft or internal “untranslation” project aimed at rendering the Rigveda in a less flattening English idiom.
-- `rta.md` - Explores the Sanskrit term rta as cosmic order, motion, truth, and harmony, making it foundational to Indian thought.
-- `sanskrit.md` - Internal note preserving Sanskrit-oriented reflections and material for later elaboration.
-- `sarasvatirigveda.md` - Long study of Sarasvati in the Rigveda, separating geological, historical, and mythic interpretations while linking the river to chronology debates.
-- `twotheoriesandapivot.md` - Presents Aryan theory debates as a staged spectrum from invasionist claims to an indigenous reinterpretation.
-- `underpaninislight.md` - Uses Paninian roots and derivation to argue that dhatus can restore access to civilizational cognition.
-- `witzelsrealm.md` - Critiques Michael Witzel and reputation-based dismissal of revisionist Indian historical work.
-- `dhatuverse.md` - Internal manifesto on recovering civilizational consciousness through Sanskrit verbal roots and semantic networks.
+- [AIT, OIT, GPT](/wiki-writings/posts/aitoitgpt) - A polemical GPT-assisted essay rejecting Aryan invasion or migration theories and articulating an Out of India case.
+- [New Reading of Dasarajna](/wiki-writings/posts/newreadingofdasarajna) - Reinterprets the Battle of Ten Kings with a revised premise meant to yield a substantially different historical picture.
+- [Pratyaya](/wiki-writings/posts/pratyaya) - Internal note preserving grammatical or semantic material on affixes for later Sanskritic analysis.
+- [Rigveda Untranslation](/wiki-writings/posts/rigvedauntranslation) - Draft or internal “untranslation” project aimed at rendering the Rigveda in a less flattening English idiom.
+- [Rta](/wiki-writings/posts/rta) - Explores the Sanskrit term rta as cosmic order, motion, truth, and harmony, making it foundational to Indian thought.
+- [Sanskrit](/wiki-writings/posts/sanskrit) - Internal note preserving Sanskrit-oriented reflections and material for later elaboration.
+- [Sarasvati in Rigveda](/wiki-writings/posts/sarasvatirigveda) - Long study of Sarasvati in the Rigveda, separating geological, historical, and mythic interpretations while linking the river to chronology debates.
+- [Two Theories and a Pivot](/wiki-writings/posts/twotheoriesandapivot) - Presents Aryan theory debates as a staged spectrum from invasionist claims to an indigenous reinterpretation.
+- [Under Panini's Light](/wiki-writings/posts/underpaninislight) - Uses Paninian roots and derivation to argue that dhatus can restore access to civilizational cognition.
+- [Witzel's Realm](/wiki-writings/posts/witzelsrealm) - Critiques Michael Witzel and reputation-based dismissal of revisionist Indian historical work.
+- [Dhatuverse](/wiki-writings/posts/dhatuverse) - Internal manifesto on recovering civilizational consciousness through Sanskrit verbal roots and semantic networks.
 
 ## Cross-References
 

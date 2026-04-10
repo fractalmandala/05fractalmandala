@@ -18,14 +18,14 @@ chatGPT gave solutions, as usual, but either I've failed at implementing any of 
 - on each such page, I want to have a link to "next post."
 - what would be the next post? that has to be determined. the posts do not have an id or data metadata, and the sorting available is of alphabetical via their titles.
 
-##### so what's needed is a way to sort them, and assign a unique id to each, which could be called on their respective pages. id+1 or id-1 could then be calculated - and their respective post links thus fetched. 
+### so what's needed is a way to sort them, and assign a unique id to each, which could be called on their respective pages. id+1 or id-1 could then be calculated - and their respective post links thus fetched. 
 
 simple no? 😋
 
-#### my solution
+## my solution
 
 so what I've done is this:
-###### 1 - Map an index to all the posts, after sorting them
+#### 1 - Map an index to all the posts, after sorting them
 here's the function where I do that:
 
 ```javascript
@@ -49,7 +49,7 @@ const eachfiled = await Promise.all(
 }
 ```
 
-###### 2 - Set up an API of this function that can be called on any page
+#### 2 - Set up an API of this function that can be called on any page
 this is done in the route /api/galleryitems, file +server.ts:
 
 ```javascript
@@ -61,7 +61,7 @@ import { json } from '@sveltejs/kit';
 }
 ```
 
-###### 3 - Set up variables and interface on the pages where this API will be called
+#### 3 - Set up variables and interface on the pages where this API will be called
 on each page, we will need a few variables:
 
 ```javascript

@@ -16,7 +16,7 @@ The malt is warm and strong, and in this regard it differs from the somewhat smo
 
 After spending an evening with this malt, I couldn't help but wish that it came with a stronger ABV content (by now I know that a 40% malt mostly leaves me wishing for more).
 
-###### Notes
+#### Notes
 
 nose: rich, full fruit, summer
 palate: notes of toast and fruit, dry spice

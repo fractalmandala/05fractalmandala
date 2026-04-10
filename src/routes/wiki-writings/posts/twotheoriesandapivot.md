@@ -22,33 +22,33 @@ kind: posts
 *What is it called now? Aryan invasion or migration? Or is it a trickling-in?*
 *Why do some people reject it, and how outrageous is the claim that Aryans went out of India?*
 
-##### Worry not, answers to these and more are laid along a simple axis from -5 to +5, as shown above.
+### Worry not, answers to these and more are laid along a simple axis from -5 to +5, as shown above.
 
-##### At -5 is a base theory, the origin, which leads to 0 as an account of Aryan Invasion/Migration theory. It’s what THEY say happened.
+### At -5 is a base theory, the origin, which leads to 0 as an account of Aryan Invasion/Migration theory. It’s what THEY say happened.
 
-##### Don’t shoot the messenger! I only parrot the message!
+### Don’t shoot the messenger! I only parrot the message!
 
-##### I do take liberty, though- so you will find much sarcasm -5 to -1!
+### I do take liberty, though- so you will find much sarcasm -5 to -1!
 
 But from 0 onwards, leading to +5, is the counter-response. The out-of-India theory. It’s actually simply OUR story. It just happens to have consequence on THEM, so it becomes out-of-India as a paradigm.
 
-#### -5: The Base Theory
+## -5: The Base Theory
 
-##### A science is born.
+### A science is born.
 
 Languages connect to each other forming a family tree, and some language branches are more closely related than others.
 
 We had this intuition for a while, even a myth of Babel, before we discovered uncanny similarities between Latin, Sanskrit, Greek and a few other languages. We looked closer, especially at Sanskrit- with its exhaustive literary corpus, rigorously defined grammar and highly-rooted etymology. Comparative Linguistics was born, and we saw that the Indo-European (IE) languages had all descended from a common mother language, which we nominally think of as proto-Indo-European (PIE).
 
-##### And we claim:
+### And we claim:
 
 - We can know WHERE was PIE first spoken, WHEN it was spoken, WHO the people were that spoke it, WHAT their culture and religion were like, and HOW they dispersed and spread IE languages across Eurasia.
 
 - Even if there is debate on these issues, we know for sure that India was NOT the homeland. The PIE-speakers lived somewhere outside India, and at say 1500 BC, their linguistic descendants arrived in India, speaking Indo-Aryan (IA) language(s).
 
-#### -4: Into India, Part A
+## -4: Into India, Part A
 
-##### Once upon a time, there was an invasion.
+### Once upon a time, there was an invasion.
 
 We found “vague memories” of an ancient homeland in the literature of the IA-speakers, or Aryans as they called themselves. They remembered names of rivers in far Afghanistan- Sarasvatī, Sarayū, Gomal- and called to Nature Gods for help against their enemies, the dark-skinned ones, Dāsas- which later became a generic word for servant. Quite on the nose these Aryans were.
 
@@ -56,9 +56,9 @@ For Dāsas were obviously the assortment of Dravidian, Austroasiatic and other l
 
 > Craftily assimilating India’s animisms, careful to keep their cult at the core, restricting even the usage of their exclusive speech, they ensured their position there through socio-psychological institution. India’s masses, the Dāsas, were relegated to the bottom of the pyramid, forever fated there through hereditary disenfranchisement. It was an invasion complete, and thus did the language and culture of a foreign origin come to pervade India, sealing its future.
 
-#### -3: Into India, Part B
+## -3: Into India, Part B
 
-##### Invasion proven, then recanted.
+### Invasion proven, then recanted.
 
 Come the 1920s, and mounds of the ancient past emerged at Harappa, at Mohenjodaro, and a hundred other places- a civilisation was discovered. Not an Aryan civilisation, not the Vedic civilisation. Advanced town planning, complex architecture and urban living. We kept digging, and it became apparent that as high as the civilisation rose, it met an eventual demise.
 
@@ -70,9 +70,9 @@ But people refused to get it. Where was evidence of migration even, they would a
 
 Migration, trickling-in, tourism, accidental transfer- it doesn’t matter. The linguistic proof is there- an IA-speaking minority changed the cultural and demographic landscape of an entire subcontinent. And when people kept demanding archaeological evidence for linguistic truths, we had to remind them of a simple aphorism.
 
-#### -2: Pots Don’t Speak
+## -2: Pots Don’t Speak
 
-##### With linguistics and archaeology combined, presenting Indian history.
+### With linguistics and archaeology combined, presenting Indian history.
 
 These Aryans, and even their Steppe forebears, were basic pastoral nomads. You know the kind- horsing about, praying to the Gods, kindling fires on elaborate altars, inventing chariots, a compulsion for stealing cattle. The last of these they described as gaviṣṭḥi, which roughly translates to ‘gau ki itch thii.’
 
@@ -82,7 +82,7 @@ You see, the model holds. There are no Steppe horse bones in India prior to 1500
 
 The rest, of course, is history. With the caste system and its brahminic hege-
 
-#### What? You have some questions? Sure…
+## What? You have some questions? Sure…
 
 1. Why are horse bones not preponderantly found in the record AFTER 1500 BC?
 We shouldn’t be expecting this, to be fair. Our model is a linguistic one, and there’s no guarantee that linguistic dispersals should have a material record. After all, pots don’t speak.
@@ -95,9 +95,9 @@ What are you saying here? Absence of evidence is evidence of absence? Wait a min
 
 Pots don’t speak :(
 
-#### -1: But Genetics Does!
+## -1: But Genetics Does!
 
-##### It’s hard science, don’t take it too hard.
+### It’s hard science, don’t take it too hard.
 
 Genes correlate far stronger to language, as is obvious. When a language from the Steppe arrives in India, we cannot be sure that pots and beads travel. But surely genetics do! Our linguistics being ‘hence proved’ at Base Theory level itself, we only need await yet to be found genetic evidence for the stamp of hard scientific proof to our truth!
 
@@ -109,9 +109,9 @@ R1a-Z93 is the Aryan gene. Even though Aryan is not a race, and we started with 
 
 With limited ancient DNA data, convenient correlations and deliberate omissions, we find this Aryan gene more in higher castes than in lower castes. More among north Indians than among south Indians.
 
-##### Genetics has given us proof of all we claimed in the preceding, so we are now ready to make our declaration.
+### Genetics has given us proof of all we claimed in the preceding, so we are now ready to make our declaration.
 
-#### 0: A Story from Above
+## 0: A Story from Above
 
 In ~1500 BC, a people with Steppe ancestry arrived in India, but don’t expect this to be materially evidenced. They spoke Indo-Aryan, which descended from Proto-Indo-European.
 Like their Indo-Iranian speaking cousins, they called themselves Aryans. To secure dominance for their language and culture among a demographic majority, they entrenched a self-serving caste hegemony.
@@ -123,7 +123,7 @@ These Aryans also happened to preserve, document and create such an extensive li
 
 What a journey from the nervous days of nascent linguistics, during which we even trekked with some pastoralists from Steppe to subcontinent!
 
-#### But notice the collapsibility, the tautology:
+## But notice the collapsibility, the tautology:
 
 A linguistic notion at first, itself not well defined and with bands of uncertainty.
 
@@ -139,9 +139,9 @@ Enter genetics. Suddenly language = race = culture = genes. Academics will tell 
 
 This appears nothing like our own impression of the past. Are we wrong then? Is beginning with theory and ending with story the correct way to do things? How would we know, if we do not try?We know our own story, and now from the above we know the theory to reach.
 
-##### So let’s try the journey again, in reverse.
+### So let’s try the journey again, in reverse.
 
-#### 0: A Story to Below
+## 0: A Story to Below
 
 We are a people with a deep past, indiscernibly deep. Sure, we have stories of migrations and invasions- just as much as we do of people migrating out.
 
@@ -154,15 +154,15 @@ Linguistic and philological evidence establishes India as the most likely PIE ho
 
 Let’s go.
 
-#### +1: It’s Not Rocket Science
+## +1: It’s Not Rocket Science
 
-##### It’s just genetics, why do you struggle so much?
+### It’s just genetics, why do you struggle so much?
 
 Very good, you found the Aryan gene. Pray, tell- why isn’t R1a-Z93 found in Zoroashtrian priests or Mycenean Greeks? Or, did R1a originate in the Steppe? No? Where then? We have raw genetic data, yes. But what is it evidence of? Think it through, it’s not rocket science.
 
 How is R1a found among some non-IA speakers, or non-R1a among IA speakers? Why do some “lower castes” have R1a, and why do they have any shared genetics with “upper castes?” Why are “south Indian” genes found in India’s northern inhabitants, and why are “north Indian” genes among those of the southern states? With a dazzlingly-branching genetic tapestry in the human past, why is a specific genetic ripple at ~1500 BC (if that) so all-salient? Take your time parsing through the many papers available, don’t be daunted.
 
-##### It’s not rocket science.
+### It’s not rocket science.
 
 Or confront India’s position as humanity’s second primordial homeland- outside of Africa. Her contribution to formative ancestries of Oceania and Japan. Haplogroup D, going to East Asia. Paternal lineages H and K*, their origins here. The ancestry of R- which leads to haplogroup P with origins in India. Haplogroup O of the Pearl River Delta, origins in the Eastern Himalaya.
 Ranging temporally to the Last Glacial Maximum ~28kya, notice India’s unique position for ethnogenesis around climatic bottlenecks. Add to this the emerging linguistic relationships between PIE and Tibeto-Burman. If India is humanity’s second primordial homeland, genetically, surely it is also a primordial homeland linguistically? But we won’t make this claim. Why?
@@ -170,9 +170,9 @@ Because linguistics and genetics do not flow the same. You think it hence proved
 
 It’s not rocket science.
 
-#### +2: Pots Don’t Speak, But Facts Do
+## +2: Pots Don’t Speak, But Facts Do
 
-##### Or, cultivating discernment and clarity.
+### Or, cultivating discernment and clarity.
 
 A tautological truth- the Steppe variety of horse was not known to Indians before the Steppe variety of horse was brought to India. But India was familiar to the equid in general, proven even in the doodles of our cavemen ancestors. The Aryans used aśva for any quick animal, including non-equid varieties, proven in literature. Aśva as the “true horse” in specific is not found in the entire early Ṛgveda. Without resolution of these, no association with Steppe or PIE can be made on account of horses.
 
@@ -182,9 +182,9 @@ In truth, the two ends of our axis tend to the same assertion- the matter is lin
 
 But peeling away layers that conflate and (mis)compound, we’re left with a simple question- leaving Sanskrit aside (only for a moment, that is), what exactly did some Steppe horse-riders bring to India? Turns out we have a theory too. And then some.
 
-#### +3: Out of India, Part A
+## +3: Out of India, Part A
 
-##### Indian life, as discernible in record.
+### Indian life, as discernible in record.
 
 Put aside the exceptions raised above. The domesticated horse, and the true chariot, are speculated to have emerged in latter phases of PIE disintegration and dispersal. In a fascinating turnaround of events, for the PIE homeland to be in India, we need not the domestication of horse here, nor even PIE in an integrated state at the time of true chariot invention. We never did.
 
@@ -195,13 +195,13 @@ Organised agriculture. Metallurgical trajectories to Bronze Age and beyond. Mate
 Continuities, continuities, continuities. The Harappan civilisation is your academic category, not a discernible reality. The reality is Indian civilisation, and it flows like the Sarasvatī.
 Speaking of which, one needs understanding of the Sarasvatī significance? Here’s the claim, onus on you to disprove.
 
-##### The Sarasvatī and the Ghaggar-Hakra are one and the same. Consequently, Haraxvati- or the Helmand- was named later. See the arrow?
+### The Sarasvatī and the Ghaggar-Hakra are one and the same. Consequently, Haraxvati- or the Helmand- was named later. See the arrow?
 
-##### Points from India, out.
+### Points from India, out.
 
-#### +4: Out of India, Part B
+## +4: Out of India, Part B
 
-##### Two can play the game, here’s how we win.
+### Two can play the game, here’s how we win.
 
 First, the basics. Obviously there were languages spoken in India long before Sanskrit emerged. While we may accept current classifications for IE, Dravidian, Austroasiatic and other languages, no linguistic compulsion exists for hard boundaries that restrict inquiries upon the established paradigm. Already there are whispers of Nostratic, and we may only hope your instinct isn’t to go running for the Nostratic gene.
 
@@ -211,7 +211,7 @@ But it’s not about what we want. This is about what you want. You want a model
 
 So finally, the philology. Early Ṛgveda, later Ṛgveda- Oldenburg 101? Your game, we’re just playing it. And what’s that thing about not hating the player, hating the game? Geography, flora, fauna, hydronomy- early vs. later Ṛgveda. Take a look, try to refute. Better still, try something other than Jahnāvī. Or maybe there’s hope, and you see the arrow.
 
-##### Points out, from India.
+### Points out, from India.
 
 Bhalāna, Pāktha, Pārthava, Pārśava, Dāsa, Ālina, Viṣāṇin, Simyu, Druhyu, Bhṛgu, Danu, Kavi, Auśinara.
 
@@ -229,15 +229,15 @@ We give you rope.
 
 Remove them all, explain just the Dāsas, Pārthavas, Pārśavas. Or you know- Dahae, Parthians, Persians- Iranians? What were these dudes doing in Punjab? Hadn’t they split at that Helmand fiasco back in Afghanistan? If they were in Punjab, that means the-
 
-##### Arrow.
-##### Points.
-##### Out.
+### Arrow.
+### Points.
+### Out.
 
 Oh wait, suddenly the entire model has collapsed. Worry not, here’s the rescue, for we can finally see emerge:
 
-#### +5: The Based Theory
+## +5: The Based Theory
 
-##### Or out-of-India, but why bother naming a collapsed house of cards.
+### Or out-of-India, but why bother naming a collapsed house of cards.
 
 It’s really just simple truths at this stage, if you’ve kept up. Languages transmit and flow somewhat similar to genes, but not always. When do they, and when not? How much, or how less? Can’t be said.
 
@@ -255,13 +255,13 @@ PIE disintegrated and dispersed in multiple waves, spread out over centuries, ri
 
 You see, the great illusion of the first 5 steps is precisely this. Convoluted, reductive and over-simplified narratives built to uphold a linguistic theory so shaky, certitudes are rarely substantial. To yank at these pillars, to cause their easy collapse, is not to make the denials we’re accused to making. We can talk about migrations and genetics, no problem. We can talk about India’s social inequities, no problem. Let’s discuss the caste system, and let’s also discuss it with our own etymology and ontology. Where and how these become salient upon PIE origins- no amount of steps can explain. India was home to many migrations and countless genetic lineages. It was home to several endogamies and hundreds of community boundaries. It was simply home:
 
-##### To Indians.
-##### To Indian languages and Indian culture.
-##### To Indian agriculture, Indian metallurgy, Indian architecture and Indian art.
-##### It was a civilisation with continuity, diversity and integrity, self aware enough to consider Sanskrit and Tamil its two great eyes.
-##### Do share again that thing you said, Aryan vs. Dravidians what?
-##### Sorry, we can’t hear you.
-##### There you go, a look at theory-to-story, story-to-theory, between the 2 same theoretical and narrative constructs.
+### To Indians.
+### To Indian languages and Indian culture.
+### To Indian agriculture, Indian metallurgy, Indian architecture and Indian art.
+### It was a civilisation with continuity, diversity and integrity, self aware enough to consider Sanskrit and Tamil its two great eyes.
+### Do share again that thing you said, Aryan vs. Dravidians what?
+### Sorry, we can’t hear you.
+### There you go, a look at theory-to-story, story-to-theory, between the 2 same theoretical and narrative constructs.
 
 <img src="/images/theoriesandpivot.png" alt="pivot"/>
 
@@ -277,7 +277,7 @@ So the real loggerhead is not at |5|, |4|, |3|, |2| or |1|, it’s at 0- at the 
 
 Remember this next time you talk to a SteppeBro (or Sis). Make note of which step they sit at, and approach accordingly. They play a slippery game, but they’re counting on you not knowing this.
 
-#### Epilogue for the Troubled Mind
+## Epilogue for the Troubled Mind
 
 > But! Isn’t it an incredible wanderlust those ancient Indians must have had? To leave India in such droves?
 

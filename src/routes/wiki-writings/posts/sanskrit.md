@@ -9,10 +9,10 @@ group: internal
 ---
 This is currently a set of unsorted notes on Sanskrit.
 
-#### dhātu vikaraṇa
+## dhātu vikaraṇa
 शप्, श्यन्, श्रु, श, श्नम्, उ, श्ना (śap, śyan, śru, śa, śnam, u, śnā) यक्, आम् (yak, ām) स्य, तास्, सिप्, आम् (sya, tās, sip, ām) and च्लि (cli)
 
-#### padas
+## padas
 1. subanta (nouns)
 	1. pratipādika (base)
 		1. sarvanāmam
@@ -27,7 +27,7 @@ This is currently a set of unsorted notes on Sanskrit.
 	2. pratyaya
 2. tiṅanta
 
-#### the 7 primitive bhāvas
+## the 7 primitive bhāvas
 1. sense of knowing - jñāna/jñāpya bhāva - object of know/process involved in knowing
 2. sense of moving - pūrva/apāra bhāva - state at beginning/end of a process
 3. sense of agency/do - sādhya/sādhaka - something to be accomplished/accomplished

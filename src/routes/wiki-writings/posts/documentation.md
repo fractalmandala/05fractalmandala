@@ -14,12 +14,12 @@ kind: posts
 
 I see documentation as an essential part of design. For design is an iterative process- every cycle being predicated upon an introspective analysis of the previous iteration. This analysis is not possible without some record of what was done, how it was done, why it was done so, in the previous cycle(s). In other words, documentation is how we may converse with the previous versions of our design. This is when I speak of documentation only as a personal dialogue. There is much more to it, when working in teams, across space and/or time. Here I record essential documentation for the three websites I currently manage and maintain.
 
-#### Stores
+## Stores
 Sveltekit's stores feature is a wonderful utility, very simple to use but extensive in its functionality. For example, it can be used to store theme visibility- light and dark, across the website, which persists across user sessions.
 
 All stores are recorded in '$lib/stores'. Stores that need to persist across website and are global in scope are kept in 'globalstores.ts'
 
-#### globalstores
+## globalstores
 
 ```javascript
 import { writable, derived } from 'svelte/store'; //the derived import will help derive breakpoints from a single store of window width.
@@ -42,7 +42,7 @@ The above method can be used also for offcanvas menu. But for modals, alerts etc
 
 I store functions for global modals and alerts in the same globalstores file. One global alert use-case is for basis "error" or "success" alerts, There are a couple of steps for this. We need to set up the stores + functions, and the actual component for display. 
 
-#### alert store
+## alert store
 
 ```javascript
 import { writable } from 'svelte/store';
@@ -119,9 +119,9 @@ function handleSubmit(){
 
 This principle can be used for all kinds of modals, popups, toasts and others.Another use-case for example is a confirmation modal for delete buttons.
 
-#### other global stores
+## other global stores
 
-##### window width
+### window width
 ```javascript
 import { browser } from '$app/environment';
 import { writable, derived } from 'svelte/store';

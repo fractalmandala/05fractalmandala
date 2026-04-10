@@ -63,7 +63,7 @@ These conditions established, we are now ready to articulate the ten questions o
 2. Knowledge must be validated by observation, experience and reason.
 3. A non-falsifiable observation is generally a waste of time.
 
-#### The Ten Questions
+## The Ten Questions
 
 To know the ultimate meaning of life, the universe and everything, these are the ten questions we must be able to answer. Each question in turn leads to several sub-questions. Any answer must satisfactorily address these sub-queries also. As an example, the possible sub-queries of the first question are shown.
 

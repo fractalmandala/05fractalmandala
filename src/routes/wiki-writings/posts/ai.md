@@ -18,5 +18,3 @@ That said, not since the early days of rooted Androids and custom-ROMs has new t
 ChatGPT has made this entire site possible, as well as my organizational websites that also I run and manage. I've used it to acquire a working comptence in web dev with Sveltekit, db integration and auth a la Supabase, and a whole lot of CSS and JS/TS. It's no exaggeration to say that without chatGPT all of this would not have been possible. Hell, I wouldn't even have considered it. The possibility itself was opened up by chatGPT's ability to generate code to precise instructions/briefs.
 
 Speaking of AI, Person of Interest is one of my all-time favorite shows. And I highly recommend it to anyone interested in future plausibilities with AI. There's a lovely scene towards the end of the show, and I'll allude to it without spoilers- 'I have failed you.' What a moment.
-
-I'm working on a two-parter deep dive into AI. Part 1 of which is [here](https://www.brhat.in/dhiti/artificialintelligence)

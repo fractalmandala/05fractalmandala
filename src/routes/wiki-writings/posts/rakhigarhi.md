@@ -12,7 +12,7 @@ kind: posts
 ---
 Among the sciences that we can use to understand and exhume history, genetics is a field that is increasingly finding place. Recent works by Tony Joseph and Shrikant Talageri show us how the same genetic data is subject to different interpretations. There is a simple reason for this- in itself, genetic data tells us nothing about the movement of language and culture. Take the example of English and Western culture, both well entrenched in Indian society. Will we find British DNA in Indians then? Or Arabian DNA in Indian Muslims who practice a culture that arose from there? Or Indian DNA in South East Asia where Hinduism and Buddhism have held influence for hundreds of years? These are only a few of many examples that show that there is no congruence between the movement of genes and culture. History is also replete with cases of ethnic populations mixing with local ones such that the foreign culture and language disappear, but the genetic traces could be found generations later.
 
-##### In other words, any attempt to map genetic data to theories of language and culture migration is a red herring to begin with.
+### In other words, any attempt to map genetic data to theories of language and culture migration is a red herring to begin with.
 
 Recent findings at a site called Rakhigarhi in Haryana help us see how a proper understanding of history can only come holistically. We will get to this later, but first let us introduce ourselves to Rakhigarhi. The site was first excavated in 1963 by the Archaeological Survey of India, and further excavations have been conducted in 1997, 2000, 2014 and 2018. Rakhigarhi is not yet a completely discovered site. Much excavation and research is yet to happen, and many questions are raised by genetics as well, as we will later see. It’s located in modern Haryana, around 130 kms north-west of New Delhi
 
@@ -38,7 +38,7 @@ Other features of Rakhigarhi:
 
 The crucial thing about Rakhigarhi is that it simultaneously shows 2 things- 1) the largest known Harappan site and with Sarasvati as the core river, and 2) several links with motifs of Vedic/later Hindu culture- fire altars, figurines, artisan motifs etc. In other words, this is a site that is not only typically Harappan, it is also entirely congruous with what we would expect from a Vedic culture. Further, given that it dates as far back as 6500 B.C., it also establishes antiquity to these things. Lastly, it also shows local development of agriculture, animal husbandry and metallurgy.
 
-##### Rakhigarhi is uniquely ‘Indian’, where by Indian we mean a strand of traditions native to the Indian subcontinent that go back thousands of years.
+### Rakhigarhi is uniquely ‘Indian’, where by Indian we mean a strand of traditions native to the Indian subcontinent that go back thousands of years.
 
 What do the texts tell us of a place like Rakhigarhi? For one, the primary river-system of the Rig Veda is the Sarasvati and its tributaries. All the glories of this river that are sung in the Rig Veda would have been vivid and real to the citizens of Rakhigarhi for the known 4500 years that it existed, and think for a moment of how long a time that is. The people of Rakhigarhi would have witnessed all the vicissitudes of the Sarasvati. They would have faced floods and droughts, and in the city’s last centuries they would have lamented the great disappearance of their beloved river. A reading of the Rig Veda suggests modern Haryana, Delhi and parts of Rajasthan as the core land of the text. This is supported by the modern acknowledgement of Ghaggar-Hakra as a remnant of the erstwhile Sarasvati.
 
@@ -48,7 +48,7 @@ But Vaivasvat Manu’s story is associated with a great flood and the matsya ava
 
 Like Mehrgarh, the better proposition is to date the beginning of Rakhigarhi to the 6th Manvantara, probably of a time after Prithu’s reign.
 
-##### And more than Mehrgarh, Rakhigarhi could be a city the Prithu-template ruled. It is telling that the Rig Veda remembers the land around Rakhigarhi as Varaha Prithviyah- are we being told that the Rig Vedic people did indeed remember Prithu’s story?
+### And more than Mehrgarh, Rakhigarhi could be a city the Prithu-template ruled. It is telling that the Rig Veda remembers the land around Rakhigarhi as Varaha Prithviyah- are we being told that the Rig Vedic people did indeed remember Prithu’s story?
 
 Something else to think about- if the Harappan and Vedic cultures are something different, and the latter succeeded the former through an “Aryan migration”, then at Rakhigarhi this theory faces some of its toughest questions. Already Vedic elements are evident here from 4000-3000 B.C., but the supposed Aryan migration happened much later. The Rig Vedic people are a pre iron age people in complete familiarity with the Sarasvati, so they could not have migrated here after the river dried up and were well established before it even began doing so. So was Rakhigarhi peopled by the Harappans or the Rig Vedic Aryans? And what percent of the city would have been Aryan immigrants, say in 4000 B.C.?
 
@@ -67,7 +67,7 @@ It shows that Aryans originated around 3000 B.C. in the steppes, and from an Ind
 
 A more objective analysis of the Rig Veda makes it obvious- this is a text composed by people who lived more somewhere between 4000 and 3000 B.C., with a large upper limit to how old select prayers could be. These people lived somewhere in the lands of modern Haryana, Delhi and Rajasthan, and the peripheries of their realm extended to Afghanistan and eastern Iran in the west to Uttar Pradesh in the east.
 
-##### The genetic data at Rakhigarhi then seems to confirm what Indic tradition has maintained all along.
+### The genetic data at Rakhigarhi then seems to confirm what Indic tradition has maintained all along.
 
 For one, there is no ethnic or racial identity called the Aryans. Indic tradition does not assert that Aryans were some racial group that spread out from India. It denies such a grouping ever existed, for the term Arya is not one of ethnicity. Suitably- ‘Aryan’ elements and motifs have been found in Rakhigarhi dating to a time when the mainstream Aryan model still places them in the central steppes. Further, the absence of R1a1 suggests that local development of agriculture, metallurgy, religion and other cultural aspects happened prior to the later influx of R1a1- Indic culture is native.
 

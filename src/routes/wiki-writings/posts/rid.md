@@ -5,12 +5,12 @@ tags:
   - notes
   - starred
 ---
+
 ## 01. Introduction
 
 Design thinking is coming full circle. Having traversed systems, integrated, business-centric and other approaches, it converges towards human-centric, modular and circular. IDEO, steward of design thinking, talks of emergent design paradigms being human-centric, fractal and circular. UK’s Design Council speaks of ‘designing for the planet’, but its concerns are just the same- sustainability, reusability, harmony. The Conscilience Project identifies three defining evolutions of design thinking:
 
 1. **Naively Optimistic Design-** Design that assumes an intrinsic association between positive values and human-tech interfaces. But its steadfast neglect of second and third order effects has brought us in contact with catastrophic risks.
-
 2. **Luddite Design-** Assumes only negative values for human-tech interfaces, and seeks to roll back or undo technological advancements. But the choice to opt out of technological advancement is realistically no longer available to anyone.
 2. **Nihilistic Design-** Or values-agnostic design, dominated by the view that technology is only what we make of it, and the values that drive such making derive from elsewhere.
 
@@ -18,15 +18,11 @@ Of these, the last has brought us to the brink of disaster. Our steadfast preten
 
 The values-agnosticism in modern creatorship is so stark, what is called ‘disruptive innovation’ has- in convenience tech- created the hazardous situation of service agents rushing to deliver retail goods within unreasonably short time commitments.
 
-And the actual incidence of this considered to be in the realm of conspiracy, we live in a world where biological products of human design can cause global pandemics.
+And the actual incidence of this considered to be in the realm of conspiracy, we live in a world where biological products of human design can cause global pandemics. Human creation is bringing the ruin of life, species and planet. Introspection and a radical recalibration are our only chance of reversing the situtation. What’s needed is a “wisdom of gods,” found encoded across culture- or dharma.
 
-**Human creation is bringing the ruin of life, species and planet. Introspection and a radical recalibration are our only chance of reversing the situtation. What’s needed is a “wisdom of gods,” found encoded across culture- or dharma.**
+### Put simply, we assert that the next evolution needed in design is that of culture-rooting. More specifically, of dhārmika design thinking.
 
-##### Put simply, we assert that the next evolution needed in design is that of culture-rooting. More specifically, of dhārmika design thinking.
-
-##### And since dharma is the endeavor to conduct life and society in harmony with the natural order- which is ṛta (ऋत)- dharma-led design is effectively ṛta in design.
-
-Ṛta in Design is not a new language for design. It is an augmentation of current design thinking with the conceptual root of dharma. We believe that Ṛta in Design can introduce constructive paradigms to converse, collaborate and co-create with existing principles of design.
+And since dharma is the endeavor to conduct life and society in harmony with the natural order- which is ṛta (ऋत)- dharma-led design is effectively ṛta in design. Ṛta in Design is not a new language for design. It is an augmentation of current design thinking with the conceptual root of dharma. We believe that Ṛta in Design can introduce constructive paradigms to converse, collaborate and co-create with existing principles of design.
 
 Dharma-rooted design thinking carries enormous advantage- for example on the matter of sustainability. A sensitivity to our impact on and obligation in this world, which modern design develops only now, is one that’s at root of ṛta in design.
 
@@ -36,31 +32,23 @@ Where we do depart with contemporary design systems is on our focal center. In t
 
 ## 02. Design and Dharma
 
-#### DESIGN
+DESIGN - To design is to create with intent, deliberation, plan and purpose; Design is the implementation of a process with reflection-in-action. Design involves creating, constructing, conceptualising, planning, framing of intent and navigation of constraining boundaries.
 
-To design is to create with intent, deliberation, plan and purpose; Design is the implementation of a process with reflection-in-action. Design involves creating, constructing, conceptualising, planning, framing of intent and navigation of constraining boundaries.
+DHARMA - To establish, to practice a method or custom, to organize life and society in consonance with the natural flow is to establish dharma. That which is created with intent, deliberation, plan, purpose and reflection-in-action is dharma. Dharma is the dynamic cultural process of bearing and supporting a tradition of deliberate and planned consonance with the harmonics of reality.
 
-#### **DHARMA**
-
-To establish, to practice a method or custom, to organize life and society in consonance with the natural flow is to establish dharma. That which is created with intent, deliberation, plan, purpose and reflection-in-action is dharma. Dharma is the dynamic cultural process of bearing and supporting a tradition of deliberate and planned consonance with the harmonics of reality.
-
-##### The Anthropocene is Broken
+### The Anthropocene is Broken
 
 Design today, as a thing manifest, is writ large upon the planet. But we have lost deliberation and the clarity of intent. Rushing disruptively into the future, we have designed ourselves into a lost species on a dying planet. **We need a Better Way to craft our world.** We need a ‘full-stack’ design system, one that brings convergence of information and knowledge at utility level and provides the cultural grist for future-formation.
 
-##### In the distant past…
+### In the distant past...
 
-##### The sound instruments of mental scientists converted information to knowledge,
+The sound instruments of mental scientists converted information to knowledge,
+And engineers of praxis and ritual converted knowledge to utility.
+Dharma is the conversion and manifestation of utility in the cultural context, ie.:
 
-##### And engineers of praxis and ritual converted knowledge to utility.
-
-##### Dharma is the conversion and manifestation of utility in the cultural context, ie.:
-
-#### DHARMA _IS_ DESIGN
+### DHARMA *IS* DESIGN
 
 And what is dharma, if not the endeavor to conduct life and society in consonance with ṛta, the natural order? To bring dharma in design is to bring a ṛta-consciousness to the processes and methods of design. Dharma in design is effectively, Ṛta in Design.
-
-At Bṛhat, our mission is to design the self-perpetuating civilizational moment. This ambition requires scaling, it requires enabling and compounding of individual intent. To do this, we need to embed dhārmika consciousness into every aspect of modern living- culture, media, policy, governance, education, management and more. And each of these are guided by the intent of their designers. Designers embedded with a dhārmika consciousness have an exponential effect on the cultural flywheel.
 
 **Ṛta in Design is our input at seed and root**- at the very intent, reflection, planning and implementing of those that craft our world. It synthesizes key aspects of the dhārmika worldview and links it to general steps in the contemporary design process. This makes it possible for designers to use the fundamentals coded in the cultural identity of our grand civilization.
 
@@ -74,7 +62,7 @@ This is as true at the level of grammar as it is on the level of ontology- karma
 
 To ‘design something’ most accurately means to do it with a process of deliberation and planning, through an outcome of deep-thinking, reflection and crystallization of intent. In other words, design is action when done by a self-reflective consciousness. Dhārmika design thinking requires that we realize that every action, every deed ought to be by design. What is done or accomplished through such a process is consequently “well-done,” or “well-effected,” “refined.” **There is a word to describe exactly this.**
 
-##### Since it is done, it is a ‘kṛta’ (has been done), and since it is well done, it is ‘samyak.’ Well designed and well effected is thus something that is ‘saṃskṛta.’ The genuine word for design is saṃskaraṇa, and design as the output is saṃskṛti. One must take pause to internalize the implications:
+### Since it is done, it is a ‘kṛta’ (has been done), and since it is well done, it is ‘samyak.’ Well designed and well effected is thus something that is ‘saṃskṛta.’ The genuine word for design is saṃskaraṇa, and design as the output is saṃskṛti. One must take pause to internalize the implications:
 
 - Whenever designers encounter skeptics to the claim that design impacts culture, they ought to be pointed to Indian culture, where the word for design and culture is in fact the same. They are both ‘saṃskṛtis’. Indian culture is the perfected design of our civilization.
 - The process of design is samṣkaraṇa, and designers are would-be saṃskartṛs. What is well designed and perfected enough to be seeded through the culture is thus called saṃskāra - great designs.
@@ -101,56 +89,41 @@ Ours is a framework for designing the design of design, ie, thinking out the met
 
 - Saṃskartṛs- artists, writers, business planners, product managers, UI and graphic designers, policy formulators, curriculum designers, programmers.
 - Those who are looking to enable/empower Samṣkaraṇa, such as business leaders, marketers, administrators, teachers.
-- And finally, for you and us- or anyone who wants to (re)create Samṣkṛti, or Bhāratīya Sāmṣkṛtika Cetanā (Indian Civilizational Consciousness). Since we at Bṛhat are designing the self-perpetuating civilizational moment, this thinking model is in fact our playbook.
+- And finally, for you and us- or anyone who wants to (re)create Samṣkṛti, or Bhāratīya Sāmṣkṛtika Cetanā (Indian Civilizational Consciousness).
 
 It represents a defining difference between dhārmika design thinking and contemporary prevalent systems. Under de-facto stewardship of IDEO, design thinking itself pushes towards what it calls “human-centric” design. Though not at odds with it, Design Council perpetuates “planet-centered” design. The National Design Policy approved by India’s government aims for Indian design to propel itself onto the global stage- a nation-centric design framework.
 
-The perpetuation we at Bṛhat seek is that of a civilization, and more fundamentally one of self-perpetuating nature. It keeps us tethered to the dhārmika worldview, where any matter begins with ātma, the self. Even ‘design’ is a kriyā, an action. If we are to be centered around something then, it is ātma-centered. Design thinking, the sāṃskṛtika cetanā of a designer, begins with the designer- the one who will bring something to form. And great design begins with great self-design. With the Svataḥ Siddha.
+Even ‘design’ is a kriyā, an action. If we are to be centered around something then, it is ātma-centered. Design thinking, the sāṃskṛtika cetanā of a designer, begins with the designer- the one who will bring something to form. And great design begins with great self-design. With the Svataḥ Siddha.
 
-## 06. Where Can it be Applied?
-
-Bṛhat is in the territory of designing the self-perpetuating civilizational moment. Obviously, this lofty ambition will be met by building up from relatively localised branches of design.
-
-Policy and research design will be core to our work, and in our output here we will be able to demonstrate how we apply Ṛta in Design to our own creation process. Closely related to this is curriculum design, which now increasingly requires an IKS-awareness (Indic Knowledge Systems) and expertise.
-
-On the technology front, we will commence a regular stream of design output to showcase the in-house method to visual design- including demos of how we go about building our website and design system. In our organizational collaborations this scales to the level of user experience design, information architecture and game/journey design.
-
-We also intend to bring Ṛta in Design to the corporate sphere, especially in the areas of product and organizational design. Our curation and consultation will span business model and strategy, transformation design, and culture-compatible design.
-
-These articulate only the initial steps, for as we said- our ambition is lofty- and there is much in our roadmap. We are also very eager to hear from YOU, the designer and creator, the would-be-saṃskartṛ. All momentum is welcome for the civilizational flywheel to get going, and Ṛta in Design can take new shape and form with novel contributions.
-
-## 07. The Scaffolding in Brief
+## 06. The Scaffolding in Brief
 
 We visualize the design process as a series of fluid, inter-connected steps that begin with the emergence of intent in the designer’s mind and end **one cycle of iteration at the creation of a physical (or digital) form**. After this creation the cycle resets and another iteration can begin- this is how design iterates and learns through reflection. There are deeper layers here that will be released as supplementary packages. For example, our visualization is nothing but a redux of the three-śaktis- Icchā Śakti to power intent, Jñāna Śakti to power ability/capability, and Kriyā Śakti to channel action/manifestation.
 
 This model for dhārmika design thinking
 
-##### aims to empower designers at each stage of this journey with the tools, methods, practices and resources needed to self-actualize into the next stage.
+### aims to empower designers at each stage of this journey with the tools, methods, practices and resources needed to self-actualize into the next stage.
 
 We see the first complete framework and version 1 of the Ṛta in Design Playbook being ready by the end of year 2022. Along the way if we meet like-minded designers to collaborate and co-create with, the flywheel would have been set in motion. For each notion listed here, the universal principle is the same- to make fit or proper. That is, to do it well, with planning and deliberation: saṃskaraṇa.
 
 #### 1- Svataḥ Siddha - From Intent to the Beginning of Action
-
 - Icchā: Will, Intent, Desire, Need
 - Bhāva: Feeling, Emotion, Dispassion, Disposition
 - Jñāna - Knowledge, Ontological Base, Cognitive Pool
 - Yogyatā - Readiness, Capability
 
 #### 2- Purohita - Implementing the Design
-
 - Upakaraṇa - Tools and Resources
 - Prakriya - Methods ad Processes
 - Vyavahāra - Conduct, Relationships, Ethics
 - Sphoṭa - Execution, Manifestation
 
 #### 3- Saṃskārtṛ - Iteration and Reflection-in-action
-
 - Anukramaṇa - Analysis of Design (meta process)
 - Cintana - Self Reflection (kept here instead of in 1 to reinforce iteration)
 - Karma - Consequence, Impact
 - Saṃskartṛ - Meaning and elements of the design being
 
-## 08. Phase 1 - Svataḥ Siddha
+## 07. Phase 1 - Svataḥ Siddha
 
 All things begin with intent, whether that of brahman or that of ātman. In the case of design or creation this locates in the kartṛ’s (creator’s) intent. In our scaffolding, emergence of intent in the mind is where the design process starts. This may emerge as a cognitive burst- a sudden impulse that translates to designed creation; or as a slow bloom of intentionality that eventually converts to action. These are already phenomena the designer needs to perceive and be aware of. Intent shaping is a vital feedback loop to induct in the process of design-oriented self-reflection.
 
@@ -163,7 +136,7 @@ For the first phase of Ṛta in Design- the inner world of the designer- we mode
 3. Jñāna: Knowledge, Ontological Base, Cognitive Pool
 4. Yogyatā: Readiness, Capability
 
-## 09. Phase 2 and 3 (Purohita and Saṃskartṛ)
+## 08. Phase 2 and 3 (Purohita and Saṃskartṛ)
 
 The process of design is one of manifestation. There is no design to the idea that remains an idea alone. A majority of the world’s aspiring creators are held back primarily by their own inaction. The second phase seeks to address this disconnect, and to remind designers that the best ideas are those that get executed. It is better to be the writer of one finished manuscript than that of a dozen abandoned ones.
 
@@ -185,25 +158,25 @@ The four nodes to anchor this phase are:
 3. Karma: Consequence, Impact
 4. Saṃskartṛ: Meaning and elements of the design being
 
-## 10. Principles of Ṛta in Design
+## 09. Principles of Ṛta in Design
 
 Every internally consistent system is guided by a set of universal design principles. At the cosmic level we call them natural laws, such as the law of gravitation, or the speed of light. For the design process to have similary consistency, it needs to be encoded with a core DNA- the code that guides it every step of the way. Design thinking is led by five stages or steps, which act as its guiding principles: Empathize, Define, Ideate, Prototype, Test.
 
 Ṛta in Design has four principles- four key ideas that run through every phase and every action, which when interlinked provide consistency to the process and the output. These are neither mutually exclusive nor sequential. They are four streams that need run parallel and constant:
 
-###### Intent
+#### Intent
 The design of the designer, the shaper of all things that get created. Recognizing the importance of Intent in design is core to our system.
 
-###### Agency
+#### Agency
 The best idea in the world is one that is brought to life- our chase is not for that unfinished manuscript, that untested idea. Design takes agency.
 
-###### Grounding
+#### Grounding
 The higher order principle that gives telos- the ultimate aim. A lack of telos in modern creation and design is their primary lacuna.
 
-###### Consonance
+#### Consonance
 A fully functioning ṛta in design process, coded with three preceding principles, leads towards this, the final. Sense-making at all levels
 
-## 11. Intent
+## 10. Intent
 
 That we collectively create a world that none of us individually want is, in significant portion, attributable to a problem of intent. More specifically, to how intent is shaped and directed, once it arises and is noticed.
 
@@ -214,12 +187,11 @@ A designer’s personal values and local ontology will impact both the function 
 Literature and tools of this principle will address the designer’s inner world. This is the world of cintana- self-reflection, svabhāva- disposition, and jñāna- knowledge.
 
 To anchor the four principles, and to articulate the epitome and vision to aspire to, each of them will be captured in a civilizational guiding statement:
-##### _**Aham Brahmāsmi**_
-##### I am Brahman.
+### Aham Brahmāsmi | I am Brahman.
 
 ie., designers need keep in mind the power and responsibility at their disposal. That in bringing things to life they enact the great creator, Brahman, means deep consideration and deliberation.
 
-## 12. Agency
+## 11. Agency
 
 In the grammar-philosophy of Bhartṛhari, one of India’s greatest linguist ṛṣis, the meaning of an utterance is truly comprehended only at the end of a sentence- not before. It bursts in the listener’s mind after the full vākya, in a flash of insight Bhartṛhari called sphoṭa.
 
@@ -229,15 +201,13 @@ There are sensitivities needed here for method and procedure, and also for condu
 
 This is the realm of prakriyā- processes and methods, of upakaraṇa- tools or enablers, and of vyavahāra- outward conduct and behavior. Material we release to help on this principle will be accordingly designed. Guiding statement:
 
-##### _**Yogaḥ Karmasu Kauśalam**_
-
-##### Union is attained through skillfulness in action.
+### Yogaḥ Karmasu Kauśalam | Union is attained through skillfulness in action.
 
 ie., in the journey to being a great designer, the proof is in the excellence of execution- in actually manifesting the intent inside.
 
 The first two principles are directed at the designer- at their inner world and their outward action. The next two principles are aimed at the process of design, and at design as the output/creation of a process. 
 
-## 13. Grounding
+## 12. Grounding
 
 When design organizations speak of design as human-centric or planet-centric, they are displaying a specific grounding. Born of the modern era, this is a grounding that recognizes our disconnect with nature, and the degrees of damage our creations inflict on our own ecology. A human-centric or planet-centric grounding is one that no longer considers man the center and master of the universe, and understands the fragile if empowered position our species exists in.
 
@@ -245,13 +215,11 @@ In similar vein, Ṛta in Design- as the very name suggests, is grounded in dhar
 
 The principal of Grounding is to lay out a base of inner principles rooted to notions like the puruṣārtha, karma and ṛṇa, and sṛṣṭi-sthiti-laya, ie., ultimate purpose, proper deed and cosmic obligations, and (creative)emission-positioning-dissolution. Guiding statement:
 
-##### _**Asato Mā Sadgamaya Tamaso Mā Jyotirgamaya**_
-
-##### Move me from the untrue to the true, move me from the dark (of ignorance) to the light (of knowing).
+### Asato Mā Sadgamaya Tamaso Mā Jyotirgamaya | Move me from the untrue to the true, move me from the dark (of ignorance) to the light (of knowing).
 
 This earnest Vedāntika entreaty is found in the Bṛhadāraṇyaka Upaniṣad, and in the desire it displays- to always be lead by what is truth, by what takes towards the light of true comprehension- it lends us a highly appropriate design principal.
 
-## 14. Consonance
+## 13. Consonance
 
 The first and last maṇḍalas (arrangements) of the Ṛgveda’s ten maṇḍalas both contain 191 prayers each. That is, the Ṛgveda rounds up on itself as if a maṇḍala too. This is the image of an ouroboros- a snake eating its own tail. It represents the qualities of recursion and infinity, a defining Indian symbol for which is the infinitely blooming lotus.
 
@@ -261,33 +229,31 @@ It is the highest principle to aspire to, the final piece in design patterned to
 
 While Intent and Agency are principles to embody through any design process, Purpose and Consonance come alive through iteration that’s bookended by reflection-in-action. Consistent grounding on ṛta (or in dharma), in an iterative system, yield emergent consonance. Guiding statement:
 
-##### _**Yathā Piṇḍe Tathā Brahmāṇḍe Yathā Brahmāṇḍe Tathā Piṇḍe**_
-
-##### As in the microcosm so in the macrocosm, as in the macrocosm so in the microcosm.
+### Yathā Piṇḍe Tathā Brahmāṇḍe Yathā Brahmāṇḍe Tathā Piṇḍe | As in the microcosm so in the macrocosm, as in the macrocosm so in the microcosm.
 
 A cardinal principle in Āyurveda, which in turn is a comprehensive ṛta in design, this statement is also known to us as- ‘as above, so below.’ It’s a property we notice in many emergent systems, and the complete import of this can lead one to realising the truth of Brahman. The previous principle lends the root, this principle lends the super-symmetry.
 
-## 15. An Ontology for Ṛta in Design
+## 14. An Ontology for Ṛta in Design
 
 #### 1 - सत् / Sat
 
 *the consonant stasis*
 
-_Is_-ness.Is-ness simply _is_.
+*Is*-ness.Is-ness simply *is*.
 Without Beginning, without End.
 It stands transcendent of what we perceive as Time.
 It is not the coming into being, but the exist-ing. A present-continuous.
-_Is_, or what the ancients knew as अस्ति (asti).
+*Is*, or what the ancients knew as अस्ति (asti).
 
-From the root _√as_ (अस्).
-The present participle of _√as_ is sat (सत्)
+From the root *√as* (अस्).
+The present participle of *√as* is sat (सत्)
 सत् is Is-ness – the Existing.
 
 To have the property of सत् is to be Satya. That which simply is.
 Which is without Beginning and without End.
 Not the coming into being, but the exist-ing.
-##### Sanātana, a present-continuous. Satya (सत्य).
 
+Sanātana, a present-continuous. Satya (सत्य).
 The stasis is in equilibrium.
 There is only consonance in Sat.
 
@@ -301,7 +267,7 @@ All vibration is sound.
 All language is sound.
 Language is but vibration – a specific register of reality.
 Ṛṣi Pāṇini explained it as gati and gatiprāpaṇa.
-##### Motion, and Coming into Motion.
+Motion, and Coming into Motion.
 
 No longer Is-ness, but Is-being.
 From this root emerges the core sound of our system.
@@ -316,7 +282,7 @@ It is Sat, manifest.
 
 It is what surrounds us. The playground for Life and Creation.
 
-#### 3 - कृत / Kṛta
+## 3 - कृत / Kṛta
 
 *the manifested intent*
 
@@ -335,14 +301,15 @@ And while the word for a Doer is Kartā, that for the Creator is Kartṛ.
 Any creator is a Kartṛ. Possesses Agency. Manifests Intent.
 To design is to create with intent, deliberation, plan and purpose.
 A Designer is a Kartṛ with both Purpose and Agency. Manifests Intent to the Proper Objective.
-##### Thus do we understand Design as Saṃskaraṇa; and the Designer as a Saṃskartṛ.
+
+### Thus do we understand Design as Saṃskaraṇa; and the Designer as a Saṃskartṛ.
 
 The objective of Ṛta in Design is to formulate the processes, methods and utilities for a Saṃskartṛ. And at the center of this system is the Creator, and the Creator’s Intent.
 
 This is where it all begins.
 This is where the Consonant Stasis can Come into Motion.
 Where Sat and Ṛta can Manifest in the Kṛta.
-##### **this is where design happens.**
+**this is where design happens.**
 
 And that Intent is where it all begins was known to the Ancients as well.
 To the very root of √kṛ कृ, Ṛṣi Pāṇini assigned another meaning.
@@ -352,7 +319,7 @@ Which way our creation turns, depends on that singular thing.
 
 Intent.
 It is why we are Culture obsessed with Karma.
-##### It is why Dharma _IS_ Design, at the most epistemic meaning of Design.
+It is why Dharma *IS* Design, at the most epistemic meaning of Design.
 
 #### 4 - धृत / Dhṛta
 
@@ -374,13 +341,14 @@ Today we live not only within the bubble of ṛta, we live cocooned in the bubbl
 So we understand that behind the design of design is iteration, and iteration over a long period of time. Not a single lifetime, but a civilizational span. Iteration happens with Culture. With one generation taking what is passed down and building upon it.
 
 The “all” or “sam” in Saṃskrti cuts across space and time, both.
-It originates in the root _√dhi_ धि – dhāraṇa, to bear and preserve.
+It originates in the root *√dhi* धि – dhāraṇa, to bear and preserve.
 When borne and preserved over the rhythm of ṛta, across space and time, it becomes dhī + ṛta – dhṛta.
+
 > धृ-कर्मणि क्त : धृत dhṛta
 
 It is the borne and preserved. The design that has worked for our predecessors, and as the author of The Design of Design understood- what has worked for our predecessors is the most illuminating thing to identify. Dhṛta represents the Collective Intent that has been calibrated, over time and generations.
-##### It is Saṃskṛti, or in another word originating from dhī and dhṛta- it is Dharma.
-##### **ध्रियते लोकोऽनेन, धरति लोकं वा धृ-मन् : धर्म dharma.**
+It is Saṃskṛti, or in another word originating from dhī and dhṛta- it is Dharma.
+**ध्रियते लोकोऽनेन, धरति लोकं वा धृ-मन् : धर्म dharma.**
 
 This then is the developing Ontology of Design:
 
@@ -411,16 +379,16 @@ There is a paradigm of consciousness embedded in this concept. For consciousness
 > Like light on its own is without attributes, but takes the shape and form of whatever it falls on, so is consciousness on its own without attributes- nirguṇa. It becomes with-attributes- saguṇa- by taking the shape and form of whatever it falls on.
 
 The literal ghṛta is simply ghee, clarified butter.
-##### The metaphysical ghṛta is the Manifestation that is born of Clarified Intent.
+### The metaphysical ghṛta is the Manifestation that is born of Clarified Intent.
 
 It is the ghee of creation.
 The best output of Design.
 It is what all design aspires to.
 
 And it emerges through heat/light, ie., through intense application of the mind. Of consciousness. Of Intent. It emerges, like does the ghee from a yajña, from the yajña of our own lives.From the cultural yajña, the civilizational yajña, the collective yajña, or the personal yajña.
-##### What ghṛta is, is a laying down of direction- a design to the design.
+What ghṛta is, is a laying down of direction- a design to the design.
 
-But what should ghṛta be- what is it that can be called _Clarified_ Intent?
+But what should ghṛta be- what is it that can be called *Clarified* Intent?
 That is the next step…
 
 #### 6 - भृत / Bhṛta
@@ -437,16 +405,16 @@ This is the culmination that Design must aim for.
 It is also the culmination that Dharma aims for.
 
 It is why the culminated, the resultant ghṛta from the dhṛta of our ancestors, is called the “product of bhŗta,” or Bhārata.
-##### More than a nation, more than a State, Bhārata is the Dhārmika Intent Manifested, clarified in its form and fulfilling in its nature.
+### More than a nation, more than a State, Bhārata is the Dhārmika Intent Manifested, clarified in its form and fulfilling in its nature.
 
 Dharma is Design, and Bhārata is the Designed. This design process is Saṃskṛti, and this is why the dhṛta that is handed down to us is called saṃskāra.
-##### It is where the designer draws from, when they form their Intent.
+### It is where the designer draws from, when they form their Intent.
 
 The conspicuous and inconspicuous inside their heads, which affects their creation.
 
 Through saṃskaraṇa then is Intent clarified, such that it fulfils. But there are things the Saṃskartṛs must watch out for…
 
-#### 7 - मृत / Mṛta
+## 7 - मृत / Mṛta
 
 *fatal intent*
 
@@ -459,7 +427,7 @@ It is also the Intent that produced this death, since everything Manifest is bu
 Yet the death of life is but a play in the vibrance of Ṛta.
 That is, when it happens consonant to Ṛta.
 
-##### When it happens not through the Design of Reality, but through the Design of a Mortal Agent, Mṛta is the Fatal Intent.
+### When it happens not through the Design of Reality, but through the Design of a Mortal Agent, Mṛta is the Fatal Intent.
 
 It is the warning sign on the journey- caution, no road ahead.
 It is identifiable, it is basic and minimum.
@@ -482,13 +450,13 @@ The Design of the Contagious Pathogen.
 The Design of Chemical Concoctions.
 Mṛtas that we today create matter-of-factly.
 
-##### Where has design gone so wrong, that even the blatantly Fatal Intent is brought to Manifestation?
+### Where has design gone so wrong, that even the blatantly Fatal Intent is brought to Manifestation?
 
 Perhaps…
 Perhaps it is Not Blatant.
 A final Intent to watch out for…
 
-#### 8 - नृत्, अनृत / Nṛt, Anṛta
+## 8 - नृत्, अनृत / Nṛt, Anṛta
 
 *deceiving, untrue intent*
 
@@ -503,14 +471,14 @@ Already we see a problem.
 
 The literal nṛt is an act, a mimicry- it pretends to be something, but it is not that thing really.
 The metaphysical nṛt is agitated, scattered, ie., ṛta out of harmonics. Ṛta that is not Consonant.
-##### But it pretends to be.
+### But it pretends to be.
 
 Route 2 brings into focus the non-consonance. It is through Anṛta- the opposite of Ṛta.
 > न. त : अनृत anṛta
 
 Not true. Wrong. False and deceptive.
 Not even māyā, which though illusion is yet a part of the fabric of reality.
-##### Anṛta is a Wholly Untrue Reality itself.
+### Anṛta is a Wholly Untrue Reality itself.
 
 It is a nartaka- a dancer that defies category.
 It mimes, it tricks and deceives. It is both this and that. The category of mystery and ambiguity, of unknown unknowns.
@@ -518,7 +486,7 @@ But they pretend to be knowns.
 
 They pretend to be True.
 Their dissonance is hidden.
-##### It is not even anti-Design, which is but blatant and fatal. It is unDesign, not blatant and its consequences unknown.
+### It is not even anti-Design, which is but blatant and fatal. It is unDesign, not blatant and its consequences unknown.
 
 - With this formulation, and considering the previous categories visited, we may look at modern life and design in a new light. What we consider innovation, what we consider progress, what we consider great design–
 - Is it Dhṛta? Does it emerge from iterative design, calibrated across space and time towards being True?
@@ -533,22 +501,22 @@ Consider the realm that most of us spend majority of our time in. A technologic
 On the same day the founder of Apple passed away, also breathed his last a biologist that created a vaccine- one that has saved millions of lives so far, and one he chose not to patent.
 
 When we think of design and creation, we remember easily the name of Steve Jobs.
-##### Of the biologist, even search engines struggle to reveal.
+### Of the biologist, even search engines struggle to reveal.
 
 But who was the true Saṃskartṛ?
 What was a ghṛta creation? What was a-mṛta, or life-affirming?
 If you find mixed feelings about this, good. For there are no rigid boxes.
 After all, a pathogen can be life-affirming, or life-destroying. At the centre is the Intent of the Creator.
 
-##### But all of this has been the at-large. The at-scale. It was the ontology of design-at-large. 
+### But all of this has been the at-large. The at-scale. It was the ontology of design-at-large. 
 
-##### Now we hone in to You, Designer. The pattern is the same, and it all begins with Your Intent.
+### Now we hone in to You, Designer. The pattern is the same, and it all begins with Your Intent.
 
 Recall here the design principle of consonance, expressed through the mahāvākya- yathā piṇḍe tathā brahmāṇḍe. As is in the microcosm, so in the macrocosm. And vice versa.
 
 This brings awareness that creation is the placement of one’s intent into others’ lives- others’ felt experiences. Ṛta and Kṛta together determine what it feels like to be alive, to engage, to participate, play and perform. It’s therefore not surprising that as we began to create machinery, our ways to study reality developed a paradigm for lifeforms as automatons. When we created massively multiplayer online games, we wondered upon simulated realities. And now, as we design intelligence itself, we learn more about our own consciousness.  
 
-#### 9 - स्मृत / Smṛta
+## 9 - स्मृत / Smṛta
 
 *coming into motion of intent*
 
@@ -569,7 +537,7 @@ The consonance principle defines how intent should be shaped, or what smṛta ou
 
 For each constituent of smṛta then, we may ask ourselves some questions- to check our intent, to determine whether we will be lead from here on to sat or to asat.
 
-#### to be completed:
+## to be completed:
 
 10 - Ṛca (your creation/ design, analogous to kṛta)
 11 - Dṛta (your process/methodology/design-of-design, analogous to dhṛta)

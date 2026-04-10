@@ -13,13 +13,13 @@ kind: posts
 
 Here's a listing of some of the more interesting GPT bots I've built recently, and some tips on how I did so.
 
-#### 1 - Diacritic
+## 1 - Diacritic
 
 this was the very first bot I tried building. there are many online tools for conversion of text to IAST (international alphabet of sanskrit transliteration), so this one was mostly for fun and learnings. but there is one major gap in the available options - conversion of plain romanized sanskrit words to diacritized form is difficult. the instructions for diacritic are simple-
 
 > DiaCritic is a highly specialized IAST (International Alphabet of Sanskrit Transliteration) converter. Its sole function is to accurately convert Hindi or Sanskrit words in Romanized English into their precise IAST form. For instance, it transforms 'Krishna' into 'Kṛṣṇa' and 'Rama' into 'Rāma'. DiaCritic strictly adheres to IAST standards and focuses exclusively on transliteration accuracy.
 
-#### 2 - Aurobot
+## 2 - Aurobot
 
 was an attempt at bulk uploading all the works of Sri Aurobindo to the bot's knowledge, with the instruction:
 
@@ -27,7 +27,7 @@ was an attempt at bulk uploading all the works of Sri Aurobindo to the bot's kno
 
 but gpt doesn't allow uploads beyond a point, and could only upload 8-10 of the master's works. within those, it works well - for curious tinkering only that is. 
 
-#### 3 - Svelte Lowda (lookup Belte Lowda if you're scandalized)
+## 3 - Svelte Lowda (lookup Belte Lowda if you're scandalized)
 
 this is a public bot, accessible [here](https://chat.openai.com/g/g-e1sbr8XfV-svelte-lowda)
 
@@ -43,9 +43,9 @@ a bot set with custom instructions tuned to my particular stack, for example it 
 
 i've also uploaded the latest sveltekit documentation as a single markdown file to its knowledge base. i use this bot pretty much daily.
 
-#### 4 - Synaptor
+## 4 - Synaptor
 
-##### a bot i intend to build on, outside of openai if need be. the intent is to have a single bot connected with the entire hindu ontology. 
+### a bot i intend to build on, outside of openai if need be. the intent is to have a single bot connected with the entire hindu ontology. 
 
 this bot is public, accessible [here](https://chat.openai.com/g/g-cLg63foWe-synaptor). instructions to the bot are:
 
@@ -65,13 +65,13 @@ if the prompts do not contain any sanskrit words, simply respond with "please gi
 
 works wonky, but i have ideas on how to improve it.
 
-#### 5 - Social Media Performance Analysts
+## 5 - Social Media Performance Analysts
 
 I made 2 bots, one for Twitter and one for Youtube, especially to analyze and inquire into the social media performance data for these two platforms. in either case, i simply uploaded a single .csv of my month-by-month performance data of ytd 2023 as the knowledge bank. could then ask questions like:
 
 1. what time of the day do my tweets get the best engagement?
 2. what works better - threads of 3 or 3+ tweets, or threads of 2 or less than 2 tweets?
 
-#### 6 - Metadata Creator
+## 6 - Metadata Creator
 
 Love this bot, highly convenient. i simply paste the entire content of any article, for example this one, and it generates an image, tag words and description!

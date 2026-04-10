@@ -4,7 +4,7 @@ tags:
   - poetry
   - writing
 ---
-#### truth
+## truth
 have you ever experienced such a thing?
 a truth.
 a truth you don’t want to be true.
@@ -27,7 +27,7 @@ it makes you live with it.
 
 i hope you never experience such a thing.
 
-#### lie
+## lie
 have you ever held in place a lie?
 
 the one that opens doors to another,
@@ -48,7 +48,7 @@ that first invited this lie inside…
 
 if it came to you, i hope you hold in place such a lie.
 
-#### past
+## past
 do you have in you that past?
 
 a truant one, with a promise broken.

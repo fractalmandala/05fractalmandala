@@ -27,15 +27,15 @@ Reducing a wide range of ‘scientific’ opinions on the nature and etiology of
 
 We can see that consciousness, at least of the human variety, satisfies these speculated conditions. In fact, some thinkers have seriously contended that property 5 alone is enough as proof and description of consciousness, echoed famously in Descartes’ “I think, therefore I am.” On the matter of civilization, though debates abound, we should take information from Huntington’s definition of civilization as “the highest cultural grouping of people and the broadest level of cultural identity people have, short of that which distinguishes humans from other species.” This definition is helpful because it facilitates the application of a design principle and the retrieval of a generative insight- yathā piṇḍe tathā brahmāṇḍe, and vice versa. Thus:
 
-##### If consciousness is what emerges when information inside an individual is processed in increasingly complex ways, then civilization is what emerges when information inside a collective/group is processed in increasingly complex ways.
+### If consciousness is what emerges when information inside an individual is processed in increasingly complex ways, then civilization is what emerges when information inside a collective/group is processed in increasingly complex ways.
 
 Among known life forms, the emergent phenomenon finds maximum expression in homo sapiens. Among known collective groups, it finds maximum expression in civilizational super-aggregates.
 
 This is how over a long course of time (itihāsa) a civilization (Bhārata) has come into consciousness (dharma). And this emergence is along four principles, or sūtras. We call these the Caturasūtrāḥ, or Four Aphorisms, and internalizing these is an essential prerequisite to understanding Bhāratīya itihāsa, as the civilization experienced it.
 
-#### 1
+## 1
 
-##### यथा स्मृति: चैतन्यं चैतन्य: जीवं च।<br> तथा इतिहास: संस्कृतिं संस्कृति: समूहं च।।<br>yathā smṛtiḥ caitanyam caitanyaḥ jīvam ca|<br>tathā itihāsaḥ saṃskṛtim saṃskṛtiḥ samūham ca||
+### यथा स्मृति: चैतन्यं चैतन्य: जीवं च।<br> तथा इतिहास: संस्कृतिं संस्कृति: समूहं च।।<br>yathā smṛtiḥ caitanyam caitanyaḥ jīvam ca|<br>tathā itihāsaḥ saṃskṛtim saṃskṛtiḥ samūham ca||
     
 As memory is to consciousness and consciousness to the individual, so history is to civilization and civilization to the group.
 
@@ -47,9 +47,9 @@ Profound realizations dawn with even this single principle internalized. Broken 
 
 We use the word samūha for collective/group to evoke phonetic kinship with saṃskṛti- it is our collective kṛti. And just like consciousness, though phenomenological, it is a unique felt-experience. Decolonisation is shedding the acquired syntactic-semiotic-semantic memeplex of teṣāṃkṛti – their kṛti- or a foreign civilization.
 
-#### 2
+## 2
 
-##### यथा चैतन्य: उभावस्ति कर्ता कृत्यं स्मृते:।<br>तथा संस्कृति: उभावस्ति कर्ता कृत्यं इतिहासस्य।।<br>yathā caitanyaḥ ubhāvasti kartā kṛtyaṃ smṛteḥ|<br> tathā saṃskṛtiḥ ubhāvasti kartā kṛtyaṃ itihāsasya||
+### यथा चैतन्य: उभावस्ति कर्ता कृत्यं स्मृते:।<br>तथा संस्कृति: उभावस्ति कर्ता कृत्यं इतिहासस्य।।<br>yathā caitanyaḥ ubhāvasti kartā kṛtyaṃ smṛteḥ|<br> tathā saṃskṛtiḥ ubhāvasti kartā kṛtyaṃ itihāsasya||
 
 As consciousness is both the observer and the subject of memory, so civilization is both the observer and the subject of history.
 
@@ -61,9 +61,9 @@ Itihāsa is the “mempool” that Indian civilization is in constant conversati
 
 Now, when our access to and traditional engagements with the mempool are broken, our civilization moves forward aimlessly, pulled in the sway of “development, progress and technology” that may land a future Bezos or Musk a lordship over Asteroid X1A21, but we have no vision of where it may land us. What Adluri writes above is in fact the very process these principles highlight- the emergence of self-consciousness through information being processed in complex ways, over a long period of time. When a civilization is in conversation with its past, it generates learnings and ethicality. When a civilization approaches it only as an academic discipline, it may remember the exact date when Columbus landed on a new world, but is bound to repeat the same evils again.
 
-#### 3
+## 3
 
-##### यथा जीव: युक्त:भवति स्वधर्म: ऋतं सचेतं स्मृत्या ।<br> तथा संस्कृति: युक्त:भवति सामान्यधर्म: ऋतं सचेतं इतिहासेन।।<br>yathā jīvaḥ yuktaḥbhavati svadharmaṛtaṃ sacetaṃ smṛtyā|<br> tathā saṃskṛtiḥ yuktaḥbhavati sāmānyadharmaṛtam sacetaṃ itihāsena||
+### यथा जीव: युक्त:भवति स्वधर्म: ऋतं सचेतं स्मृत्या ।<br> तथा संस्कृति: युक्त:भवति सामान्यधर्म: ऋतं सचेतं इतिहासेन।।<br>yathā jīvaḥ yuktaḥbhavati svadharmaṛtaṃ sacetaṃ smṛtyā|<br> tathā saṃskṛtiḥ yuktaḥbhavati sāmānyadharmaṛtam sacetaṃ itihāsena||
 
 As an individual yokes self-conduct to the natural order through conscious memory, so too a civilization yokes self-conduct to the natural order through conscious history.
 
@@ -71,9 +71,9 @@ This sūtra highlights the parallelism between individual and collective- vyaṣ
 
 If our date of birth wasn’t recorded by our parents, would we even know it? And if we didn’t know it, would it negate our felt experience and mean that we were never born? If these questions point to the absurd, we must relate the same for civilization as well. Thus is dharma called sanātana, thus are our earliest ṛṣis called mānasaputras, and thus is Brahmā himself known as the svayambhu. We care more for the lessons our ancestors embedded into lore, for the things our history can teach us, than we do for the intricacies of historia. For both individual and collective, the purpose of itihāsa is a rooting to dharma, it is the very means to self-conscious reflection.
 
-#### 4
+## 4
 
-##### यथा चैतन्य: युक्ते ऋतं स्वपूर्णमण्डलयति कश्चितवस्थायाम् ।<br> तथा संस्कृति: युक्ते ऋतं संपूर्णमण्डलयति कश्चित्वस्थायाम्।।<br>yathā caitanyaḥ yukte ṛtaṃ svapūrṇamaṇḍalayati kaścitavasthāyām| tathā saṃskṛtiḥ yukte ṛtam sampūrṇamaṇḍalayati kaścitavasthāyām||
+### यथा चैतन्य: युक्ते ऋतं स्वपूर्णमण्डलयति कश्चितवस्थायाम् ।<br> तथा संस्कृति: युक्ते ऋतं संपूर्णमण्डलयति कश्चित्वस्थायाम्।।<br>yathā caitanyaḥ yukte ṛtaṃ svapūrṇamaṇḍalayati kaścitavasthāyām| tathā saṃskṛtiḥ yukte ṛtam sampūrṇamaṇḍalayati kaścitavasthāyām||
 
 As a consciousness in yoke to natural rhythm is wholly coherent in any state, so too a civilization in yoke to natural rhythm is wholly coherent in any state.
 

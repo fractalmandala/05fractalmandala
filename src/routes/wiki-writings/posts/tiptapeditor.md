@@ -10,7 +10,7 @@ date: 2022-11-11
 supergroup: webdev
 kind: posts
 ---
-#### core installer
+## core installer
 ```shell
 npm install @tiptap/core @tiptap/pm @tiptap/starter-kit
 ```
@@ -158,7 +158,7 @@ redo
 <div bind:this={element} />
 ```
 
-##### drop cursor:
+### drop cursor:
 ```shell
 npm install @tiptap/extension-dropcursor
 ```
@@ -173,7 +173,7 @@ import Dropcursor from '@tiptap/extension-dropcursor';
 // add in editor extensions: extensions: [Document, Paragraph, Text, Image, Dropcursor],
 ```
 
-##### floating menu:
+### floating menu:
 ```shell
 npm install @tiptap/extension-floating-menu
 ```

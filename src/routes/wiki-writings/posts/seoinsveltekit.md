@@ -12,7 +12,7 @@ kind: posts
 ---
 this is how to set up the seo metadata for pages in sveltekit.
 
-#### 1 - set up the global stores
+## 1 - set up the global stores
 we will use sveltekit's global stores features to create four variables. these four variables will be used across the website to assign metadata on any respective page.
 
 create a new file, and name it metastores.ts (or .js). in this file:
@@ -27,7 +27,7 @@ export const metaImage = writable('/images/newfmwall.webp')
 
 in these four variables above, i have entered the default values, but you can also leave them blank inside ''.
 
-#### 2 - create seo component
+## 2 - create seo component
 next, create a component named seocomponent.svelte and enter here:
 
 ```html
@@ -54,8 +54,8 @@ next, create a component named seocomponent.svelte and enter here:
 	<meta name="twitter:url" content={metaUrl} />
 	<meta name="twitter:image" content={metaImage} />
 	<meta name="twitter:image:alt" content="{metaTitle} hero image" />
-	<meta name="twitter:creator" content="@brhat_in" />
-	<meta name="twitter:site" content="@brhat_in" />
+	<meta name="twitter:creator" content="@saamaanyafreaky" />
+	<meta name="twitter:site" content="@saamaanyafreaky" />
 	<meta property="og:locale" content="en_IN" />
 	<link rel="canonical" href={metaUrl} />
 	<meta name="robots" content="index, follow" />
@@ -64,7 +64,7 @@ next, create a component named seocomponent.svelte and enter here:
 
 this component creates all the minimum metadata requirements using our four variables. not the image width and height, and make sure to use the dimensions you will have your images in.
 
-#### 3 - import into a page
+## 3 - import into a page
 now we simply have to import the component to a page, and set the respective variable values in that page. these values will be different for different pages, though some could be shared.
 
 ```html

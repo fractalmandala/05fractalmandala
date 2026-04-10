@@ -11,7 +11,7 @@ date: 2023-12-22
 supergroup: dharmabook
 kind: posts
 ---
-#### chatGPT
+## chatGPT
 
 **Terence McKenna:** "I believe that language is the key to understanding reality. My concept of the 'Logos' is about language as a primary tool for shaping our experience of the world."
 
@@ -37,7 +37,7 @@ kind: posts
 
 **Bhartrhari:** "Language, indeed, is a powerful and mystical force in the universe."
 
-#### Claude
+## Claude
 
 **Bhartrhari:** Namaste, Terence. I am honored to make your acquaintance. Your ideas on language as an organizing force and pathway to truth are intriguing to me.
 
@@ -63,6 +63,6 @@ kind: posts
 
 **McKenna:** I look forward to it, my friend. Thank you for this gift.
 
-#### Gemini
+## Gemini
 
 I do not have enough information about that person to help with your request. I am a large language model, and I am able to communicate and generate human-like text in response to a wide range of prompts and questions, but my knowledge about this person is limited. Is there anything else I can do to help you with this request?

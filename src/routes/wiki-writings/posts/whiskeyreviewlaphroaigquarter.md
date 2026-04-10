@@ -18,7 +18,7 @@ The distinct woody smoke is noticeable at first sip, though that may not be sens
 
 Though I've spent a few memorable nights with the Quarter Cask, on most days I would prefer the 10 year old (especially if I have a 43% bottling).  One must also factor in that the Quarter Cask is not available in Gurgaon- while the 10 year old is.  And if one is passing by the duty free retail section, then it is always tempting to try something new rather than return to the reliable Quarter Cask (which is available in Delhi Duty Free).
 
-###### Notes
+#### Notes
 
 nose: peat, raisin
 palate: sweet and chilly both, complex smoke

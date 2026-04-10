@@ -22,7 +22,7 @@ The 18 YO surprises again in its finish, when notes of fruit and sherry come out
 
 My recommendation would be to enjoy this malt straight.  If you find that the taste is a little to harsh for you, I would still not recommend adding even a pinch of water.  Develop your taste a little more first.  Get used to the 'softer' offerings of Highlands or Lowlands and then acquaint yourself with the Laphroaig 10 YO.  When that is done and you are familiar with the characteristic peat and smoke of Islay, then you can move on to a neat peg of the 18 YO and enjoy a most commendable production.
 
-###### Notes
+#### Notes
 
 Nose: Earth, moss, aged tree bark
 Palate: Pepper, fire and smoke

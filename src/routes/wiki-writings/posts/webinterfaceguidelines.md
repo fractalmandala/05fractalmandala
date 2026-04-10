@@ -10,14 +10,14 @@ date: 2022-12-11
 supergroup: webdev
 kind: posts
 ---
-##### sheer paste of content from [here](https://interfaces.rauno.me/)
+### sheer paste of content from [here](https://interfaces.rauno.me/)
 
-#### Introduction
+## Introduction
 This document outlines a non-exhaustive list of details that make a good (web) interface. It is a living document, periodically updated based on learnings. Some of these may be subjective, but most apply to all websites.
 
 The WAI-ARIA spec is deliberately not duplicated in this document. However, some accessibility guidelines may be pointed out. Contributions are welcome. Edit this file and submit a pull request.
 
-#### Interactivity
+## Interactivity
 - Clicking the input label should focus the input field
 - Inputs should be wrapped with a `<form>` to submit by pressing Enter
 - Inputs should have an appropriate type like password, email, etc
@@ -29,7 +29,7 @@ The WAI-ARIA spec is deliberately not duplicated in this document. However, some
 - Interactive elements should disable user-select for inner content
 - Decorative elements (glows, gradients) should disable pointer-events to not hijack events
 
-#### Typography
+## Typography
 - Fonts should have -webkit-font-smoothing: antialiased applied for better legibility
 - Fonts should have text-rendering: optimizeLegibility applied for better legibility
 - Fonts should be subset based on the content, alphabet or relevant language(s)
@@ -38,7 +38,7 @@ The WAI-ARIA spec is deliberately not duplicated in this document. However, some
 - Medium sized headings generally look best with a font weight between 500-600
 - Adjust values fluidly by using CSS clamp(), e.g. clamp(48px, 5vw, 72px) for the font-size of a heading
 
-#### Motion
+## Motion
 - Switching themes should not trigger transitions and animations on elements
 - Animation duration should not be more than 200ms for interactions to feel immediate
 - Animation values should be proportional to the trigger size:
@@ -50,14 +50,14 @@ The WAI-ARIA spec is deliberately not duplicated in this document. However, some
     3. Hovering trivial buttons
     4. Looping animations should pause when not visible on the screen to offload CPU and GPU usage
 
-#### Touch
+## Touch
 - Hover states should not be visible on touch press, use @media (hover: hover)
 - Font size for inputs should not be smaller than 16px to prevent iOS zooming on focus
 - Inputs should not auto focus on touch devices as it will open the keyboard and cover the screen
 - Apply muted and playsinline to `<video>` tags to auto play on iOS
 - Disable touch-action for custom components that implement pan and zoom gestures to prevent interference from native behavior like zooming and scrolling
 
-#### Optimizations
+## Optimizations
 - Large blur() values for filter and backdrop-filter may be slow
 - Scaling and blurring filled rectangles will cause banding, use radial gradients instead
 - Sparingly enable GPU rendering with transform: translateZ(0) for unperformant animations
@@ -66,7 +66,7 @@ The WAI-ARIA spec is deliberately not duplicated in this document. However, some
 - Bypass React’s render lifecycle with refs for real-time values that can commit to the DOM directly
 - Detect and adapt to the hardware and network capabilities of the user’s device
 
-#### Accessibility
+## Accessibility
 - Disabled buttons should not have tooltips, they are not accessible
 - Box shadow should be used for focus rings, not outline which won’t respect radius
 - Focusable elements in a sequential list should be navigable with ↑ ↓
@@ -79,7 +79,7 @@ The WAI-ARIA spec is deliberately not duplicated in this document. However, some
 - Illustrations built with HTML should have an explicit aria-label instead of announcing the raw DOM tree to people using screen readers
 - Gradient text should unset the gradient on ::selection state
 
-#### Design
+## Design
 - Optimistically update data locally and roll back on server error with feedback
 - Authentication redirects should happen on the server before the client loads to avoid janky URL changes
 - Style the document selection state with ::selection

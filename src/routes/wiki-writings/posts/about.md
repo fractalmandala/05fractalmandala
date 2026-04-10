@@ -11,7 +11,7 @@ kind: posts
 ---
 Hi,
 
-I'm Amrit, a writer and creator based in Gurgaon, India. With a decade+ background in management and product development, I currently work as Director of Strategy at <a href="https://www.brhat.in" target="_blank" rel="noreferrer">Bṛhat</a>, a cultural content, research and learning organization. Apart from this site, I also develop and maintain Bṛhat's website and the sister portal <a href="https://www.brhateducation.in" target="_blank" rel="noreferrer">Bṛhat Education.</a>
+I'm Amrit, a writer and creator based in Gurgaon, India. With a decade+ background in management and product development, I am a co-founder at <a href="https://www.bodharesearch.in" target="_blank" rel="noreferrer">Bodha Research</a>, a research group and think tank. Apart from this site, I also develop and maintain Bodha's website.
 
 Through <a href="https://wiki.nikiv.dev/" target="_blank" rel="noreferrer">this</a> wonderful knowledge repository I discovered the world of digital gardens, and this website is my attempt at building something similar. I have the dubious record of having killed any plant I've ever tried to grow, so hopefully the digital seeds I sow here stand a better chance!
 

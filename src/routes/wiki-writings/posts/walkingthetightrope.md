@@ -11,4 +11,4 @@ supergroup: writings
 kind: posts
 ---
 
-This [essay](https://www.brhat.in/dhiti/tightrope) is published at Dhīti, Bṛhat's blog.
+This [essay](https://www.bodharesearch.in/blog/tightrope) is published at Bodha Research.

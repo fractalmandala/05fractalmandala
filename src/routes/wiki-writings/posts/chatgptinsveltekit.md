@@ -16,7 +16,7 @@ I’m going to skip the general intros on creating a Sveltekit project and assum
 
 So, we have a Sveltekit project set up, and we have an OpenAI API key, let’s begin!
 
-#### API Key and OpenAI installation.
+## API Key and OpenAI installation.
 If you do not have this already, create a file named ‘.env’ in the root folder of your project, and store the API key there like so:
 
 ```undefined
@@ -37,14 +37,14 @@ npm install openai
 
 I’m assuming you are familiar with installing libraries in Sveltekit using NPM. You can also use Yarn if that’s your thing.
 
-###### It is recommended that throughout your project’s lifetime, use either NPM or Yarn, but never mix those.
+#### It is recommended that throughout your project’s lifetime, use either NPM or Yarn, but never mix those.
 
-#### Other Installations
+## Other Installations
 For utility functions in communicating with OpenAI’s library, we need to install a few more libraries. Install the GPT3 Tokenizer from [here](https://www.npmjs.com/package/gpt3-tokenizer), and a helper for server-side events named SSE from [here.](https://www.npmjs.com/package/sse.js)
 
 Information on what these are, and what they do, can be found at OpenAI’s documentation, but put simply the tokenizer helps you control the usage of tokens in chatGPT, and SSE helps stream the responses instead of receiving them as a single chunk.
 
-#### API Setup
+## API Setup
 Now the fun part! Create a folder inside ‘routes’ and name it ‘api.’ Create another folder inside that and name it ‘chat.’ Here, create a file named ‘+server.ts’ (or .js if you’ve still not moved to Typescript!). This is assuming your project has a folder structure where all API functions are inside the route /routes/api, and within it each API file is a +server.ts inside a folder of its own name. In this file, paste the following code:
 
 ```javascript
@@ -173,7 +173,7 @@ return tokens.text.length
 }
 ```
 
-#### Chat Helper
+## Chat Helper
 Create a component named ChatMessages.svelte, and use this code:
 
 ```html
@@ -207,7 +207,7 @@ I’ve skipped sharing any styling in this post, so bear in mind that you will h
 
 Now it’s time to bring this all together:
 
-#### The Chats Page
+## The Chats Page
 Create a +page.svelte file where you want to host the chatting section. I’m going to break down the code of this file to show different functions. If all you need is the code to copy and paste, just use the original code by Huntabyte shared at this post’s beginning.
 
 Import all required files:
@@ -302,12 +302,12 @@ And that’s it! With this you have a basic version of chatGPT set up in your ow
 
 Well, since I love Supabase, I decided to integrate all of this with a Supabase table, so all my chats are automatically pushed there and stored, from where I can fetch them whenever I like. You can use this kind of implementation with your own database, but if you want to know how to integrate Supabase with Sveltekit, you can check [this post.](https://neomandala.vercel.app/mandala/sveltekitandsupabase)
 
-#### Bonus - DB Integration
+## Bonus - DB Integration
 What we need essentially is to insert each prompt and each response into a Supabase table. You can get more creative if you like, but this covers the basic need. So I have a table in Supabase titled ‘chatswithgpt’ which has 2 columns- ‘prompt’ and ‘response.’
 
 I need to submit each response AFTER the stream is over (if you try before, it creates as many row-entries in the table as there were tokens in the response.) and each prompt after it is submitted. Let’s look at the prompt first, which is being submitting in the form we added on the page above. The form runs a function ‘handleSubmit’ on click.
 
-###### And here let’s recall the line submittance = answer in the handleSubmit function! This takes the complete answer and assigns it as a string to a declared variable named ‘submittance.’
+#### And here let’s recall the line submittance = answer in the handleSubmit function! This takes the complete answer and assigns it as a string to a declared variable named ‘submittance.’
 
 We need to track any changes to this variable, so let’s have some fun Svelte reactivity:
 
@@ -343,7 +343,7 @@ userprompt = query
 
 So what we’re doing in handleSubmit is that, between communicating with the OpenAI API, we’re assigning the prompt and response strings to 2 variables that we can insert into Supabase. By using Svelte’s reactive variable feature, we are able to know whenever the response variable receives new text, and use that to trigger a submit function to Supabase.
 
-#### Bonus Inside Bonus!
+## Bonus Inside Bonus!
 In Supabase, you can create a vector column in the same table, and begin creating vector embeddings of all communication with chatGPT. Then, use these to fine tune your own models.
 
-###### I used GPT to make the GPT _insert thanos meme_
+#### I used GPT to make the GPT _insert thanos meme_

@@ -24,7 +24,7 @@ In its finish PC11 proves itself to be a fine drink for the winters- full and ho
 
 To conclude, PC11 is a great malt- certainly a bottle I will seek again, especially since I favour the peated smoky expressions of Islay.  At the same time, the peat and smoky intensity make me wonder whether I should have taken the attendant's advice and gone for the Octomore instead!  (At the time of purchase, I was unaware that Octomore was decidedly more peated than Port Charlotte)
 
-###### Notes
+#### Notes
 
 Eye- yellow barley
 Nose- Smoke, caramel, moss, fruit

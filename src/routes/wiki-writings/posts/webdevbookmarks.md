@@ -10,7 +10,7 @@ date: 2023-12-28
 supergroup: webdev
 kind: posts
 ---
-###### utilities
+#### utilities
 [sveltronics](https://sveltronics.netlify.app/) - svelte utilities  
 [svelte legos](https://sveltelegos.com/) - svelte utilities  
 [svelte reveal](https://github.com/DaveKeehl/svelte-reveal) - reveal on scroll animations  
@@ -18,7 +18,7 @@ kind: posts
 [lenis](https://github.com/studio-freight/lenis) - lovely smooth scroll  
 [ceaser](https://matthewlein.com/tools/ceaser) - nice tool to craft cubic-bezier easing
 
-###### design
+#### design
 [melt ui](https://melt-ui.com/) - components library for sveltekit  
 [ato ui](https://ato-ui.vercel.app/) - components library for sveltekit  
 [bits ui](https://www.bits-ui.com/docs/introduction) - components library for sveltekit  
@@ -29,12 +29,12 @@ kind: posts
 [design systems compilation](https://designsystems.surf/design-systems)
 [footer designs](https://www.footer.design/)
 
-###### other
+#### other
 [novel svelte](https://github.com/tglide/novel-svelte) - wysiwyg editor
 [josh's markdown in sveltekit guide](https://joshcollinsworth.com/blog/build-static-sveltekit-markdown-blog) - indispensable tutorial on building a markdown site in sveltekit
 
-###### ide
+#### ide
 [codeium](https://codeium.com/) - ai assistant for visual studio code
 
-###### productivity and tools
+#### productivity and tools
 [walling](https://walling.app/features¯)

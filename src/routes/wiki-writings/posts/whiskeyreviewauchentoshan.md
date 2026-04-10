@@ -18,7 +18,7 @@ On the nose, the malt gives notes of peach and dry fruit, with notes of dark cho
 
 If I were to compare, the Springwood does not come close to the 12 YO in character- but travel retail offerings are not really meant to be the best expression of a distillery's potential.  In my view, travel retail offerings give a wide sample of any distillery's experiments, allowing the Master Distillers to bring out various ranges that they can test across a diverse audience in a short time.  I wouldn't buy the Springwood again, but I certainly will try the Auchentoshan Heartwood if I come across it- if only to see more of Auchentoshan's range.
 
-###### Notes
+#### Notes
 
 Eye - pale barley
 Nose - peach, dark chocolate

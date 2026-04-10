@@ -13,23 +13,22 @@ This page gathers the practical web-development material, most of it centered on
 - Documentation, metadata, and content tooling for websites.
 
 ## Source Summaries
-
-- `authinsveltekit.md` - Step-by-step guide for setting up GitHub authentication in SvelteKit with Auth.js.
-- `authinsveltekit2.md` - Short concept note outlining auth architecture in SvelteKit with Supabase.
-- `autofillinsveltekit.md` - Simple pattern for autofilling inputs in SvelteKit search or form scenarios.
-- `chatgptinsveltekit.md` - Detailed guide for integrating ChatGPT workflows into a SvelteKit app, with database-backed chat history.
-- `deepseek-auth-dump.md` - Large implementation dump for auth plus payment integration in a SvelteKit context.
-- `globalstoresinsveltekit.md` - Demonstrates using global stores for theme and breakpoint state.
-- `hoversinsveltekit.md` - Shows how to implement hover interactions and basic motion in SvelteKit.
-- `modalsinsveltekit.md` - Walkthrough for creating modal infrastructure with stores and components.
-- `paginatedpostpages.md` - Hack for previous/next post navigation in a SvelteKit content site.
-- `parsingcode.md` - Tiny internal note about parsing code blocks and adding copy-button behavior.
-- `seoinsveltekit.md` - Guide for handling SEO metadata through reusable components and stores.
-- `supabaseauth.md` - Full walkthrough for integrating Supabase authentication into SvelteKit.
-- `sveltekitsupabaseintegration.md` - Covers secure Supabase integration patterns and secret-handling practices.
-- `tiptapeditor.md` - Example integration of the Tiptap editor into a SvelteKit app.
-- `togglesinsveltekit.md` - Beginner-friendly guide to category toggle patterns in SvelteKit.
-- `webdevbookmarks.md` - Curated list of SvelteKit and web-development bookmarks.
+- [Auth in Sveltekit](/wiki-writings/posts/authinsveltekit) - Step-by-step guide for setting up GitHub authentication in SvelteKit with Auth.js.
+- [Auth in Sveltekit 2](/wiki-writings/posts/authinsveltekit2) - Short concept note outlining auth architecture in SvelteKit with Supabase.
+- [Autofill in Sveltekit](/wiki-writings/posts/autofillinsveltekit) - Simple pattern for autofilling inputs in SvelteKit search or form scenarios.
+- [Chatgpt in Sveltekit](/wiki-writings/posts/chatgptinsveltekit) - Detailed guide for integrating ChatGPT workflows into a SvelteKit app, with database-backed chat history.
+- [Deepseek Auth Dump](/wiki-writings/posts/deepseek-auth-dump) - Large implementation dump for auth plus payment integration in a SvelteKit context.
+- [Global Stores in Sveltekit](/wiki-writings/posts/globalstoresinsveltekit) - Demonstrates using global stores for theme and breakpoint state.
+- [Hovers in Sveltekit](/wiki-writings/posts/hoversinsveltekit) - Shows how to implement hover interactions and basic motion in SvelteKit.
+- [Modals in Sveltekit](/wiki-writings/posts/modalsinsveltekit) - Walkthrough for creating modal infrastructure with stores and components.
+- [Paginated Post Pages](/wiki-writings/posts/paginatedpostpages) - Hack for previous/next post navigation in a SvelteKit content site.
+- [Parsing Code](/wiki-writings/posts/parsingcode) - Tiny internal note about parsing code blocks and adding copy-button behavior.
+- [SEO in Sveltekit](/wiki-writings/posts/seoinsveltekit) - Guide for handling SEO metadata through reusable components and stores.
+- [Supabase Auth](/wiki-writings/posts/supabaseauth) - Full walkthrough for integrating Supabase authentication into SvelteKit.
+- [Sveltekit Supabase Integration](/wiki-writings/posts/sveltekitsupabaseintegration) - Covers secure Supabase integration patterns and secret-handling practices.
+- [Tiptap Editor](/wiki-writings/posts/tiptapeditor) - Example integration of the Tiptap editor into a SvelteKit app.
+- [Toggles in Sveltekit](/wiki-writings/posts/togglesinsveltekit) - Beginner-friendly guide to category toggle patterns in SvelteKit.
+- [Webdev Bookmarks](/wiki-writings/posts/webdevbookmarks) - Curated list of SvelteKit and web-development bookmarks.
 
 ## Cross-References
 

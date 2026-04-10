@@ -13,15 +13,14 @@ This page gathers the more personal, lyrical, polemical, and fragmentary writing
 - Draft-like fragments that preserve direction even when incomplete.
 
 ## Source Summaries
-
-- `againsteverything.md` - Reflects on resisting ideological over-identification and the pressure of “isms.”
-- `ancestorsintime.md` - Poem mourning lost ancestral depth through the image of mantra, memory, and civilizational tragedy.
-- `dystopia.md` - Compares Orwellian coercion with Huxleyan seduction as two models of dystopian decline.
-- `fouraphorisms.md` - Aphoristic civilizational note that also belongs to [[dharma-and-civilizational-consciousness]] because of its thematic density.
-- `nounsandverbs.md` - Philosophical reflection on ontology through language, bridging poetry and metaphysics.
-- `quotes.md` - Internal note collecting quotations for later use.
-- `unpoems.md` - Set of short poems and anti-poems centered on truth, pain, and stark feeling.
-- `walkingthetightrope.md` - Briefly points to a longer essay about balancing surveillance dystopia and pleasure-based social control.
+- [Against Everything](/wiki-writings/posts/againsteverything) - Reflects on resisting ideological over-identification and the pressure of “isms.”
+- [Ancestors in Time](/wiki-writings/posts/ancestorsintime) - Poem mourning lost ancestral depth through the image of mantra, memory, and civilizational tragedy.
+- [Dystopia](/wiki-writings/posts/dystopia) - Compares Orwellian coercion with Huxleyan seduction as two models of dystopian decline.
+- [Four Aphorisms](/wiki-writings/posts/fouraphorisms) - Aphoristic civilizational note that also belongs to [[dharma-and-civilizational-consciousness]] because of its thematic density.
+- [Nouns and Verbs](/wiki-writings/posts/nounsandverbs) - Philosophical reflection on ontology through language, bridging poetry and metaphysics.
+- [Quotes](/wiki-writings/posts/quotes) - Internal note collecting quotations for later use.
+- [Unpoems](/wiki-writings/posts/unpoems) - Set of short poems and anti-poems centered on truth, pain, and stark feeling.
+- [Walking the Tightrope](/wiki-writings/posts/walkingthetightrope) - Briefly points to a longer essay about balancing surveillance dystopia and pleasure-based social control.
 
 ## Cross-References
 

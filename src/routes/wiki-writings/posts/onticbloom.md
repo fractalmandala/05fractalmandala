@@ -22,7 +22,7 @@ bhṛg + u = bhṛgu
 
 Quite a coincidence, is it not, that the root word behind Bhṛgu- the one who introduced the fire- itself refers to a characteristic of fire? Except that this is not a coincidence, this is an example of Sanskrit's ontological onomatopoeia. The suffix of -u in Sanskrit words usually denotes *for the establishment of* or *for the support of* . For example, dhātu itself means for the establishment of *dhā,* where dhā means 'to hold.' In the case of dhātus, it is to hold meaning itself. A dhātu is for the establishment of meaning. 
 
-##### Similarly, bhṛgu is for the establishment of bhṛg
+### Similarly, bhṛgu is for the establishment of bhṛg
 
 And bhṛg is the cackling sound fire makes, so Bhṛgu is for the establishment of fire. This lines up neatly with Bhṛgu's lore- the one who introduced the fire. 
 

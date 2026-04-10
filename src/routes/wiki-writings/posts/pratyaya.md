@@ -9,13 +9,13 @@ tags:
   - sanskrit
 group: internal
 ---
-###### unorganized notes for self on Sanskrit pratyaya
+#### unorganized notes for self on Sanskrit pratyaya
 
 avyaya - infinitive, basic form of a verb
 viśeṣaṇa - adjective, describes a noun
 saṃjñā - noun
 
-#### 1. kṛt pratyaya
+## 1. kṛt pratyaya
 
 1. for avyaya: ktvā, lyap, tumun
 2. for adjective: śatṛ, śānac, tavyat, anīyar, yat etc.

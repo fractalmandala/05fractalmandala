@@ -19,13 +19,13 @@ kind: posts
 
 These words capture an arc of ongoing conversations in the modern world. Whether we choose to engage with them or not, and regardless of our opinion for the jargon of colloquial discourses, they represent salient notions in a reality we share both as individuals and as group formations. A variety of intersecting and interweaving conflicts plague us today such that we’ve lost rooting on matters of thinking, being and doing, and an evolving cornucopia of discourse jargon struggles to help us cope. Such words are listed here to give scale to the intent at hand. To speak of ‘Indian civilisational consciousness’ is to penetrate matters of history, memory, identity, purpose, origin, society, culture, temporality, morality and more. If we understand _civilisational consciousness_ and _Indian_ as self-evident, we miss fundamental and necessary discussions. To reiterate this, let us examine the constituents separately:
 
-#### Consciousness
+## Consciousness
 What is this phenomenon? Is it subjective or does it exist independent What does it mean to speak of the consciousness of a group? Even phenomenologically, speaking of consciousness necessitates inquiry on matters of meaning and perception. This compounds if we move beyond the phenomenon to its manifestations, and more so if we scale it above the level of individual. What even comes from considering groups conscious?
 
-#### Civilization
+## Civilization
 `Civil` + `-ise` + `-ation` + `-al`- to bring social, cultural, political, material and moral states more _civil,_ or _ideal_, _advanced, desired_. The march of ‘Western civilisation’ derives imperative from the claim it brings peace, progress and liberty to all humans and countries, that its specific paradigm for what constitutes ‘civil’ is universally applicable, and even that it has a moral duty to bring this `civil`-`ise`-`ation` to other people.
 
-#### India
+## India
 Again not a matter as simple as we might hope. A nation is essentially what its people choose to believe it is- whether they commonly subscribe to a creed, culture or a constitution. And our nation is split among those who only claim rights from India- a constitutional entity less than a century old, and those who feel a bond to Bhārata- a cultural entity several millennia old. What is India, and what values it contains, is driving factor in ‘Indian civilisational consciousness.’
 
 > **There is a method to the above pedantry and semantics:**
@@ -42,7 +42,7 @@ In other words- whatever Indian civilisational consciousness is described to be,
 
 > **As might be apparent by now- what I’m hitting at are, brace for it-**
 
-##### epistemology, ontology, teleology
+### epistemology, ontology, teleology
 `how do we know`, `what do we know`, `what do we do with the knowledge`
 
 There is understandably cognitive fatigue around these terms, largely because they’ve been obscure for too long, and have become colloquial without commensurate acculturation in recent times. In fact, beginning with the next section, I will not use them again until the conclusion. I imply them in the framework here to affirm that there are planetary issues both at the macro and micro that require resolution at core levels, and to operate at these levels we must begin from root anew. It will not suffice to ask, for example, how can we fix capitalism/communism for an economy-society-ecology matrix more conducive. Instead we may wonder why we need divide things into such boxes in the first place. As words like decolonisation try to capture and thinkers like Balagangadhara have seminally detailed- the psychological and sociological operating system we currently use is not our own. Further, the incumbent operating system is the one that has brought us to the current state of affairs- so it would be insanity of the kind Einstein described to think it will somehow show us solutions once it’s pushed us off the edge.
@@ -51,7 +51,7 @@ What we need acknowledge is that decolonisation, quite like atheism, is only the
 
 Put simply, an operating system (OS) is a set of code (or a language) that manages the interaction of computing hardware with users, and also with other sets of code (software). Similarly, a human OS is a set of code (or lexical and semiotic memes, normative protocols, cultural motifs and more) that manages the interaction of an individual with other individuals, with groups, and among groups. The prevalent OS for our species today is the Western one, of recent origin but widespread installation- built upon a trajectory of colonisation, exploitation, slavery and conversion. Decolonisation begins with the realisation of this OS, proceeds through degrees of uninstallation, but must culminate with an alternate OS to install. We cannot call this a ‘new’ code, for reality is indeed as Shri Aurobindo observed-
 
-##### The human mind, in its progress, marches knowledge to knowledge, renews and enlarges previous knowledge- often obscured or overlaid, seizes on clues old and imperfect, and is led by them to new discoveries.
+### The human mind, in its progress, marches knowledge to knowledge, renews and enlarges previous knowledge- often obscured or overlaid, seizes on clues old and imperfect, and is led by them to new discoveries.
 
 To take license a final time before we proceed then- what I attempt is not a new epistemological, ontological and teleological framework, but the redux of an ancient, resilient and profound one- the Indian framework. In this work, I use the framework to study select words and roots of the Sanskrit language, apply them to describing Indian civilisational consciousness, and speculate how it might approach the existential dilemmas of modern times. Along the way- at each step in fact- I hope to show how a different OS yields not only profoundly different solutions, but causal framings and problem statements to begin with. This is how the journey will specifically pan, commencing with the next section:
 
@@ -113,7 +113,7 @@ dhātus are what words spring from, or how they are accomplished. They are the s
 
 बर्ह् | √barh to hurt, kill, destroy | to injure | to pull our or uproot | to pluck | to break in pieces both a dhātu and also a guṇa of √bṛh. For example, bṛhat/ bṛhan becomes barhaṇa- which means both dazzling and also tearing/pulling out.
 
-#### **बृहत् | bṛhat**
+## **बृहत् | bṛhat**
 
 `ati + √bṛh = bṛhat`
 
@@ -122,15 +122,15 @@ dhātus are what words spring from, or how they are accomplished. They are the s
 3. c*omp**. `अङ्ग`, -`काय` _a._ large-bodied, gigantic | **`भानुः`** fire, the sun; N. of Viṣṇu.| **`भास`** _a._ very bright, brightly shining | _ind. g_reatly, clearly, brightly | **`रथः`** an epithet of Indra.
 4. supreme | big | broad | full-grown | great | greater than greatest | highly | huge | immense | large | mighty | absolute | ultimate
 
-#### dhātu
+## dhātu
 
 a constituent or essential ingredient | elementary substance | basic word of verbal form
 
-##### A single dhātu can yield a śabda mālā of profound consequence. But √bṛh is sheer and unqualified. From excessive (`अति`) pouring forth (**`बृह्`**) comes `बृहत्`- _fully grown, wide, broad, strong_. Yet the guṇa can destroy as much as it could create.
+### A single dhātu can yield a śabda mālā of profound consequence. But √bṛh is sheer and unqualified. From excessive (`अति`) pouring forth (**`बृह्`**) comes `बृहत्`- _fully grown, wide, broad, strong_. Yet the guṇa can destroy as much as it could create.
 
-##### Whether the expanse is of √bṛh or of √barh, **what gives direction? what brings intent?**
+### Whether the expanse is of √bṛh or of √barh, **what gives direction? what brings intent?**
 
-#### मनस् | manas
+## मनस् | manas
 
 `मन्` | √**man -** to consider, think, know
 
@@ -142,7 +142,7 @@ the faculty of discrimination or judgment | thought, idea, fancy, imagination, c
 
 > the seat of intellectual operations and of emotions understanding, intellect; soul, heart; conscience; thought, conception; imagination; cogitation, reflexion; inclination, desire, will; mood, disposition
 
-##### the growth, shining and outpouring of Mind, ie √bṛh + √man, is called `ब्रह्मन्` | brahman - **literally the growth, expansion, development, swelling of the mind**
+### the growth, shining and outpouring of Mind, ie √bṛh + √man, is called `ब्रह्मन्` | brahman - **literally the growth, expansion, development, swelling of the mind**
 
 1. the expansion, strength and infinity of √bṛh is, at ontological level, the expansion of Mind.
 2. The cosmological Word, as opposed to vāc, the word of man | the primal mantra.
@@ -154,19 +154,19 @@ the faculty of discrimination or judgment | thought, idea, fancy, imagination, c
 - The Supreme Mind | impersonal and divested of all quality and action | brahman is both the efficient and material cause of the visible universe | the all-pervading consciousness | the essence from which all created things are produced and into which they are absorbed
 - The unchanging reality amidst and beyond the world, ie, sat-cit-ānanda (being-consciousness-bliss). It is the universal substrate from which material things originate and to which they return after their dissolution ⇒ the base dhātu itself.
 
-#### `**सत्` | sat**
+## `**सत्` | sat**
 
 being, existence | real, actual, true | that which really is | true existence and being | the primary cause satkāra | sattva | satya | satpati
 
-#### **`चित्` | cit**
+## **`चित्` | cit**
 
 consciousness | perceiving | seeing | noticing | understanding | comprehension | continuum of felt-experience citta | citra | cetana | cetas | caitraḥ
 
-#### **`आनन्द` | ānanda**
+## **`आनन्द` | ānanda**
 
 happiness, joy, pure bliss | ā + nand | to be delighted | to gladden or bless | pleasure | supreme felicity ānandaka | ānandamaya | ānandana
 
-#### **`ब्रह्मा` | Brahmā - supreme consciousness personified**
+## **`ब्रह्मा` | Brahmā - supreme consciousness personified**
 
 The universe was enveloped in darkness, and the self-existent | Brahmā manifested himself dispelling the gloom | He first created the waters and deposited in them a seed | This seed became a golden egg, in which he himself was born as Brahmā- the progenitor of all the worlds | Then the Lord divided the egg into two parts, with which he constructed heaven and earth | He then created the ten Prajāpatis or mind-born sons who completed the work of creation | Creator of the material universe, who is the presiding deity of the quality of passion
 
@@ -174,7 +174,7 @@ The universe was enveloped in darkness, and the self-existent | Brahmā manifest
 
 the first living creature | the living entity | the mind | the Supersoul | the impersonal aspect
 
-##### Vedas are the mother, and Brahmā is the grandfather, the forefather- because he was the first to be instructed in Vedic knowledge.
+### Vedas are the mother, and Brahmā is the grandfather, the forefather- because he was the first to be instructed in Vedic knowledge.
 
 **Let us briefly consider the notion of planes- of existence and of being.**
 
@@ -192,13 +192,13 @@ of the material realm | relating to living things | elemental √bhū > bhūḥ 
 
 wholly terrestrial or worldly | ordinary, common, temporal lok - space, tract of region √lok > loka > laukya > laukika laukya - of the material and mundane world | general and commonplace laukika - pertaining to laukya, ie, local and commonplace things.
 
-##### **We can now point to a profound synthesis appearing in our ontology: when we say `बृहत्`, we refer to an expansive, supreme and resolute Mind/Will/Vision Matrix, ie, to the `अधिकृत आत्म`, or adhyātma.**
+### **We can now point to a profound synthesis appearing in our ontology: when we say `बृहत्`, we refer to an expansive, supreme and resolute Mind/Will/Vision Matrix, ie, to the `अधिकृत आत्म`, or adhyātma.**
 
 A single root, or dhātu, or bīja, √bṛh, blooms across the entire plane of adhyātma. It swells **bṛhat** and generates **brahman**, the supreme and ultimate consciousness.
 
 Guṇa and vṛddhi frm √bṛh yield us an entirely new way to parse and understand reality- as we will soon see. Following this full bloom shows us the core place for mind and consciousness in the Indian operating system: **√bṛh is the seed of consciousness in our ontology**
 
-##### dhātu loka saṃsṛṣṭi
+### dhātu loka saṃsṛṣṭi
 
 ### **भू,भव् | bhū, bhav**
 

@@ -18,7 +18,7 @@ With a fine mixing of the above-mentioned maturations, and 48% ABV, the PX Cask 
 
 The medicinal, chlorine like palate of Laphroaig is still there in the PX Cask, but it is perfectly complemented by a fruity undertone.  Taken straight, it bursts of oak and peat and might probably be too much for the novice.  After a little water, the peat is still there but moderated by the aired tones of sherry and cream.  This is definitely not a malt to miss, if you have the opportunity to try it.
 
-###### Notes
+#### Notes
 
 nose: rich, sweet, oodles of smoke, cream
 palate: wood, smoke, buttery cream, fruit, nut
