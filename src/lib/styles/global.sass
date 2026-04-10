@@ -18,7 +18,6 @@
 	--ds-xl: 2.4rem
 	--ds-xxl: 3rem
 
-
 body, html
 	box-sizing: border-box
 	margin: 0
@@ -62,7 +61,6 @@ p, em, li, ul, ol, cite, caption, blockquote, small, h6, h5, h4, h3, h2, h1
 		text-decoration: none
 		color: var(--col-green)
 	p, li
-		white-space: pre-wrap
 		word-break: break-word
 	p, h2, h3, h1, h4
 		&.mtop-0
@@ -280,9 +278,6 @@ p, em, li, ul, ol, cite, caption, blockquote, small, h6, h5, h4, h3, h2, h1
 
 .wiki-home
 	.box-0
-		border-bottom: 1px solid var(--col-border)
-		padding-bottom: var(--ds-l)
-		padding-top: 0
 		p, h2, div h2
 			margin-bottom: 0
 			margin-top: 0
@@ -290,9 +285,6 @@ p, em, li, ul, ol, cite, caption, blockquote, small, h6, h5, h4, h3, h2, h1
 			margin-top: var(--ds-xsm)
 			color: var(--col-textgreylight)
 	.box-1
-		border-bottom: 1px solid var(--col-border)
-		padding-bottom: var(--ds-l)
-		padding-top: var(--ds-l)
 		p, h2, div h2
 			margin-bottom: 0
 			margin-top: 0
@@ -300,8 +292,6 @@ p, em, li, ul, ol, cite, caption, blockquote, small, h6, h5, h4, h3, h2, h1
 			margin-top: var(--ds-xsm)
 			color: var(--col-textgreylight)
 	.box-2
-		padding-bottom: var(--ds-l)
-		padding-top: var(--ds-l)
 		p, h2, div h2
 			margin-bottom: 0
 			margin-top: 0
@@ -313,6 +303,18 @@ p, em, li, ul, ol, cite, caption, blockquote, small, h6, h5, h4, h3, h2, h1
 	display: flex
 	flex-direction: column
 	row-gap: var(--ds-med)
+
+.box-1, .box-2
+	padding-bottom: var(--ds-l)
+	padding-top: var(--ds-l)
+
+.box-0
+	padding-bottom: var(--ds-l)
+	padding-top: 0
+	border-bottom: 1px solid var(--col-border)
+
+.box-1
+	border-bottom: 1px solid var(--col-border)
 
 .pdf-box
 	iframe
@@ -326,3 +328,31 @@ p, em, li, ul, ol, cite, caption, blockquote, small, h6, h5, h4, h3, h2, h1
 		@media screen and (max-width: 1024px)
 			width: 100%
 			height: 600px
+
+.row
+	display: flex
+	flex-direction: row
+	&.wrap
+		flex-wrap: wrap
+
+button.wiki-labels
+	padding: 8px 24px
+	margin: 0
+	background: #FFFFFF
+	font-size: 13.45px
+	text-transform: uppercase
+	transition: all 0.07s ease
+	cursor: pointer
+	border: 1px solid #000000
+	color: #000000
+	border-radius: 2px
+	transform-origin: center center
+	&:hover
+		background: var(--col-green)
+		color: #FFFFFF
+		transform: scale(0.95)
+		border: 1px solid var(--col-green)
+	&.selected
+		background: var(--col-green)
+	@media screen and (max-width: 1024px)
+		font-size: 13px

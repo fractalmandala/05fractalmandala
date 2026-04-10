@@ -44,9 +44,4 @@ p.wiki-labels
 	@media screen and (max-width: 1024px)
 		font-size: 13px
 
-.row.wrap
-	display: flex
-	flex-direction: row
-	flex-wrap: wrap
-
 </style>
