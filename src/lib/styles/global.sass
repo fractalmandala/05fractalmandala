@@ -298,8 +298,15 @@ p, em, li, ul, ol, cite, caption, blockquote, small, h6, h5, h4, h3, h2, h1
 		p.small
 			margin-top: var(--ds-xsm)
 			color: var(--col-textgreylight)
+	.box-0O
+		p, h2, div h2
+			margin-bottom: 0
+			margin-top: 0
+		p.small
+			margin-top: var(--ds-xsm)
+			color: var(--col-textgreylight)
 
-.box-1, .box-2, .box-0
+.box-1, .box-2, .box-0, .box-0O
 	display: flex
 	flex-direction: column
 	row-gap: var(--ds-med)
@@ -312,6 +319,10 @@ p, em, li, ul, ol, cite, caption, blockquote, small, h6, h5, h4, h3, h2, h1
 	padding-bottom: var(--ds-l)
 	padding-top: 0
 	border-bottom: 1px solid var(--col-border)
+
+.box-0O
+	padding-bottom: var(--ds-l)
+	padding-top: 0
 
 .box-1
 	border-bottom: 1px solid var(--col-border)
