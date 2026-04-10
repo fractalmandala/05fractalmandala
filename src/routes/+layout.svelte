@@ -56,8 +56,7 @@
 		.side
 			border-right: 1px solid var(--col-border)
 			padding-top: 48px
-			padding-bottom: 64px
-			padding-right: 32px
+			padding-bottom: 32px
 			.sticker
 				position: sticky
 				top: 112px
@@ -73,7 +72,7 @@ header
 	height: 64px
 	position: sticky
 	top: 0
-	background: linear-gradient(90deg,rgba(26, 26, 26, 1) 0%, rgba(3, 23, 10, 1) 100%)
+	background: #FFFFFF
 	z-index: 999
 	@media screen and (min-width: 1025px)
 		padding-left: var(--pad-side)
@@ -84,7 +83,7 @@ header
 
 footer
 	height: 64px
-	background: linear-gradient(90deg,rgba(26, 26, 26, 1) 0%, rgba(3, 23, 10, 1) 100%)
+	background: #FFFFFF
 	z-index: 999
 	@media screen and (min-width: 1025px)
 		padding-left: var(--pad-side)

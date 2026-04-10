@@ -47,6 +47,7 @@
 	justify-content: space-between
 	width: 100%
 	height: 100%
+	border-bottom: 1px solid var(--col-border)
 
 .nav-row
 	display: flex
@@ -54,12 +55,9 @@
 	align-items: center
 	column-gap: 16px
 	p
-		font-size: 14px
+		font-size: 12.88px
 		text-transform: uppercase
 		font-weight: 500
-		color: #FFFFFF
-		font-family: 'Source Code Pro', monospace
-		letter-spacing: -0.5px
 		a
 			text-decoration: none
 			color: inherit
@@ -89,10 +87,10 @@
 	column-gap: 0.5rem
 	.name
 		text-decoration: none
-		color: #FFFFFF
 		font-family: 'Iosevka Charon', monospace
 		font-size: 18.6px
 		font-weight: 600
+		color: #000000
 		.char-7, .char-8, .char-9, .char-10, .char-11, .char-12, .char-13
 			color: var(--col-green)
 	&:hover

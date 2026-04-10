@@ -24,6 +24,8 @@ p, em, li, ul, ol, cite, caption, blockquote, small, h6, h5, h4, h3, h2, h1
 .font-two
 	font-family: 'Source Code Pro', monospace
 
+.bdr
+	border: 1px solid red
 
 .themed
 	color: var(--col-green)
@@ -58,15 +60,29 @@ p, em, li, ul, ol, cite, caption, blockquote, small, h6, h5, h4, h3, h2, h1
 	p, li
 		white-space: pre-wrap
 		word-break: break-word
+	p, h2, h3, h1, h4
+		&.mtop-0
+			margin-top: 0
+		&.mtop-1
+			margin-top: 1em
+		&.mbot-05
+			margin-bottom: 0.25em
+	h2
+		font-weight: 600
 	@media screen and (min-width: 1025px)
 		p
-			font-size: 18px
+			font-size: 17.44px
 			line-height: 1.6
 			margin-bottom: 1em
 			&.wiki-items
 				margin-bottom: 0
+			&.small
+				font-size: 15.88px
+		.article-box p, .article box li
+			font-size: 19px
+			line-height: 1.7
 		li
-			font-size: 18px
+			font-size: 17.44px
 			line-height: 1.6
 		ul, ol
 			margin-bottom: 1em
@@ -107,6 +123,11 @@ p, em, li, ul, ol, cite, caption, blockquote, small, h6, h5, h4, h3, h2, h1
 			margin-bottom: 1em
 			&.wiki-items
 				margin-bottom: 0
+			&.small
+				font-size: 14.88px
+		.article-box p, .article box li
+			font-size: 17.66px
+			line-height: 1.6
 		li
 			font-size: 17px
 			line-height: 1.5
@@ -143,6 +164,14 @@ p, em, li, ul, ol, cite, caption, blockquote, small, h6, h5, h4, h3, h2, h1
 			cite
 				font-size: 12px
 				color: var(--col-textgreylight)
+
+.page-title
+	border-bottom: 1px solid var(--col-border)
+	padding-bottom: 16px
+	margin-bottom: 1em
+	h1
+		font-weight: 600
+		margin-bottom: 4px
 
 .grid
 	display: grid
@@ -238,3 +267,32 @@ p, em, li, ul, ol, cite, caption, blockquote, small, h6, h5, h4, h3, h2, h1
 .tightbox
 	@media screen and (min-width: 1025px)
 		width: 75%
+
+.mbot-05
+	margin-bottom: 0.5em
+.mbot-1
+	margin-bottom: 1em
+.mtop-1
+	margin-top: 1em
+.mtop-2
+	margin-top: 2em
+
+.w600
+	font-weight: 600
+
+.wiki-home
+	.box-1
+		border-bottom: 1px solid var(--col-border)
+		padding-bottom: 1em
+		div
+			h2
+				font-weight: 600
+				margin-top: 1em
+				margin-bottom: 0.15em
+	.box-2
+		padding-bottom: 1em
+		div
+			h2
+				font-weight: 600
+				margin-top: 1em
+				margin-bottom: 0.15em

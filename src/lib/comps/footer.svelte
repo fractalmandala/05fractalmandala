@@ -12,6 +12,7 @@
 	justify-content: space-between
 	height: 100%
 	width: 100%
+	border-top: 1px solid var(--col-border)
 	p
 		font-size: 12.5px
 		font-family: 'Source Code Pro', monospace

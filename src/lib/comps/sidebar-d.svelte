@@ -55,8 +55,17 @@
 
 .sidebar-column
 	row-gap: 24px
-	height: calc(100vh - 240px)
+	height: calc(100vh - 210px)
 	overflow-y: scroll
+	padding-right: 32px
+
+::-webkit-scrollbar
+	width: 4px
+::-webkit-scrollbar-thumb
+	background: var(--col-green)
+	border-bottom: 280px solid #FFFFFF
+::-webkit-scrollbar-track
+	background: #FFFFFF
 
 .accordion
 	row-gap: 1em
