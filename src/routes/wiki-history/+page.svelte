@@ -1,7 +1,8 @@
 <script lang="ts">
 
 	import { onMount } from 'svelte'
-	import { loadWiki, type WikiEntry, loadWikiSources } from '$lib/utils/locals'
+	import { loadWiki, type WikiEntry } from '$lib/utils/locals'
+	import { loadWikiSources } from '$lib/utils/wikisource'
 	import Template from '$lib/comps/page-template.svelte'
 
     let data: WikiEntry[] = []

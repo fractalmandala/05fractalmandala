@@ -52,7 +52,6 @@
       	width: 100%;
       	height: 100%;
 				${iframe_styles}
-    `}
-		/>
+    `}></iframe>
 	</div>
 </GeneralObserver>

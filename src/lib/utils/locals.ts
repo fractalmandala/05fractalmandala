@@ -2,33 +2,6 @@ import type { ComponentType } from 'svelte';
 import { error } from '@sveltejs/kit';
 import wikisources from '$lib/assets/wikisources.json';
 
-type WikiSource = {
-  id: number;
-  file: string;
-  title: string;
-  wiki: string;
-  prelink: string;
-  'actual link': string;
-};
-
-export interface WikiSourceEntry {
-  id: number;
-  title: string;
-  link: string;
-  href: string;
-}
-
-export function loadWikiSources(wikiSlug: string): WikiSourceEntry[] {
-  return (wikisources as WikiSource[])
-    .filter((item) => item.wiki === wikiSlug)
-    .map((item) => ({
-      id: item.id,
-      title: item.title,
-      link: item['actual link'],
-      href: `/${wikiSlug}/posts/${item.id}`,
-    }));
-}
-
 // Vite requires import.meta.glob() to receive a static string literal —
 // dynamic variables in the pattern aren't allowed. The workaround is a
 // wildcard glob that captures all wiki markdown files, then filter by

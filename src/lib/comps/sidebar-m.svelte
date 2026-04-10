@@ -1,32 +1,15 @@
 <script lang="ts">
-	import { onMount } from "svelte";
-	import autoAnimate from '@formkit/auto-animate';
-	import { menuMode, toggleMenu } from '$lib/utils/stores'
-	import { loadWiki, type WikiEntry } from "$lib/utils/locals";
-	import { WIKIS } from "$lib/wikis";
-  
-	let wikiData: { slug: string; label: string; entries: WikiEntry[] }[] = [];
-	let openSlug: string | null = null;
-  
-	const toggleAccordion = (slug: string) => {
-	  if (openSlug === slug) {
-		openSlug = null;
-	  } else {
-		openSlug = slug;
-	  }
-	};
-  
-	onMount(async () => {
-	  const results = await Promise.all(
-		WIKIS.map(async (wiki) => ({
-		  slug: wiki.slug,
-		  label: wiki.label,
-		  entries: await loadWiki(wiki.slug),
-		}))
-	  );
-	  // Only show wikis that have at least one article
-	  wikiData = results.filter((w) => w.entries.length > 0);
-	});
+  import autoAnimate from '@formkit/auto-animate';
+  import { menuMode, toggleMenu } from '$lib/utils/stores';
+  import type { WikiEntry } from '$lib/utils/locals';
+
+  let { wikiData }: { wikiData: { slug: string; label: string; entries: WikiEntry[] }[] } = $props();
+
+  let openSlug = $state<string | null>(null);
+
+  const toggleAccordion = (slug: string) => {
+    openSlug = openSlug === slug ? null : slug;
+  };
   </script>
   
 

@@ -8,8 +8,9 @@
 	import { onMount } from 'svelte';
 	import { afterNavigate } from '$app/navigation';
 	import { enhanceCodeBlocks } from '$lib/utils/code-copy';
+	import type { LayoutData } from './$types';
 
-	let { children } = $props();
+	let { children, data }: { children: any, data: LayoutData } = $props();
 	let mainEl: HTMLElement;
 
 	onMount(() => enhanceCodeBlocks(mainEl));
@@ -30,11 +31,11 @@
 <header>
 	<Header/>
 </header>
-<SidebarM/>
+<SidebarM  wikiData={data.wikiData}/>
 <main class="doc-grid">
 	<div class="side">
 		<div class="sticker">
-			<SidebarD/>
+			<SidebarD  wikiData={data.wikiData}/>
 		</div>
 	</div>
 	<div class="main" bind:this={mainEl}>

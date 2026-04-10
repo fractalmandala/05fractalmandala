@@ -1,11 +1,10 @@
 <script lang="ts">
-	import { onMount } from "svelte";
-	import { loadWiki, type WikiEntry } from "$lib/utils/locals";
-	import { WIKIS } from "$lib/wikis";
+
+	import type { WikiEntry } from '$lib/utils/locals';
 	import autoAnimate from '@formkit/auto-animate';
 
-	let wikiData: { slug: string; label: string; entries: WikiEntry[] }[] = [];
-	let openSlug: string | null = null;
+	let { wikiData }: { wikiData: { slug: string; label: string; entries: WikiEntry[] }[] } = $props();
+	let openSlug = $state<string | null>(null);
 
 	const toggleAccordion = (slug: string) => {
 		if (openSlug === slug) {
@@ -15,17 +14,6 @@
 		}
 	};
 
-	onMount(async () => {
-		const results = await Promise.all(
-			WIKIS.map(async (wiki) => ({
-				slug: wiki.slug,
-				label: wiki.label,
-				entries: await loadWiki(wiki.slug),
-			})),
-		);
-		// Only show wikis that have at least one article
-		wikiData = results.filter((w) => w.entries.length > 0);
-	});
 </script>
 
 <div class="sidebar-column">

@@ -1,17 +1,11 @@
 <script lang="ts">
-	import { onMount } from "svelte";
-	import { loadWiki, type WikiEntry, getVideos } from "$lib/utils/locals";
+	import type { PageData } from './$types';
 	import { WIKIS } from "$lib/wikis";
 	import Youtube from "$lib/comps/youtuber.svelte";
 
-	let data: WikiEntry[] = [];
-	let vids: any;
-	let sY: number;
+	let { data }: { data: PageData } = $props();
+	let sY = $state(0);
 
-	onMount(async () => {
-		data = await loadWiki("wiki-writings");
-		vids = await getVideos();
-	});
 </script>
 
 <svelte:window bind:scrollY={sY} />
@@ -25,7 +19,7 @@
 </svelte:head>
 
 <div class="page-shell wiki-home">
-	<div class="box-1">
+	<div class="box-0">
 		<img
 		class="machine"
 		src="/images/fractalmachine.png"
@@ -53,8 +47,8 @@
 			</p>
 		</div>
 		<div class="grid two rgap8 mbot-1">
-			{#if data.length > 0}
-				{#each data as item}
+			{#if data.writings.length > 0}
+				{#each data.writings as item}
 					<p class="wiki-items tt-c">
 						<a href={item.linkpath}>{item.meta.title}</a>
 					</p>
@@ -78,14 +72,14 @@
 			{/each}
 		</div>
 	</div>
-	{#if vids && vids.length > 0}
+	{#if data.vids && data.vids.length > 0}
 		<div class="box-2">
 			<div>
 				<h2>Videos</h2>
 				<p class="small">Various talks and podcasts:</p>
 			</div>
 			<div class="grid two cgap16 rgap16">
-				{#each vids as item}
+				{#each data.vids as item}
 					<div class="vid-box">
 						<Youtube youTubeId={item.meta.caption}></Youtube>
 					</div>
