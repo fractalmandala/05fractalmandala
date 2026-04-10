@@ -11,6 +11,12 @@ type WikiSource = {
 	'actual link': string;
 };
 
+export function entries() {
+  return (wikisources as WikiSource[])
+    .filter((item) => item.wiki === 'wiki-history')
+    .map((item) => ({ post: String(item.id) }));
+}
+
 export const load: PageLoad = ({ params }) => {
 	const id = Number(params.post);
 

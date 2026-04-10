@@ -1,4 +1,10 @@
 import type { PageLoad } from './$types';
+import { getTagsWithCounts } from '$lib/utils/locals';
+
+export async function entries() {
+  const tags = await getTagsWithCounts();
+  return tags.map(({ tag }) => ({ tag }));
+}
 
 type PostModule = {
 	metadata?: {
