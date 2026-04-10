@@ -29,7 +29,7 @@
 			<p class="wiki-labels tt-c"><a href="/wiki-thea/transport-and-infrastructure">Transport and Infrastructure</a></p>
 			<p class="wiki-labels tt-c"><a href="/wiki-thea/flora-of-thea">Flora of Thea</a></p>
 			<p class="wiki-labels tt-c"><a href="/wiki-thea/fauna-of-thea">Fauna of Thea</a></p>
-			<p class="wiki-labels tt-c"><a href="/wiki-thea/cultura-and-archives">Culture and Archives</a></p>
+			<p class="wiki-labels tt-c"><a href="/wiki-thea/culture-and-archives">Culture and Archives</a></p>
 		</div>
 	</div>
 </Template>
