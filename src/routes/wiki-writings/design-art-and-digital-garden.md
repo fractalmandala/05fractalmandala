@@ -28,4 +28,3 @@ This page gathers the sources on design method, art, interface thinking, digital
 
 - Implementation details for many of these ideas live in [[sveltekit-and-web-development]].
 - AI art and creative tooling connect to [[technology-ai-and-future-systems]].
-- The garden’s role in the overall corpus is introduced in [[workspace-and-project-context]].
