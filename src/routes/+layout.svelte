@@ -37,7 +37,7 @@
     display: grid
     grid-auto-template: rows
     @media screen and (min-width: 1025px)
-        grid-template-columns: 400px 1fr
+        grid-template-columns: 360px 1fr
         grid-template-areas: "side main"
         padding-left: 64px
         padding-right: 64px
