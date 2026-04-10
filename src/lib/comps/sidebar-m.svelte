@@ -64,10 +64,12 @@
 	position: fixed
 	top: -100vh
 	width: 100vw
-	background: linear-gradient(90deg,rgba(26, 26, 26, 1) 0%, rgba(3, 23, 10, 1) 100%)
+	background: #FFFFFF
 	z-index: 499
 	align-items: flex-end
 	padding-top: 112px
+	padding-right: 16px
+	padding-left: 16px
 	transition: all 0.5s 
 	&.onscreen
 		top: 0
@@ -80,20 +82,21 @@
 	row-gap: 16px
 	align-items: flex-end
 	text-align: right
-	padding-right: 16px
+	border-bottom: 1px solid var(--col-border)
+	width: 100%
+	padding-bottom: var(--ds-std)
   
 .accordion-items
-	row-gap: 16px
+	row-gap: 12px
 	align-items: flex-end
   
 p.acco-title
 	text-transform: uppercase
 	font-size: 28px
-	font-weight: 500
+	font-weight: 300
 	cursor: pointer
 	user-select: none
 	text-align: right
-	color: #FFFFFF
 	a
 		text-decoration: none
 		color: inherit
@@ -102,9 +105,8 @@ p.acco-title
   
 .accordion-items
 	p
-		font-size: 24px
+		font-size: 21px
 		text-transform: capitalize
-		color: #FFFFFF
 	a
 		text-decoration: none
 		color: inherit
