@@ -1,6 +1,19 @@
+<script lang="ts">
+
+	import { darkTheme, toggleTheme } from '$lib/utils/stores'
+	import Sun from '$lib/assets/sun.svelte'
+	import Moon from '$lib/assets/moon.svelte'
+
+</script>
 <div class="footer-row">
-	<p class="textgrey"><a href="/wiki-writings/posts/about">Amritanshu Pandey</a> | 2026</p>
-	<p class="linkgrey"><a href="https://x.com/saamaanyafreaky" target="_blank" rel="noreferrer">Connect on Twitter/X</a></p>
+	<p class="textgrey"><a href="/wiki-writings/posts/about">Amritanshu Pandey</a> | <a href="https://x.com/saamaanyafreaky" target="_blank" rel="noreferrer">Twitter/X</a> | 2026</p>
+	<button class="blank" onclick={toggleTheme}>
+		{#if $darkTheme}
+		<Sun/>
+		{:else}
+		<Moon/>
+		{/if}
+	</button>
 </div>
 
 <style lang="sass">
@@ -22,15 +35,5 @@ p.textgrey
 	a
 		color: var(--col-green)
 		text-decoration: none
-
-p.linkgrey
-	color: var(--col-textgreylight)
-	a
-		color: inherit
-		text-decoration: none
-	&:hover
-		color: var(--col-green)
-		a
-			color: var(--col-green)
 
 </style>

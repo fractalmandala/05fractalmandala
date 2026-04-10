@@ -51,14 +51,14 @@
 	width: 4px
 ::-webkit-scrollbar-thumb
 	background: var(--col-green)
-	border-bottom: 280px solid #FFFFFF
+	border-bottom: 280px solid var(--background)
 ::-webkit-scrollbar-track
-	background: #FFFFFF
+	background: var(--background)
 
 .accordion
 	row-gap: 1em
 	padding-bottom: 20px
-	background: #FFFFFF
+	background: var(--background)
 	border-bottom: 1px solid var(--col-border)
 
 .accordion-items

@@ -3,8 +3,8 @@
 <style lang="sass">
 
 svg
-	fill: #000000
-	stroke: #000000
+	fill: var(--primary)
+	stroke: var(--primary)
 	transform: scale(0.9)
 	&:hover
 		fill: var(--col-green)

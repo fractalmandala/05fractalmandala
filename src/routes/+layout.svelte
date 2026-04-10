@@ -9,6 +9,7 @@
 	import { onMount } from 'svelte';
 	import { afterNavigate } from '$app/navigation';
 	import { enhanceCodeBlocks } from '$lib/utils/code-copy';
+	import { darkTheme } from '$lib/utils/stores'
 	import type { LayoutData } from './$types';
 
 	let { children, data }: { children: any, data: LayoutData } = $props();
@@ -29,6 +30,7 @@
 	  </script>
 </svelte:head>
 
+<div class:light={!$darkTheme} class:dark={$darkTheme}>
 <header>
 	<Header/>
 </header>
@@ -47,6 +49,7 @@
 	<Footer/>
 </footer>
 <SearchModal/>
+</div>
 
 <style lang="sass">
 
@@ -80,11 +83,14 @@
 		.main
 			padding-top: 32px
 
+main
+	background: var(--background)
+
 header
 	height: 64px
 	position: sticky
 	top: 0
-	background: #FFFFFF
+	background: var(--background)
 	z-index: 699
 	@media screen and (min-width: 1025px)
 		padding-left: var(--pad-side)
@@ -95,7 +101,7 @@ header
 
 footer
 	height: 64px
-	background: #FFFFFF
+	background: var(--background)
 	z-index: 699
 	@media screen and (min-width: 1025px)
 		padding-left: var(--pad-side)

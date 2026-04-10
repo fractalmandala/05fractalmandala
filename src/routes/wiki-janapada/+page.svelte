@@ -70,20 +70,20 @@
 		{#if groups && groups.length > 0}
 			<div class="row rgap8 cgap8 wrap">
 				<button
-					class="wiki-labels"
-					class:selected={isThis[6]}
+					class="filter-btn"
+					class:active={isThis[6]}
 					on:click={() => toggleFilter(6)}
 				>
 					All
 				</button>
 				{#each groups as item, i}
 					<button
-						class="wiki-labels"
+						class="filter-btn"
 						on:click={() => {
 							toggleFilter(i);
 							setFilter(item);
 						}}
-						class:selected={isThis[i]}
+						class:active={isThis[i]}
 					>
 						{item}
 					</button>
@@ -111,3 +111,27 @@
 		{/if}
 	</div>
 </Template>
+
+<style lang="sass">
+
+.filter-btn
+	padding: 4px 12px
+	font-size: 12px
+	font-family: 'Source Code Pro', monospace
+	text-transform: uppercase
+	letter-spacing: 0.04em
+	border: 1px solid var(--col-border)
+	border-radius: 6px
+	background: var(--background)
+	color: var(--col-textgrey)
+	cursor: pointer
+	transition: all 0.15s
+	&:hover
+		border-color: var(--col-green)
+		color: var(--col-green)
+	&.active
+		background: var(--col-green)
+		border-color: var(--col-green)
+		color: var(--background)
+
+</style>

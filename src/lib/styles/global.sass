@@ -4,10 +4,6 @@
 
 :root, *
 	box-sizing: border-box
-	--col-border: #e7e7e7
-	--col-textgrey: #707070
-	--col-textgreylight: #a7a7a7
-	--col-green: #0CB600
 	--col-greendark: #277D36
 	--pad-side: 48px
 	--ds-xsm: 0.25rem
@@ -17,15 +13,32 @@
 	--ds-l: 2rem
 	--ds-xl: 2.4rem
 	--ds-xxl: 3rem
+
+.light
 	--background: #FFFFFF
 	--primary: #111112
+	--col-border: #e7e7e7
+	--col-textgrey: #707070
+	--col-textgreylight: #a7a7a7
+	--col-green: #0CB600
+	--col-highlight: #FFF64E
+
+.dark
+	--background: #121212
+	--primary: #e9e8e8
+	--col-border: #272727
+	--col-textgrey: #919191
+	--col-textgreylight: #616161
+	--col-green: #3DDB61
+	--col-highlight: #614f89
 
 body, html
 	box-sizing: border-box
 	margin: 0
 	padding: 0
 	font-family: 'Google Sans Flex', sans-serif
-	color: var(--primary)
+	.light, .dark
+		color: var(--primary)
 
 p, em, li, ul, ol, cite, caption, blockquote, small, h6, h5, h4, h3, h2, h1
 	margin: 0

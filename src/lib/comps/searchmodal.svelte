@@ -18,7 +18,7 @@
 	let activeFilter = $state<string | null>(null);
 	let results = $state<DisplayResult[]>([]);
 	let loading = $state(true);
-	let inputEl: HTMLInputElement;
+	let inputEl = $state<HTMLInputElement | undefined>(undefined);
 	let index: any;
 	let contentMap = new Map<string, string>();
 
@@ -73,7 +73,7 @@
 			return;
 		}
 		const raw = index.search(q, { enrich: true, limit: 60 });
-		const seen          = new Set<string>();
+		const seen = new Set<string>();
 		const titleMatchIds = new Set<string>();
 		const deduped: SearchEntry[] = [];
 		for (const fieldResult of raw) {
@@ -214,13 +214,13 @@
 input
 	padding: 16px
 	outline: none
-	border: 1px solid #f1f1f1
+	border: 1px solid var(--col-textgreylight)
 	border-radius: 4px
 	font-family: inherit
 	font-size: 18px
 	transition: border-color 0.15s
 	width: 100%
-	background: #f9f9f9
+	background: var(--background)
 	color: var(--primary)
 	&:focus
 		border-color: var(--col-border)
@@ -280,7 +280,7 @@ small.item-section
 	margin-top: 4px
 
 :global(mark)
-	background: #FFF64E
+	background: var(--col-highlight)
 	color: inherit
 	border-radius: 2px
 	padding: 0 1px

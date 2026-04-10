@@ -93,6 +93,7 @@
 		font-size: 12.88px
 		text-transform: uppercase
 		font-weight: 500
+		color: var(--primary)
 		a
 			text-decoration: none
 			color: inherit
@@ -122,7 +123,7 @@
 		font-family: 'Iosevka Charon', monospace
 		font-size: 18.6px
 		font-weight: 600
-		color: #000000
+		color: var(--primary)
 		.char-7, .char-8, .char-9, .char-10, .char-11, .char-12, .char-13
 			color: var(--col-green)
 	&:hover
