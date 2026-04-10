@@ -5,8 +5,15 @@
     import Header from '$lib/comps/header.svelte'
     import SidebarD from '$lib/comps/sidebar-d.svelte'
     import SidebarM from '$lib/comps/sidebar-m.svelte'
+    import { onMount } from 'svelte';
+    import { afterNavigate } from '$app/navigation';
+    import { enhanceCodeBlocks } from '$lib/utils/code-copy';
 
 	let { children } = $props();
+    let mainEl: HTMLElement;
+
+    onMount(() => enhanceCodeBlocks(mainEl));
+    afterNavigate(() => enhanceCodeBlocks(mainEl));
 </script>
 
 <svelte:head>
@@ -23,7 +30,7 @@
             <SidebarD/>
         </div>
     </div>
-    <div class="main">
+    <div class="main" bind:this={mainEl}>
         {@render children()}
     </div>
 </main>
@@ -36,6 +43,9 @@
 .doc-grid
     display: grid
     grid-auto-template: rows
+    .main
+        min-width: 0
+        overflow-x: hidden
     @media screen and (min-width: 1025px)
         grid-template-columns: 360px 1fr
         grid-template-areas: "side main"

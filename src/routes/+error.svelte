@@ -1,15 +1,15 @@
 <script lang="ts">
-  import { page } from '$app/stores';
+  import { page } from '$app/state';
 </script>
 
 <svelte:head>
-  <title>{$page.status} | Fractal Mandala</title>
+  <title>{page.status} | Fractal Mandala</title>
 </svelte:head>
 
 <div class="page-shell error-page">
-  <p class="status">{$page.status}</p>
-  <h1>{$page.status === 404 ? 'Page not found' : 'Something went wrong'}</h1>
-  <p class="message">{$page.error?.message ?? ''}</p>
+  <p class="status">{page.status}</p>
+  <h1>{page.status === 404 ? 'Page not found' : 'Something went wrong'}</h1>
+  <p class="message">{page.error?.message ?? ''}</p>
   <a href="/">← Back to all wikis</a>
 </div>
 

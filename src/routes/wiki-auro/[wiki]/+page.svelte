@@ -9,7 +9,7 @@
 
 <article>
 <nav class="breadcrumb" aria-label="breadcrumb">
-    <a href="/{data.wikiSlug}">{data.wikiLabel}</a>
+    <a href="/{data.wikiSlug}/+page">{data.wikiLabel}</a>
     <span aria-hidden="true"> > </span>
     <span aria-current="page">{data.title}</span>
 </nav>

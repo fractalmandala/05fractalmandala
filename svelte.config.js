@@ -4,7 +4,7 @@ import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
 
 const WIKI_SLUG_MAP = {
     'wiki-auro': 'wiki-auro',
-    'wiki-srg&srs': 'wiki-srg&srs',
+    'wiki-srgsrs': 'wiki-srgsrs',
     'wiki-civilization': 'wiki-civilization',
     'wiki-writings': 'wiki-writings',
     'wiki-janapada': 'wiki-janapada',

@@ -43,7 +43,7 @@ p, em, li, ul, ol, cite, caption, blockquote, small, h6, h5, h4, h3, h2, h1
 	a
 		text-decoration: none
 		color: #37B24D
-	pre, p, li
+	p, li
 		white-space: pre-wrap
 		word-break: break-word
 	@media screen and (min-width: 1025px)
@@ -144,8 +144,60 @@ p, em, li, ul, ol, cite, caption, blockquote, small, h6, h5, h4, h3, h2, h1
 		&.two, .three
 			grid-template-columns: 1fr
 
+// Code blocks
+.code-block-wrapper
+	position: relative
+	margin-bottom: 1em
+	border-radius: 6px
+	max-width: 100%
+	overflow-x: auto
+	pre
+		margin: 0
+		padding: 20px 20px 20px 20px
+		background: #1a1a1a
+		color: #e8e8e8
+		font-family: 'Iosevka Charon', monospace
+		font-size: 14px
+		line-height: 1.6
+		overflow-x: auto
+		white-space: pre
+		word-break: normal
+		border-radius: 6px
+		code
+			background: none
+			padding: 0
+			font-size: inherit
+			color: inherit
+
+.code-copy-btn
+	position: absolute
+	top: 10px
+	right: 10px
+	display: flex
+	flex-direction: row
+	align-items: center
+	gap: 5px
+	background: #2e2e2e
+	border: 1px solid #444
+	border-radius: 4px
+	color: #a7a7a7
+	padding: 4px 8px
+	cursor: pointer
+	font-family: 'Google Sans Flex', sans-serif
+	font-size: 12px
+	line-height: 1
+	transition: background 0.15s, color 0.15s
+	&:hover
+		background: #3a3a3a
+		color: #ffffff
+	&.is-copied
+		color: var(--col-green)
+		border-color: var(--col-green)
+	.copied-label
+		font-size: 11px
+
 .cgap8
-	column-gap: 8x
+	column-gap: 8px
 .cgap16
 	column-gap: 16px
 .cgap24
@@ -157,7 +209,7 @@ p, em, li, ul, ol, cite, caption, blockquote, small, h6, h5, h4, h3, h2, h1
 .cgap64
 	column-gap: 64px
 .rgap8
-	row-gap: 8x
+	row-gap: 8px
 .rgap16
 	row-gap: 16px
 .rgap24

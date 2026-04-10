@@ -13,10 +13,7 @@ Sri Aurobindo reads the Bhagavad Gita as a scripture of disciplined action, inne
 - The Gita as a bridge between Vedanta and a life-affirming yoga.
 
 ## Source Summaries
-
-### `19EssaysOnTheGita.pdf`
-
-This is Sri Aurobindo's sustained interpretation of the Bhagavad Gita, first published in the *Arya* and later revised for book form. The chapters move through the divine teacher, the human disciple, sacrifice, avatarhood, equality, nature, and works, presenting the Gita as a gospel of integral spiritual action. It is one of the clearest places where he explains how liberation need not require withdrawal from life and why action can become an instrument of the Divine.
+- [Essays on the Gita](/wiki-auro/posts/10) - This is Sri Aurobindo's sustained interpretation of the Bhagavad Gita, first published in the *Arya* and later revised for book form. The chapters move through the divine teacher, the human disciple, sacrifice, avatarhood, equality, nature, and works, presenting the Gita as a gospel of integral spiritual action. It is one of the clearest places where he explains how liberation need not require withdrawal from life and why action can become an instrument of the Divine.
 
 ## Related Topics
 

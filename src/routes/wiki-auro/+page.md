@@ -6,12 +6,13 @@ id: 999
 <script lang="ts">
 
     import { onMount } from 'svelte'
-    import { loadWiki, type WikiEntry } from '$lib/utils/locals'
+    import { loadWiki, type WikiEntry, loadWikiSources } from '$lib/utils/locals'
 
     let data: WikiEntry[] = []
+	const sources = loadWikiSources('wiki-auro');
 
     onMount(async () => {
-        data = await loadWiki('wiki-auro')
+        data = await loadWiki('wiki-auro');
     })
 
 </script>
@@ -25,31 +26,43 @@ This wiki organizes Sri Aurobindo's work into major thematic topics, moving from
 
 His work traces a movement from cultural criticism and anti-colonial nationalism toward a large synthetic vision in which Veda, Upanishad, Gita, yoga, metaphysics, and social development become parts of one evolutionary account of consciousness. The strongest recurring themes are the recovery of Indian civilization from reductive colonial readings, the reinterpretation of Hindu scripture as a record of spiritual experience, and the claim that individual and collective life can be transformed rather than merely renounced.
 
-## Chronological Arc
-- Early period: cultural essays, literary criticism, education, and political nationalism.
-- Middle period: reinterpretation of Veda, Upanishads, and Gita alongside major philosophical works.
-- Later period: Integral Yoga in systematic form, especially through letters to disciples.
-
-## Key Intellectual Moves
-- India is treated as a civilization with its own spiritual logic, not as a failed imitation of Europe.
-- Ancient texts are read psychologically and spiritually rather than only ritualistically or philologically.
-- Human evolution is understood as unfinished and capable of supramental transformation.
-- Politics, culture, yoga, and metaphysics are connected rather than separated into different compartments.
-
-## Topics
 {#if data.length > 0}
-    <div class="wiki-items-box">
+<div class="box-up">
+	<h2>Topics</h2>
+	<div class="grid two">
     {#each data as item}
         <p class="wiki-items tt-c"><a href={item.linkpath}>{item.meta.title}</a></p>
     {/each}
-    </div>
+	</div>
+</div>
 {/if}
+
+{#if sources.length > 0}
+<div class="box-up">
+	<h2>Source Texts</h2>
+	<div class="grid two">
+		{#each sources as source}
+			<p class="wiki-items tt-c"><a href={source.href}>{source.title}</a></p>
+		{/each}
+	</div>
+</div>
+{/if}
+
 
 <style lang="sass">
 
+.box-up
+	border-top: 1px solid var(--col-border)
+	margin-top: 32px
+
 .wiki-items-box
-    display: flex
-    flex-direction: column
-    row-gap: 5px
+	display: flex
+	flex-direction: column
+	row-gap: 5px
+
+h1.page-title
+	border-bottom: 1px solid var(--col-border)
+	padding-bottom: 16px
+	margin-bottom: 24px
 
 </style> 

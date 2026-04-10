@@ -1,0 +1,753 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fractal Mandala — Mockup 3 (Editorial Serif)</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Inter:wght@300;400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --ochre:       #C47A2B;
+  --ochre-light: #FDF6EC;
+  --ochre-dim:   #F0DDB9;
+  --ink:         #1A1614;
+  --ink-2:       #4A403A;
+  --ink-3:       #8A7A72;
+  --border:      #E8DDD6;
+  --border-2:    #D0C4BB;
+  --bg:          #FFFFFF;
+  --bg-2:        #FAF7F4;
+  --bg-code:     #1E1B18;
+  --font-serif:  'Playfair Display', Georgia, serif;
+  --font-sans:   'Inter', system-ui, sans-serif;
+  --font-mono:   'DM Mono', monospace;
+  --sidebar-w:   256px;
+  --header-h:    60px;
+}
+
+body {
+  font-family: var(--font-sans);
+  background: var(--bg);
+  color: var(--ink);
+  font-size: 15px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: inherit; text-decoration: none; }
+
+/* ── HEADER ──────────────────────────────────────────── */
+.header {
+  height: var(--header-h);
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  padding: 0 32px;
+  gap: 40px;
+  background: var(--bg);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-family: var(--font-serif);
+  font-size: 17px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+  white-space: nowrap;
+}
+
+.logo-mark {
+  width: 28px;
+  height: 28px;
+  flex-shrink: 0;
+}
+
+.header-nav {
+  display: flex;
+  gap: 28px;
+  font-size: 12.5px;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  flex: 1;
+}
+
+.header-nav a:hover { color: var(--ochre); }
+.header-nav a.active { color: var(--ochre); }
+
+/* ── SHELL ──────────────────────────────────────────── */
+.shell {
+  display: flex;
+  min-height: calc(100vh - var(--header-h));
+}
+
+/* ── SIDEBAR ──────────────────────────────────────────── */
+.sidebar {
+  width: var(--sidebar-w);
+  flex-shrink: 0;
+  border-right: 1px solid var(--border);
+  padding: 28px 0;
+  position: sticky;
+  top: var(--header-h);
+  height: calc(100vh - var(--header-h));
+  overflow-y: auto;
+}
+
+.sidebar-section {
+  margin-bottom: 8px;
+}
+
+.sidebar-label {
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  padding: 6px 24px;
+  display: block;
+  margin-bottom: 2px;
+}
+
+.sidebar-links { list-style: none; }
+
+.sidebar-links li a {
+  display: block;
+  padding: 5px 24px;
+  font-size: 13.5px;
+  color: var(--ink-2);
+  border-left: 2px solid transparent;
+  transition: all 0.15s;
+}
+
+.sidebar-links li a:hover {
+  color: var(--ochre);
+  background: var(--ochre-light);
+  border-left-color: var(--ochre-dim);
+}
+
+.sidebar-links li a.active {
+  color: var(--ochre);
+  background: var(--ochre-light);
+  border-left-color: var(--ochre);
+  font-weight: 500;
+}
+
+.sidebar-divider {
+  height: 1px;
+  background: var(--border);
+  margin: 12px 24px;
+}
+
+/* ── MAIN ──────────────────────────────────────────── */
+.main {
+  flex: 1;
+  min-width: 0;
+}
+
+/* ── HOME PAGE ──────────────────────────────────────── */
+.home {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 56px 48px;
+}
+
+.home-hero {
+  padding-bottom: 40px;
+  margin-bottom: 40px;
+  border-bottom: 1px solid var(--border);
+}
+
+.home-eyebrow {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ochre);
+  margin-bottom: 14px;
+  display: block;
+}
+
+.home-title {
+  font-family: var(--font-serif);
+  font-size: 44px;
+  font-weight: 700;
+  line-height: 1.12;
+  letter-spacing: -0.02em;
+  color: var(--ink);
+  margin-bottom: 16px;
+}
+
+.home-title em {
+  font-style: italic;
+  color: var(--ochre);
+}
+
+.home-lead {
+  font-size: 17px;
+  line-height: 1.65;
+  color: var(--ink-2);
+  max-width: 560px;
+  font-weight: 300;
+}
+
+/* Section headers */
+.section-header {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+.section-title {
+  font-family: var(--font-serif);
+  font-size: 22px;
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.section-line {
+  flex: 1;
+  height: 1px;
+  background: var(--border);
+  margin-bottom: 2px;
+}
+
+/* Wiki grid */
+.wiki-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1px;
+  background: var(--border);
+  border: 1px solid var(--border);
+  margin-bottom: 48px;
+}
+
+.wiki-card {
+  background: var(--bg);
+  padding: 20px 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  transition: background 0.15s;
+  cursor: pointer;
+}
+
+.wiki-card:hover { background: var(--ochre-light); }
+
+.wiki-card-label {
+  font-size: 10.5px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ochre);
+}
+
+.wiki-card-title {
+  font-family: var(--font-serif);
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--ink);
+  line-height: 1.3;
+}
+
+.wiki-card-desc {
+  font-size: 12.5px;
+  color: var(--ink-3);
+  line-height: 1.5;
+}
+
+.wiki-card-count {
+  font-size: 11px;
+  color: var(--ink-3);
+  margin-top: auto;
+  padding-top: 8px;
+}
+
+/* Writings */
+.writings-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  margin-bottom: 48px;
+}
+
+.writing-item {
+  display: grid;
+  grid-template-columns: 80px 1fr auto;
+  align-items: baseline;
+  gap: 16px;
+  padding: 12px 0;
+  border-bottom: 1px solid var(--border);
+  cursor: pointer;
+}
+
+.writing-item:first-child { border-top: 1px solid var(--border); }
+
+.writing-item:hover .writing-title { color: var(--ochre); }
+
+.writing-tag {
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+}
+
+.writing-title {
+  font-family: var(--font-serif);
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--ink);
+  transition: color 0.15s;
+}
+
+.writing-meta {
+  font-size: 11.5px;
+  color: var(--ink-3);
+}
+
+/* ── ARTICLE PAGE ──────────────────────────────────── */
+
+.article-shell {
+  display: none;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 40px 48px;
+}
+
+.article-shell.visible { display: block; }
+
+.breadcrumb {
+  font-size: 12px;
+  color: var(--ink-3);
+  margin-bottom: 32px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  letter-spacing: 0.04em;
+}
+
+.breadcrumb a { color: var(--ochre); }
+.breadcrumb a:hover { text-decoration: underline; }
+.breadcrumb-sep { color: var(--border-2); }
+
+.article-header {
+  padding-bottom: 28px;
+  margin-bottom: 32px;
+  border-bottom: 2px solid var(--ink);
+}
+
+.article-wiki-label {
+  font-size: 10.5px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ochre);
+  margin-bottom: 10px;
+  display: block;
+}
+
+.article-title {
+  font-family: var(--font-serif);
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  color: var(--ink);
+}
+
+/* Article body prose */
+.article-body {
+  max-width: 680px;
+}
+
+.article-body h2 {
+  font-family: var(--font-serif);
+  font-size: 24px;
+  font-weight: 600;
+  color: var(--ink);
+  margin: 36px 0 12px;
+  line-height: 1.25;
+}
+
+.article-body h3 {
+  font-family: var(--font-serif);
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--ink);
+  margin: 28px 0 10px;
+}
+
+.article-body p {
+  font-size: 16px;
+  line-height: 1.75;
+  color: var(--ink-2);
+  margin-bottom: 18px;
+}
+
+.article-body a {
+  color: var(--ochre);
+  text-decoration: underline;
+  text-decoration-color: var(--ochre-dim);
+  text-underline-offset: 3px;
+}
+
+.article-body a:hover {
+  text-decoration-color: var(--ochre);
+}
+
+.article-body blockquote {
+  margin: 24px 0;
+  padding: 18px 24px;
+  border-left: 3px solid var(--ochre);
+  background: var(--ochre-light);
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 16px;
+  color: var(--ink-2);
+  line-height: 1.7;
+}
+
+.article-body ul, .article-body ol {
+  padding-left: 1.4em;
+  margin-bottom: 18px;
+}
+
+.article-body li {
+  font-size: 15.5px;
+  line-height: 1.7;
+  color: var(--ink-2);
+  margin-bottom: 4px;
+}
+
+/* Code */
+.code-block {
+  background: var(--bg-code);
+  border-radius: 6px;
+  overflow: hidden;
+  margin: 20px 0;
+  font-size: 13.5px;
+  max-width: 100%;
+  border: 1px solid #333;
+}
+
+.code-topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #2A2520;
+  padding: 8px 14px;
+  border-bottom: 1px solid #333;
+}
+
+.code-lang {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: #A0897C;
+  letter-spacing: 0.05em;
+  text-transform: lowercase;
+}
+
+.code-copy {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: #A0897C;
+  background: none;
+  border: 1px solid #444;
+  border-radius: 3px;
+  padding: 2px 8px;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.code-copy:hover { color: #C47A2B; border-color: #C47A2B; }
+
+.code-block pre {
+  padding: 16px 18px;
+  overflow-x: auto;
+  color: #D4C5BA;
+  font-family: var(--font-mono);
+  line-height: 1.65;
+}
+
+.code-block .kw { color: #E5A05A; }
+.code-block .fn { color: #A8C4E8; }
+.code-block .str { color: #9ECFA0; }
+.code-block .cm { color: #6B5E58; font-style: italic; }
+.code-block .ty { color: #D4A0C8; }
+
+/* ── NAV TOGGLE ──────────────────────────────────────── */
+.page-toggle {
+  display: flex;
+  gap: 0;
+  padding: 32px 48px 0;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.toggle-btn {
+  padding: 8px 20px;
+  font-family: var(--font-sans);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  cursor: pointer;
+  border: 1px solid var(--border-2);
+  background: var(--bg-2);
+  color: var(--ink-3);
+  transition: all 0.15s;
+}
+
+.toggle-btn:first-child { border-radius: 4px 0 0 4px; }
+.toggle-btn:last-child { border-radius: 0 4px 4px 0; border-left: none; }
+
+.toggle-btn.active {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--bg);
+}
+
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<header class="header">
+  <a class="logo" href="/">
+    <svg class="logo-mark" viewBox="0 0 28 28" fill="none">
+      <circle cx="14" cy="14" r="13" stroke="#C47A2B" stroke-width="1.5"/>
+      <circle cx="14" cy="14" r="7" stroke="#C47A2B" stroke-width="1.2"/>
+      <circle cx="14" cy="14" r="2.5" fill="#C47A2B"/>
+      <line x1="14" y1="1" x2="14" y2="27" stroke="#C47A2B" stroke-width="0.8" stroke-dasharray="2 3"/>
+      <line x1="1" y1="14" x2="27" y2="14" stroke="#C47A2B" stroke-width="0.8" stroke-dasharray="2 3"/>
+    </svg>
+    Fractal Mandala
+  </a>
+  <nav class="header-nav">
+    <a href="/" class="active">Home</a>
+    <a href="/wiki-civilization">Civilization</a>
+    <a href="/wiki-history">History</a>
+    <a href="/wiki-auro">Sri Aurobindo</a>
+    <a href="/wiki-srgsrs">Sita Ram Goel</a>
+    <a href="/wiki-writings">Writings</a>
+  </nav>
+</header>
+
+<!-- DEMO TOGGLE -->
+<div class="page-toggle">
+  <button class="toggle-btn active" onclick="show('home')">Homepage</button>
+  <button class="toggle-btn" onclick="show('article')">Article page</button>
+</div>
+
+<!-- SHELL -->
+<div class="shell">
+
+  <!-- SIDEBAR -->
+  <aside class="sidebar">
+    <div class="sidebar-section">
+      <span class="sidebar-label">Knowledge</span>
+      <ul class="sidebar-links">
+        <li><a href="#" class="active">Civilization</a></li>
+        <li><a href="#">Indian History</a></li>
+        <li><a href="#">Sri Aurobindo</a></li>
+        <li><a href="#">Sita Ram Goel & Ram Swarup</a></li>
+      </ul>
+    </div>
+    <div class="sidebar-divider"></div>
+    <div class="sidebar-section">
+      <span class="sidebar-label">Creative</span>
+      <ul class="sidebar-links">
+        <li><a href="#">The Janapada</a></li>
+        <li><a href="#">Thea</a></li>
+        <li><a href="#">Writings</a></li>
+      </ul>
+    </div>
+    <div class="sidebar-divider"></div>
+    <div class="sidebar-section">
+      <span class="sidebar-label">In This Wiki</span>
+      <ul class="sidebar-links">
+        <li><a href="#">Overview</a></li>
+        <li><a href="#">Rta and Dharma</a></li>
+        <li><a href="#">Sanatana Dharma</a></li>
+        <li><a href="#">Varna and Jati</a></li>
+        <li><a href="#">The Aryan Question</a></li>
+        <li><a href="#">Kala and Cyclical Time</a></li>
+      </ul>
+    </div>
+  </aside>
+
+  <!-- MAIN -->
+  <main class="main">
+
+    <!-- HOME PAGE -->
+    <div id="home" class="home">
+
+      <div class="home-hero">
+        <span class="home-eyebrow">A knowledge garden</span>
+        <h1 class="home-title">Fractal<br><em>Mandala</em></h1>
+        <p class="home-lead">Notes, research, and creative work on Indian civilization, philosophy, history, and two long fiction projects in progress.</p>
+      </div>
+
+      <!-- Wikis -->
+      <div class="section-header">
+        <h2 class="section-title">Knowledge Bases</h2>
+        <div class="section-line"></div>
+      </div>
+
+      <div class="wiki-grid">
+        <div class="wiki-card">
+          <div class="wiki-card-label">Philosophy</div>
+          <div class="wiki-card-title">Indian Civilization</div>
+          <div class="wiki-card-desc">Dharma, cosmology, social structure, and the civilizational frame.</div>
+          <div class="wiki-card-count">24 articles</div>
+        </div>
+        <div class="wiki-card">
+          <div class="wiki-card-label">History</div>
+          <div class="wiki-card-title">Indian History</div>
+          <div class="wiki-card-desc">Colonial period, medieval India, and the historiography debates.</div>
+          <div class="wiki-card-count">18 articles</div>
+        </div>
+        <div class="wiki-card">
+          <div class="wiki-card-label">Thinker</div>
+          <div class="wiki-card-title">Sri Aurobindo</div>
+          <div class="wiki-card-desc">The Synthesis of Yoga, Savitri, and the supramental vision.</div>
+          <div class="wiki-card-count">31 articles</div>
+        </div>
+        <div class="wiki-card">
+          <div class="wiki-card-label">Scholarship</div>
+          <div class="wiki-card-title">Sita Ram Goel & Ram Swarup</div>
+          <div class="wiki-card-desc">Hindu renaissance, critiques of monotheism, polytheist traditions.</div>
+          <div class="wiki-card-count">22 articles</div>
+        </div>
+        <div class="wiki-card">
+          <div class="wiki-card-label">Fiction · Historical</div>
+          <div class="wiki-card-title">The Janapada</div>
+          <div class="wiki-card-desc">A historical fiction set in early Iron Age India.</div>
+          <div class="wiki-card-count">14 articles</div>
+        </div>
+        <div class="wiki-card">
+          <div class="wiki-card-label">Fiction · Sci-Fi</div>
+          <div class="wiki-card-title">Thea</div>
+          <div class="wiki-card-desc">Far-future science fiction rooted in Dharmic cosmology.</div>
+          <div class="wiki-card-count">11 articles</div>
+        </div>
+      </div>
+
+      <!-- Writings -->
+      <div class="section-header">
+        <h2 class="section-title">Writings</h2>
+        <div class="section-line"></div>
+      </div>
+
+      <div class="writings-list">
+        <div class="writing-item">
+          <span class="writing-tag">Essay</span>
+          <span class="writing-title">The Return of the Dharmic Imagination</span>
+          <span class="writing-meta">2024</span>
+        </div>
+        <div class="writing-item">
+          <span class="writing-tag">Dev</span>
+          <span class="writing-title">Auth in SvelteKit with Lucia</span>
+          <span class="writing-meta">2024</span>
+        </div>
+        <div class="writing-item">
+          <span class="writing-tag">Essay</span>
+          <span class="writing-title">Colonialism and the Destruction of Memory</span>
+          <span class="writing-meta">2023</span>
+        </div>
+        <div class="writing-item">
+          <span class="writing-tag">Essay</span>
+          <span class="writing-title">What Sri Aurobindo Saw in the Veda</span>
+          <span class="writing-meta">2023</span>
+        </div>
+        <div class="writing-item">
+          <span class="writing-tag">Dev</span>
+          <span class="writing-title">Building a Personal Wiki in SvelteKit</span>
+          <span class="writing-meta">2023</span>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ARTICLE PAGE -->
+    <div id="article" class="article-shell">
+
+      <nav class="breadcrumb">
+        <a href="/wiki-civilization">Civilization</a>
+        <span class="breadcrumb-sep">›</span>
+        <span>Rta and Dharma</span>
+      </nav>
+
+      <div class="article-header">
+        <span class="article-wiki-label">Indian Civilization</span>
+        <h1 class="article-title">Ṛta and Dharma</h1>
+      </div>
+
+      <div class="article-body">
+        <p>Ṛta is the oldest word in the Vedic vocabulary for cosmic order — the principle that the sun rises, the seasons turn, and the rains come in their time. It is not a law imposed from outside but the inherent rhythm of existence. Dharma, the term that later supersedes it, carries this meaning forward while adding moral and social weight: the right action, the right role, the right relationship.</p>
+
+        <h2>The Vedic Conception</h2>
+
+        <p>In the Rigveda, Ṛta appears in over three hundred hymns. Varuna and Mitra are its guardians — cosmic sovereigns who maintain the order of the universe and punish its violators. The opposite of Ṛta is <em>anṛta</em>, untruth, disorder, the lie that disturbs the cosmic fabric.</p>
+
+        <blockquote>
+          The paths of Ṛta are beautiful and thornless; on that path, free from obstructions, let us travel. — Rigveda 1.41.4
+        </blockquote>
+
+        <p>The term also carries an astronomical meaning. The regularity of the heavens — the nakṣatras, the solar and lunar cycles — was itself Ṛta made visible. The Vedic ṛṣi saw no separation between cosmic, moral, and ritual order: the sacrifice was a re-enactment of the cosmic ordering principle.</p>
+
+        <h2>The Transition to Dharma</h2>
+
+        <p>By the time of the Upaniṣads and the Mahābhārata, Dharma has largely absorbed and expanded Ṛta. Where Ṛta described the impersonal cosmic order, Dharma becomes simultaneously the universal law, the social code, and the individual duty — all three simultaneously active in any given act. This is the characteristic compression of Indian thought: the cosmic, the social, and the personal are not separate domains.</p>
+
+        <div class="code-block">
+          <div class="code-topbar">
+            <span class="code-lang">typescript</span>
+            <button class="code-copy">copy</button>
+          </div>
+          <pre><code><span class="cm">// Mapping dharmic concepts to typed structures</span>
+<span class="kw">interface</span> <span class="ty">DharmicOrder</span> {
+  <span class="fn">rta</span>: <span class="ty">CosmicLaw</span>;        <span class="cm">// impersonal, universal</span>
+  <span class="fn">dharma</span>: <span class="ty">SocialDuty</span>;     <span class="cm">// role-specific</span>
+  <span class="fn">karma</span>: <span class="ty">ActionRecord</span>;    <span class="cm">// individual consequence</span>
+}
+
+<span class="kw">const</span> <span class="fn">vedaVakya</span> = <span class="str">"ṛtam vada, dharmaṃ cara"</span>;
+<span class="cm">// "Speak truth, walk in dharma" — Taittirīya Upaniṣad</span></code></pre>
+        </div>
+
+        <h3>Dharma as Sustainer</h3>
+        <p>The Sanskrit root <em>dhṛ</em> — to hold, to sustain — is embedded in the word itself. Dharma is not a constraint placed upon life but the very structure that makes life possible. This is why the Mahābhārata's most famous line — <em>dharmo rakṣati rakṣitaḥ</em>, dharma protects those who protect it — is not a moral exhortation but a statement of cosmic fact.</p>
+
+        <p>The implications for political philosophy are considerable. A king who violates dharma does not merely do wrong; he unravels the structure that sustains his own kingdom. The collapse is not punishment but consequence — the natural result of disorder introduced into the cosmic fabric.</p>
+      </div>
+
+    </div>
+
+  </main>
+</div>
+
+<script>
+function show(page) {
+  document.getElementById('home').style.display = page === 'home' ? 'block' : 'none';
+  document.querySelector('.article-shell').style.display = page === 'article' ? 'block' : 'none';
+  document.querySelectorAll('.toggle-btn').forEach((btn, i) => {
+    btn.classList.toggle('active', (i === 0 && page === 'home') || (i === 1 && page === 'article'));
+  });
+}
+show('home');
+</script>
+</body>
+</html>

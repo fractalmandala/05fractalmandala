@@ -7,7 +7,7 @@ This page covers the corpus on Christianity, missions, indigenisation, and the l
 
 ## Historical Arc
 
-- `History of Hindu-Christian Encounters` is the anchor text and surveys encounters from late antiquity to the late twentieth century.
+- [History of Hindu Christian Encounters](/wiki-srgsrs/posts/438) is the anchor text and surveys encounters from late antiquity to the late twentieth century.
 - The early Syrian Christian presence is treated differently from later Portuguese and missionary Christianity.
 - Portuguese and later missionary encounters are presented as qualitatively more aggressive, especially where theological exclusivism linked itself to political or colonial power.
 - Later Christian adaptation in India is often described in these books as strategic indigenisation rather than genuine theological reciprocity.
@@ -20,14 +20,11 @@ This page covers the corpus on Christianity, missions, indigenisation, and the l
 - Public controversy: Christian missionary resistance to scrutiny also links this page with [[secularism-free-expression-and-political-language]].
 
 ## Source Coverage
-
-- `History of Hindu-Christian Encounters (AD 304 to 1996) Sita Ram Goel.pdf`: Major chronological survey of Hindu-Christian encounters across multiple historical phases.
-- `History of Hindu-Christian Encounters (AD 304 to 1996) Sita Ram Goel.docx`: Text version of the same major survey; useful for extraction and verification.
-- `History of Hindu-Christian Encounters (AD 304 to 1996).docx`: Zero-byte duplicate or broken copy of the same title.
-- `Catholic Ashrams - Sannyasins or Swindlers - Sita Ram Goel.pdf`: Detailed critique of Catholic ashrams and missionary indigenisation.
-- `Pseudo-Secularism (Sitaram Goel).pdf`: Connects missionary activity and Hindu resistance, especially through the Niyogi Committee context.
-- `jesus-christ-an-artifice-for-aggression-by-sita-ram-goel.pdf`: Polemical theological and historical critique of Jesus as an instrument of civilizational aggression.
-- `papacy-its-doctrine-and-history.pdf`: Shorter doctrinal-historical critique of papal authority and church power.
+- [History of Hindu Christian Encounters](/wiki-srgsrs/posts/438) - Major chronological survey of Hindu-Christian encounters across multiple historical phases.
+- [Catholic Ashrams - Sannyasins or Swindlers](/wiki-srgsrs/posts/425) -Detailed critique of Catholic ashrams and missionary indigenisation.
+- [Pseudo-Secularism](/wiki-srgsrs/posts/447) - Connects missionary activity and Hindu resistance, especially through the Niyogi Committee context.
+- [Jesus Christ - Artifice for Aggression](/wiki-srgsrs/posts/442) - Polemical theological and historical critique of Jesus as an instrument of civilizational aggression.
+- [Papacy Doctrine and History](/wiki-srgsrs/posts/445) - Shorter doctrinal-historical critique of papal authority and church power.
 
 ## Relation To The Rest Of The Corpus
 

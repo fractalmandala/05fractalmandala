@@ -13,18 +13,9 @@ Sri Aurobindo's mature philosophy argues that reality is a dynamic manifestation
 - Human life seen as an intermediate stage open to transformation.
 
 ## Source Summaries
-
-### `12EssaysDivineAndHuman.pdf`
-
-This posthumous volume gathers shorter prose pieces, fragments, aphorisms, and notes written between 1910 and 1950 but not published during Sri Aurobindo's lifetime. Its material ranges across yoga, psychology, philosophy, religion, social questions, and the passage from man to superman. Because it preserves unfinished and exploratory thinking, it is especially useful for seeing ideas in formation rather than only in their finalized canonical expression.
-
-### `13EssaysInPhilosophyAndYoga.pdf`
-
-This collection assembles shorter prose works published during Sri Aurobindo's lifetime, spanning the *Karmayogin*, later essays, and the *Arya*. It includes compact treatments of evolution, free will, individual greatness, the hidden spirit, and related subjects. The volume often functions as a set of entry points into the larger metaphysical system that reaches its fullest scale elsewhere in this topic cluster.
-
-### `21-22TheLifeDivine.pdf`
-
-This is Sri Aurobindo's principal philosophical work and the fullest articulation of his metaphysical system. It moves from the human aspiration and the apparent opposition between materialism and ascetic denial toward an account of omnipresent reality, supermind, evolution, delight, ignorance, and the future spiritual destiny of humanity. For the present corpus, it is the central text for understanding why his readings of scripture and his practical yoga are both ordered toward transformation rather than mere escape.
+- [Essays Divine and Human](/wiki-auro/posts/4) - This posthumous volume gathers shorter prose pieces, fragments, aphorisms, and notes written between 1910 and 1950 but not published during Sri Aurobindo's lifetime. Its material ranges across yoga, psychology, philosophy, religion, social questions, and the passage from man to superman. Because it preserves unfinished and exploratory thinking, it is especially useful for seeing ideas in formation rather than only in their finalized canonical expression.
+- [Essays in Philosophy and Yoga](/wiki-auro/posts/5) - This collection assembles shorter prose works published during Sri Aurobindo's lifetime, spanning the *Karmayogin*, later essays, and the *Arya*. It includes compact treatments of evolution, free will, individual greatness, the hidden spirit, and related subjects. The volume often functions as a set of entry points into the larger metaphysical system that reaches its fullest scale elsewhere in this topic cluster.
+- [The Life Divine](/wiki-auro/posts/12) - This is Sri Aurobindo's principal philosophical work and the fullest articulation of his metaphysical system. It moves from the human aspiration and the apparent opposition between materialism and ascetic denial toward an account of omnipresent reality, supermind, evolution, delight, ignorance, and the future spiritual destiny of humanity. For the present corpus, it is the central text for understanding why his readings of scripture and his practical yoga are both ordered toward transformation rather than mere escape.
 
 ## Related Topics
 

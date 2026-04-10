@@ -1,0 +1,713 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fractal Mandala — Design Mockup</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Google+Sans+Flex:opsz,wght@6..144,100..900&family=DM+Mono:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+<style>
+
+/* ── Reset ─────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+/* ── Tokens ─────────────────────────────────────────── */
+:root {
+  --green:       #2f9e44;
+  --green-light: #ebf9ee;
+  --green-dim:   #d3f9d8;
+  --ink:         #111111;
+  --ink-2:       #444444;
+  --ink-3:       #888888;
+  --border:      #e8e8e8;
+  --bg:          #ffffff;
+  --bg-2:        #f8f8f7;
+  --bg-code:     #18181b;
+  --font-sans:   'Google Sans Flex', system-ui, sans-serif;
+  --font-mono:   'DM Mono', monospace;
+  --sidebar-w:   240px;
+  --header-h:    56px;
+  --radius:      6px;
+}
+
+body {
+  font-family: var(--font-sans);
+  background: var(--bg);
+  color: var(--ink);
+  font-size: 15px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ── Mockup scaffolding ─────────────────────────────── */
+.mockup-label {
+  background: #111;
+  color: #fff;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 10px 24px;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}
+.mockup-frame {
+  border-bottom: 3px solid #111;
+  overflow: hidden;
+}
+
+/* ── Header ─────────────────────────────────────────── */
+.site-header {
+  height: var(--header-h);
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 40px;
+  position: sticky;
+  top: 0;
+  background: rgba(255,255,255,0.92);
+  backdrop-filter: blur(8px);
+  z-index: 100;
+}
+.logo-area {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+  color: var(--ink);
+}
+.logo-mark {
+  width: 24px;
+  height: 24px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3px;
+}
+.logo-mark span {
+  background: var(--green);
+  border-radius: 2px;
+  opacity: 0.85;
+}
+.logo-mark span:nth-child(2) { opacity: 0.5; }
+.logo-mark span:nth-child(3) { opacity: 0.5; }
+.logo-mark span:nth-child(4) { opacity: 0.25; }
+.logo-text {
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  font-family: var(--font-mono);
+}
+.logo-text em {
+  color: var(--green);
+  font-style: normal;
+}
+.site-nav {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+}
+.site-nav a {
+  text-decoration: none;
+  color: var(--ink-2);
+  font-size: 12.5px;
+  font-weight: 450;
+  letter-spacing: 0.01em;
+  padding: 5px 10px;
+  border-radius: 4px;
+  transition: background 0.12s, color 0.12s;
+}
+.site-nav a:hover { background: var(--bg-2); color: var(--ink); }
+.site-nav a.active { color: var(--green); background: var(--green-light); }
+
+/* ── Shell ───────────────────────────────────────────── */
+.shell {
+  display: grid;
+  grid-template-columns: var(--sidebar-w) 1fr;
+  min-height: calc(100vh - var(--header-h));
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+/* ── Sidebar ─────────────────────────────────────────── */
+.sidebar {
+  border-right: 1px solid var(--border);
+  padding: 32px 0;
+  position: sticky;
+  top: var(--header-h);
+  height: calc(100vh - var(--header-h));
+  overflow-y: auto;
+}
+.sidebar-section {
+  padding: 0 20px 24px;
+}
+.sidebar-section + .sidebar-section {
+  border-top: 1px solid var(--border);
+  padding-top: 24px;
+}
+.sidebar-heading {
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  margin-bottom: 10px;
+}
+.sidebar-links {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+}
+.sidebar-link {
+  display: block;
+  text-decoration: none;
+  color: var(--ink-2);
+  font-size: 13px;
+  padding: 5px 8px;
+  border-radius: 4px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  transition: background 0.1s, color 0.1s;
+}
+.sidebar-link:hover { background: var(--bg-2); color: var(--ink); }
+.sidebar-link.active { color: var(--green); background: var(--green-light); font-weight: 500; }
+
+/* ── Main content ────────────────────────────────────── */
+.main-content {
+  padding: 48px 64px;
+  min-width: 0;
+}
+
+/* ── HOME PAGE ───────────────────────────────────────── */
+.home-hero {
+  padding-bottom: 40px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 40px;
+  max-width: 680px;
+}
+.home-hero h1 {
+  font-size: 28px;
+  font-weight: 600;
+  letter-spacing: -0.03em;
+  line-height: 1.25;
+  margin-bottom: 16px;
+  color: var(--ink);
+}
+.home-hero h1 em {
+  font-style: normal;
+  color: var(--green);
+}
+.home-hero p {
+  font-size: 16px;
+  line-height: 1.7;
+  color: var(--ink-2);
+}
+.home-hero p + p { margin-top: 12px; }
+
+.home-section {
+  margin-bottom: 48px;
+}
+.home-section-header {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+.home-section-header h2 {
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+}
+.home-section-header .count {
+  font-size: 12px;
+  color: var(--ink-3);
+}
+
+.wiki-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+}
+.wiki-card {
+  display: flex;
+  flex-direction: column;
+  padding: 16px 18px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  text-decoration: none;
+  color: var(--ink);
+  transition: border-color 0.15s, box-shadow 0.15s;
+  background: var(--bg);
+}
+.wiki-card:hover {
+  border-color: #ccc;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+}
+.wiki-card .card-label {
+  font-size: 13.5px;
+  font-weight: 500;
+  margin-bottom: 4px;
+  color: var(--ink);
+}
+.wiki-card .card-count {
+  font-size: 12px;
+  color: var(--ink-3);
+}
+.wiki-card .card-dot {
+  width: 6px;
+  height: 6px;
+  background: var(--green);
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.writings-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+.writing-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 10px;
+  border-radius: 4px;
+  text-decoration: none;
+  color: var(--ink-2);
+  font-size: 14px;
+  transition: background 0.1s, color 0.1s;
+}
+.writing-item:hover { background: var(--bg-2); color: var(--ink); }
+.writing-item::before {
+  content: '';
+  width: 4px;
+  height: 4px;
+  background: var(--border);
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+/* ── ARTICLE PAGE ────────────────────────────────────── */
+.article-breadcrumb {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 24px;
+}
+.article-breadcrumb a {
+  font-size: 12px;
+  color: var(--ink-3);
+  text-decoration: none;
+  transition: color 0.1s;
+}
+.article-breadcrumb a:hover { color: var(--green); }
+.article-breadcrumb .sep {
+  font-size: 12px;
+  color: var(--border);
+}
+.article-breadcrumb .current {
+  font-size: 12px;
+  color: var(--ink-3);
+}
+
+.article-header {
+  padding-bottom: 24px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 36px;
+}
+.article-header h1 {
+  font-size: 30px;
+  font-weight: 650;
+  letter-spacing: -0.03em;
+  line-height: 1.2;
+  color: var(--ink);
+}
+
+.article-body h2 {
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  margin-top: 40px;
+  margin-bottom: 16px;
+  color: var(--ink);
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--border);
+}
+.article-body h3 {
+  font-size: 15.5px;
+  font-weight: 600;
+  margin-top: 28px;
+  margin-bottom: 12px;
+  color: var(--ink);
+}
+.article-body p {
+  font-size: 16px;
+  line-height: 1.75;
+  color: var(--ink-2);
+  margin-bottom: 18px;
+  max-width: 68ch;
+}
+.article-body a {
+  color: var(--green);
+  text-decoration: underline;
+  text-decoration-color: var(--green-dim);
+  text-underline-offset: 2px;
+}
+.article-body ul {
+  margin-bottom: 18px;
+  padding-left: 20px;
+}
+.article-body li {
+  font-size: 16px;
+  line-height: 1.7;
+  color: var(--ink-2);
+  margin-bottom: 6px;
+}
+
+/* Code block */
+.code-wrap {
+  position: relative;
+  border-radius: var(--radius);
+  overflow: hidden;
+  margin-bottom: 24px;
+  max-width: 100%;
+  border: 1px solid #2a2a2a;
+}
+.code-topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #222;
+  padding: 8px 14px;
+  border-bottom: 1px solid #2e2e2e;
+}
+.code-lang {
+  font-size: 11px;
+  font-family: var(--font-mono);
+  color: #666;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+.code-copy-btn {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  background: #2e2e2e;
+  border: 1px solid #3a3a3a;
+  border-radius: 4px;
+  color: #888;
+  padding: 4px 8px;
+  cursor: pointer;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  transition: background 0.12s, color 0.12s;
+}
+.code-copy-btn:hover { background: #3a3a3a; color: #ccc; }
+.code-wrap pre {
+  background: var(--bg-code);
+  margin: 0;
+  padding: 18px 20px;
+  overflow-x: auto;
+  font-family: var(--font-mono);
+  font-size: 13.5px;
+  line-height: 1.65;
+  color: #e2e2e2;
+}
+.code-wrap pre .kw  { color: #7dd3fc; }
+.code-wrap pre .fn  { color: #86efac; }
+.code-wrap pre .str { color: #fca5a5; }
+.code-wrap pre .cm  { color: #555; }
+
+/* Blockquote */
+.article-body blockquote {
+  border-left: 2px solid var(--green);
+  margin: 24px 0;
+  padding: 4px 20px;
+  max-width: 68ch;
+}
+.article-body blockquote p {
+  font-style: italic;
+  color: var(--ink-2);
+  margin-bottom: 6px;
+}
+.article-body blockquote cite {
+  font-size: 12px;
+  color: var(--ink-3);
+  font-style: normal;
+}
+
+/* ── Footer ──────────────────────────────────────────── */
+.site-footer {
+  border-top: 1px solid var(--border);
+  height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 40px;
+  background: var(--bg);
+}
+.site-footer p {
+  font-size: 12px;
+  color: var(--ink-3);
+}
+.site-footer a {
+  font-size: 12px;
+  color: var(--ink-3);
+  text-decoration: none;
+}
+.site-footer a:hover { color: var(--green); }
+
+</style>
+</head>
+<body>
+
+<!-- ════════════════════════════════════════════════════
+     MOCKUP 1 — HOMEPAGE
+═════════════════════════════════════════════════════ -->
+<div class="mockup-label">Mockup 1 — Homepage</div>
+<div class="mockup-frame">
+
+  <header class="site-header">
+    <a class="logo-area" href="#">
+      <div class="logo-mark">
+        <span></span><span></span><span></span><span></span>
+      </div>
+      <span class="logo-text">FRACTAL<em>MAṆḌALA</em></span>
+    </a>
+    <nav class="site-nav">
+      <a href="#" class="active">Writings</a>
+      <a href="#">Civilization</a>
+      <a href="#">Indian History</a>
+      <a href="#">Sri Aurobindo</a>
+      <a href="#">SRG &amp; RS</a>
+      <a href="#">Thea</a>
+      <a href="#">Janapada</a>
+    </nav>
+  </header>
+
+  <div class="shell">
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <p class="sidebar-heading">My Writings</p>
+        <div class="sidebar-links">
+          <a class="sidebar-link active" href="#">Indian History</a>
+          <a class="sidebar-link" href="#">Vedic Chronology</a>
+          <a class="sidebar-link" href="#">Dharma &amp; Civilization</a>
+          <a class="sidebar-link" href="#">Consciousness</a>
+          <a class="sidebar-link" href="#">Technology &amp; AI</a>
+          <a class="sidebar-link" href="#">Design</a>
+          <a class="sidebar-link" href="#">Fiction &amp; Poetry</a>
+          <a class="sidebar-link" href="#">Whisky Notes</a>
+        </div>
+      </div>
+      <div class="sidebar-section">
+        <p class="sidebar-heading">Sri Aurobindo</p>
+        <div class="sidebar-links">
+          <a class="sidebar-link" href="#">Integral Yoga</a>
+          <a class="sidebar-link" href="#">The Life Divine</a>
+          <a class="sidebar-link" href="#">Vedic Interpretation</a>
+          <a class="sidebar-link" href="#">Political Writings</a>
+        </div>
+      </div>
+      <div class="sidebar-section">
+        <p class="sidebar-heading">Indian History</p>
+        <div class="sidebar-links">
+          <a class="sidebar-link" href="#">Ancient Chronology</a>
+          <a class="sidebar-link" href="#">Vedic Literature</a>
+          <a class="sidebar-link" href="#">Sarasvati World</a>
+          <a class="sidebar-link" href="#">Sanskrit Traditions</a>
+        </div>
+      </div>
+    </aside>
+
+    <main class="main-content">
+
+      <div class="home-hero">
+        <h1>A knowledge base on<br><em>Indian civilization</em> and thought.</h1>
+        <p>A digital garden by Amritanshu Pandey — writer, designer, and researcher. This site brings together original essays, knowledge bases on Indian history and civilization, works of Sri Aurobindo, Sita Ram Goel, and Ram Swarup, alongside two ongoing creative projects.</p>
+      </div>
+
+      <div class="home-section">
+        <div class="home-section-header">
+          <h2>My Writings</h2>
+          <span class="count">8 topics</span>
+        </div>
+        <div class="writings-list">
+          <a class="writing-item" href="#">Indian History &amp; Vedic Chronology</a>
+          <a class="writing-item" href="#">Dharma &amp; Civilizational Thought</a>
+          <a class="writing-item" href="#">Consciousness &amp; Psychedelics</a>
+          <a class="writing-item" href="#">Technology &amp; Web Development</a>
+          <a class="writing-item" href="#">Design</a>
+          <a class="writing-item" href="#">Fiction &amp; Poetry</a>
+          <a class="writing-item" href="#">Whisky Notes</a>
+        </div>
+      </div>
+
+      <div class="home-section">
+        <div class="home-section-header">
+          <h2>All Wikis</h2>
+          <span class="count">7 knowledge bases</span>
+        </div>
+        <div class="wiki-grid">
+          <a class="wiki-card" href="#">
+            <div class="card-dot"></div>
+            <div class="card-label">Sri Aurobindo</div>
+            <div class="card-count">Vedic interpretation, Integral Yoga, metaphysics</div>
+          </a>
+          <a class="wiki-card" href="#">
+            <div class="card-dot"></div>
+            <div class="card-label">Civilizational Phenomenology</div>
+            <div class="card-count">Indian religion, sacred geography, dharma</div>
+          </a>
+          <a class="wiki-card" href="#">
+            <div class="card-dot"></div>
+            <div class="card-label">Indian History</div>
+            <div class="card-count">Chronology, Vedic literature, Harappan world</div>
+          </a>
+          <a class="wiki-card" href="#">
+            <div class="card-dot"></div>
+            <div class="card-label">Sita Ram Goel &amp; Ram Swarup</div>
+            <div class="card-count">Hindu self-understanding, civilizational critique</div>
+          </a>
+          <a class="wiki-card" href="#">
+            <div class="card-dot"></div>
+            <div class="card-label">The Janapada</div>
+            <div class="card-count">Historical fiction — ancient Bharatavarsha</div>
+          </a>
+          <a class="wiki-card" href="#">
+            <div class="card-dot"></div>
+            <div class="card-label">Thea</div>
+            <div class="card-count">Science fiction — the Trithan epoch</div>
+          </a>
+        </div>
+      </div>
+
+    </main>
+  </div>
+
+  <footer class="site-footer">
+    <p>© 2025 Fractal Mandala</p>
+    <a href="#">Twitter / X</a>
+  </footer>
+
+</div><!-- /mockup-frame -->
+
+
+<!-- ════════════════════════════════════════════════════
+     MOCKUP 2 — ARTICLE PAGE
+═════════════════════════════════════════════════════ -->
+<div class="mockup-label">Mockup 2 — Article Page</div>
+<div class="mockup-frame">
+
+  <header class="site-header">
+    <a class="logo-area" href="#">
+      <div class="logo-mark">
+        <span></span><span></span><span></span><span></span>
+      </div>
+      <span class="logo-text">FRACTAL<em>MAṆḌALA</em></span>
+    </a>
+    <nav class="site-nav">
+      <a href="#">Writings</a>
+      <a href="#">Civilization</a>
+      <a href="#">Indian History</a>
+      <a href="#" class="active">Sri Aurobindo</a>
+      <a href="#">SRG &amp; RS</a>
+      <a href="#">Thea</a>
+      <a href="#">Janapada</a>
+    </nav>
+  </header>
+
+  <div class="shell">
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <p class="sidebar-heading">Sri Aurobindo</p>
+        <div class="sidebar-links">
+          <a class="sidebar-link" href="#">Chronological Arc</a>
+          <a class="sidebar-link" href="#">Cultural &amp; Political Essays</a>
+          <a class="sidebar-link active" href="#">Integral Yoga</a>
+          <a class="sidebar-link" href="#">The Life Divine</a>
+          <a class="sidebar-link" href="#">Upanishadic Exegesis</a>
+          <a class="sidebar-link" href="#">Vedic Interpretation</a>
+          <a class="sidebar-link" href="#">The Secret of the Veda</a>
+          <a class="sidebar-link" href="#">Essays on the Gita</a>
+          <a class="sidebar-link" href="#">Social Philosophy</a>
+          <a class="sidebar-link" href="#">The Human Cycle</a>
+          <a class="sidebar-link" href="#">Letters on Yoga</a>
+        </div>
+      </div>
+    </aside>
+
+    <main class="main-content">
+      <nav class="article-breadcrumb">
+        <a href="#">Sri Aurobindo</a>
+        <span class="sep">›</span>
+        <span class="current">Integral Yoga</span>
+      </nav>
+
+      <div class="article-header">
+        <h1>Integral Yoga</h1>
+      </div>
+
+      <div class="article-body">
+        <p>Integral Yoga is Aurobindo's term for a path of spiritual practice that does not seek escape from the world but the transformation of all human activity — thought, emotion, body, and social life — into expressions of a higher consciousness he calls the Supramental.</p>
+
+        <p>Where classical yoga traditions tend toward withdrawal, renunciation, or the dissolution of individual identity into the absolute, Integral Yoga treats the world as the field of transformation rather than an obstacle to it. The individual does not seek to leave the world behind but to become an instrument through which a higher consciousness descends into and reshapes the world itself.</p>
+
+        <h2>The Triple Transformation</h2>
+
+        <p>Aurobindo describes the path in terms of three interlocking transformations. The first is psychic transformation, in which the soul or psychic being comes forward as the governing principle of the inner life. The second is spiritual transformation, in which the consciousness rises to and identifies with higher planes of being. The third is supramental transformation, which is the most radical — the descent of the supramental consciousness into the very cells of the body.</p>
+
+        <blockquote>
+          <p>The object of our Yoga is self-perfection and not self-annulment. It is to manifest in the individual and in the collectivity the divine nature which is concealed and overlaid in the human being.</p>
+          <cite>— Sri Aurobindo, The Synthesis of Yoga</cite>
+        </blockquote>
+
+        <h2>Authentication in Sveltekit</h2>
+        <p>An example of how code snippets appear within article content:</p>
+
+        <div class="code-wrap">
+          <div class="code-topbar">
+            <span class="code-lang">typescript</span>
+            <button class="code-copy-btn">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="14" height="14" x="8" y="8" rx="2"/><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"/></svg>
+              Copy
+            </button>
+          </div>
+          <pre><span class="kw">export const</span> <span class="fn">handle</span> = <span class="fn">SvelteKitAuth</span>(<span class="kw">async</span> () => {
+  <span class="kw">const</span> authOptions = {
+    providers: [<span class="fn">GitHub</span>({
+      clientId: GITHUB_ID,
+      clientSecret: GITHUB_SECRET
+    })],
+    secret: AUTH_SECRET,
+    trustHost: <span class="kw">true</span>
+  }
+  <span class="kw">return</span> authOptions
+}) <span class="kw">satisfies</span> Handle;
+</pre>
+        </div>
+
+        <h3>Related Topics</h3>
+        <ul>
+          <li><a href="#">The Life Divine — Aurobindo's metaphysical account of existence</a></li>
+          <li><a href="#">Letters on Yoga — practical guidance from Aurobindo's correspondence</a></li>
+          <li><a href="#">The Mother — the collaborator who systematised the physical transformation</a></li>
+        </ul>
+
+      </div>
+    </main>
+  </div>
+
+  <footer class="site-footer">
+    <p>© 2025 Fractal Mandala</p>
+    <a href="#">Twitter / X</a>
+  </footer>
+
+</div><!-- /mockup-frame -->
+
+</body>
+</html>

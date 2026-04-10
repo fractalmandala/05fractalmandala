@@ -12,9 +12,8 @@ This page covers the smaller Sikh-focused cluster in the corpus, where Ram Swaru
 - The debate is not only historical but semantic and political, which links this page to [[secularism-free-expression-and-political-language]].
 
 ## Source Coverage
-
-- `Hindu-Sikh Relationship.pdf`: Short argumentative text on the terms of debate regarding Hindu-Sikh continuity and difference.
-- `Whither Sikhism (Ram Swarup).pdf`: Brief reflection on the direction, predicament, and future self-understanding of Sikhism.
+- [Hindu-Sikh Relationship](/wiki-srgsrs/posts/435) - Short argumentative text on the terms of debate regarding Hindu-Sikh continuity and difference.
+- [Whither Sikhism](/wiki-srgsrs/posts/454) - Brief reflection on the direction, predicament, and future self-understanding of Sikhism.
 
 ## Why This Topic Matters
 

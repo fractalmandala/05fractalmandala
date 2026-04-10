@@ -12,14 +12,13 @@ This page gathers the corpus on Islam, Muslim political separatism, Islamic stat
 - Islamic imperialism in India is presented as a long historical process involving conquest, temple destruction, political hierarchy, and memory struggles.
 - Modern reluctance to discuss these themes is linked to [[secularism-free-expression-and-political-language]].
 
-## Source Coverage
-
-- `The Story Of Islamic Imperialism In India by Sita Ram Goel.pdf`: Narrative overview of Islamic expansion and rule in India.
-- `Muslim Separatism - Causes and Consequences - Sita Ram Goel.pdf`: Explains separatism through historical traditions, political patterns, and the internal logic of revivalism.
-- `Theory And Practice Of Muslim State In India - K. S. Lal.pdf`: Longer study of Muslim political theory, state obligations, revenue, expenditure, and its Indian application.
-- `Understanding Islam Through Hadis - Religious Faith or Fanaticism.pdf`: Uses hadith material to present Islam as a total order extending into ritual, law, family, and violence.
-- `Woman+in+Islam+(Ram+Swarup).pdf`: Focuses on the condition and status of women in Islamic sources and social practice.
-- `The Calcutta Quran Petition - Sita Ram Goel.pdf`: Major controversy text centering on jihad, scriptural criticism, and legal-public reaction.
+## Sources
+- [The Story of Islamic Imperialism in India](/wiki-srgsrs/posts/450) - Narrative overview of Islamic expansion and rule in India.
+- [Muslim Separatism](/wiki-srgsrs/posts/443) - Explains separatism through historical traditions, political patterns, and the internal logic of revivalism.
+- [Theory and Practice of Muslim State in India](/wiki-srgsrs/posts/451) - Longer study of Muslim political theory, state obligations, revenue, expenditure, and its Indian application.
+- [Understanding Islam Through Hadis](/wiki-srgsrs/posts/452) - Uses hadith material to present Islam as a total order extending into ritual, law, family, and violence.
+- [Women in Islam](/wiki-srgsrs/posts/455) - Focuses on the condition and status of women in Islamic sources and social practice.
+- [The Calcutta Quran Petition](/wiki-srgsrs/posts/448) - Major controversy text centering on jihad, scriptural criticism, and legal-public reaction.
 
 ## Recurring Arguments
 

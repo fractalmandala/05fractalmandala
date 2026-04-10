@@ -13,10 +13,7 @@ Sri Aurobindo's social philosophy extends beyond nationalism into a theory of co
 - War, sovereignty, and self-determination examined within a larger developmental frame.
 
 ## Source Summaries
-
-### `25TheHumanCycle.pdf`
-
-This volume combines *The Human Cycle*, *The Ideal of Human Unity*, and *War and Self-Determination*, making it the main source here for Sri Aurobindo's social and geopolitical thought. *The Human Cycle* develops a sequence of social stages and argues for the eventual necessity of a spiritual age; *The Ideal of Human Unity* explores whether humanity can organize itself beyond the nation-state; and *War and Self-Determination* reflects on conflict, sovereignty, and the reorganization of peoples in the modern world. Together they show how his political thought widens into a long-range philosophy of civilization and global order.
+- [The Human Cycle](/wiki-auro/posts/14) - This volume combines *The Human Cycle*, *The Ideal of Human Unity*, and *War and Self-Determination*, making it the main source here for Sri Aurobindo's social and geopolitical thought. *The Human Cycle* develops a sequence of social stages and argues for the eventual necessity of a spiritual age; *The Ideal of Human Unity* explores whether humanity can organize itself beyond the nation-state; and *War and Self-Determination* reflects on conflict, sovereignty, and the reorganization of peoples in the modern world. Together they show how his political thought widens into a long-range philosophy of civilization and global order.
 
 ## Related Topics
 

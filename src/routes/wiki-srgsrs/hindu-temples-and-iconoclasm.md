@@ -12,10 +12,9 @@ This page focuses on the temple-centered historical debate in the corpus: iconoc
 - Later disputes over sites such as Ram Janmabhumi are framed as conflicts over truth, not merely modern electoral mobilization.
 
 ## Source Coverage
-
-- `Hindu Temples What Happened to Them Vol 1 (1).pdf`: Introductory and argumentative volume on the temple destruction question, public denial, and historiographical controversy.
-- `Hindu Temples What Happened to Them Vol 2 - Sita Ram Goel.pdf`: Evidence-heavy continuation emphasizing Islamic textual or historical material.
-- `Islam Vis -A-Vis Hindu Temple - Sita Ram Goel.pdf`: Scan-heavy but clearly temple-focused source, likely concerned with the doctrinal relationship between Islam and temple destruction.
+- [Hindu Temples - What Happened to Them 1](/wiki-srgsrs/posts/433) - Introductory and argumentative volume on the temple destruction question, public denial, and historiographical controversy.
+- [Hindu Temples - What Happened to Them 2](/wiki-srgsrs/posts/434) - Evidence-heavy continuation emphasizing Islamic textual or historical material.
+- [Islam vis-a-vis Hindu Temple](/wiki-srgsrs/posts/441) - Scan-heavy but clearly temple-focused source, likely concerned with the doctrinal relationship between Islam and temple destruction.
 
 ## Interpretive Threads
 

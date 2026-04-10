@@ -13,12 +13,11 @@ This page covers Ram Swarup's earlier political and economic writings, which dif
 - The language of political responsibility in 1942 foreshadows the later concern with naming failure clearly.
 
 ## Source Coverage
-
-- `An Indictment whose responsibility for the failure of 1942.pdf`: Short political pamphlet assigning responsibility for the failure of the 1942 movement.
-- `Gandhism and communism principles and technique.pdf`: Comparative analysis of Gandhian and communist principles and methods.
-- `Foundations of Maoism.pdf`: Longer study of Maoist ideological foundations and their implications.
-- `Where are they Communists under Communism.pdf`: Brief anti-communist tract focused on communist behavior under communist rule.
-- `Gandhi Economics A Supporting Technology.pdf`: Connects Gandhian economics with appropriate or supporting technology.
+- [An Indictment for Failure of 1924](/wiki-srgsrs/posts/424) - Short political pamphlet assigning responsibility for the failure of the 1942 movement.
+- [Gandhism and Communism](/wiki-srgsrs/posts/430) - Comparative analysis of Gandhian and communist principles and methods.
+- [Foundations of Maoism](/wiki-srgsrs/posts/427) - Longer study of Maoist ideological foundations and their implications.
+- [Where are They - Communists Under Communism](/wiki-srgsrs/posts/453) - Brief anti-communist tract focused on communist behavior under communist rule.
+- [Gandhi Economics](/wiki-srgsrs/posts/429) - Connects Gandhian economics with appropriate or supporting technology.
 
 ## Relation To The Rest Of The Corpus
 

@@ -13,12 +13,11 @@ This page gathers the explicitly political-diagnostic writings in the corpus tha
 - These arguments underwrite the public controversies reflected in [[hindu-christian-encounters]], [[islamic-imperialism-and-muslim-politics-in-india]], and [[hindu-temples-and-iconoclasm]].
 
 ## Source Coverage
-
-- `India_s Secularism - Sita Ram Goel.pdf`: Extended critique of secularism in India and the mismatch between European terms and Indian reality.
-- `Perversion of India_s Political Parlance - Sita Ram Goel.pdf`: Focused study of ideological language and semantic distortion.
-- `Freedom-of-Expression.pdf`: Casebook-like volume on secular theocracy, censorship, and speech controversies.
-- `Pseudo-Secularism (Sitaram Goel).pdf`: Ties secularism to the shielding of Christian missions and the disciplining of Hindu resistance.
-- `Hindu Society Under Siege by Sita Ram Goel.pdf`: Though shorter and broader, it belongs here as a warning about the political conditions surrounding Hindu public life.
+- [India's Secularism](/wiki-srgsrs/posts/440) - Extended critique of secularism in India and the mismatch between European terms and Indian reality.
+- [Perversion of India's Political Parlance](/wiki-srgsrs/posts/446) - Focused study of ideological language and semantic distortion.
+- [Freedom of Expression](/wiki-srgsrs/posts/428) - Casebook-like volume on secular theocracy, censorship, and speech controversies.
+- [Pseudo-secularism](/wiki-srgsrs/posts/447) - Ties secularism to the shielding of Christian missions and the disciplining of Hindu resistance.
+- [Hindu Society Under Siege](/wiki-srgsrs/posts/432) - Though shorter and broader, it belongs here as a warning about the political conditions surrounding Hindu public life.
 
 ## Interpretive Notes
 

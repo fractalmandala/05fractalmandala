@@ -13,14 +13,8 @@ Sri Aurobindo reads the Rig Veda as a symbolic and psychological scripture rathe
 - Philology used, but subordinated to spiritual hermeneutics.
 
 ## Source Summaries
-
-### `14VedicAndPhilologicalStudies.pdf`
-
-This posthumous collection gathers unpublished writings on Vedic interpretation, translations and commentaries on hymns to deities other than Agni, notes on the Veda, and essays on philology. It functions as a workshop of Sri Aurobindo's method, preserving drafts, incomplete studies, and supporting reflections that stand behind his more polished Vedic arguments elsewhere in the corpus. The volume is especially useful for understanding how he tried to combine linguistic attention with a spiritual theory of Vedic meaning.
-
-### `15TheSecretOfTheVeda.pdf`
-
-This is Sri Aurobindo's principal published statement on the Rig Veda. It argues systematically for a psychological-symbolic interpretation and includes translations of selected hymns that illustrate the thesis. Chapters on Agni, Saraswati, the seven rivers, dawn, the Angiras legend, and the struggle against the Dasyus show how mythic and ritual language is re-read as a coded account of inner illumination and ascent.
+- [Vedic and Philological Studies](/wiki-auro/posts/6) - This posthumous collection gathers unpublished writings on Vedic interpretation, translations and commentaries on hymns to deities other than Agni, notes on the Veda, and essays on philology. It functions as a workshop of Sri Aurobindo's method, preserving drafts, incomplete studies, and supporting reflections that stand behind his more polished Vedic arguments elsewhere in the corpus. The volume is especially useful for understanding how he tried to combine linguistic attention with a spiritual theory of Vedic meaning.
+- [Secret of the Veda](/wiki-auro/posts/7) - This is Sri Aurobindo's principal published statement on the Rig Veda. It argues systematically for a psychological-symbolic interpretation and includes translations of selected hymns that illustrate the thesis. Chapters on Agni, Saraswati, the seven rivers, dawn, the Angiras legend, and the struggle against the Dasyus show how mythic and ritual language is re-read as a coded account of inner illumination and ascent.
 
 ## Related Topics
 
