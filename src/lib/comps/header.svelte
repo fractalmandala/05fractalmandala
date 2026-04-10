@@ -54,10 +54,12 @@
 	align-items: center
 	column-gap: 16px
 	p
-		font-size: 13px
+		font-size: 14px
 		text-transform: uppercase
 		font-weight: 500
 		color: #FFFFFF
+		font-family: 'Source Code Pro', monospace
+		letter-spacing: -0.5px
 		a
 			text-decoration: none
 			color: inherit
@@ -107,10 +109,10 @@
 
 @keyframes colorchange
 	0%
-		color: #000000
+		color: #b4f000
 	50%
 		color: var(--col-green)
 	100%
-		color: #000000
+		color: #b4f000
 
 </style>

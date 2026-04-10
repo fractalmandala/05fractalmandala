@@ -14,6 +14,7 @@
 	width: 100%
 	p
 		font-size: 12.5px
+		font-family: 'Source Code Pro', monospace
 
 p.textgrey
 	color: var(--col-textgreylight)

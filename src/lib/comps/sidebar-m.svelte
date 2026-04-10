@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { onMount } from "svelte";
+	import autoAnimate from '@formkit/auto-animate';
 	import { menuMode, toggleMenu } from '$lib/utils/stores'
 	import { loadWiki, type WikiEntry } from "$lib/utils/locals";
 	import { WIKIS } from "$lib/wikis";
@@ -28,10 +29,10 @@
 	});
   </script>
   
-{#if $menuMode}
-  <div class="sidebar-column">
+
+  <div class="sidebar-column" class:onscreen={$menuMode}>
 	{#each wikiData as wiki}
-	  <div class="accordion">
+	  <div class="accordion" use:autoAnimate>
 		<!-- svelte-ignore a11y_no_noninteractive_element_interactions -->
 		<!-- svelte-ignore a11y_click_events_have_key_events -->
 		<p class="acco-title" on:click={() => toggleAccordion(wiki.slug)}>
@@ -46,40 +47,48 @@
 		{/if}
 	  </div>
 	{/each}
+	<div class="fill-pad"></div>
   </div>
-{/if}
   
 <style lang="sass">
+
 .sidebar-column, .accordion, .accordion-items
 	display: flex
 	flex-direction: column
   
 .sidebar-column
-	row-gap: 24px
+	box-sizing: border-box
+	row-gap: 32px
 	height: 100vh
 	overflow-y: scroll
 	position: fixed
-	top: 0
-	right: 0
+	top: -100vh
 	width: 100vw
 	background: linear-gradient(90deg,rgba(26, 26, 26, 1) 0%, rgba(3, 23, 10, 1) 100%)
 	z-index: 499
-	padding-top: 112px
-	padding-bottom: 32px
 	align-items: flex-end
-	padding-right: 16px
+	padding-top: 112px
+	transition: all 0.5s 
+	&.onscreen
+		top: 0
+
+.fill-pad
+	height: 48px
+	width: 48px
   
 .accordion
-	row-gap: 12px
+	row-gap: 16px
 	align-items: flex-end
+	text-align: right
+	padding-right: 16px
   
 .accordion-items
-	row-gap: 12px
+	row-gap: 16px
 	align-items: flex-end
   
 p.acco-title
 	text-transform: uppercase
-	font-size: 20px
+	font-size: 28px
 	font-weight: 500
 	cursor: pointer
 	user-select: none
@@ -93,7 +102,7 @@ p.acco-title
   
 .accordion-items
 	p
-		font-size: 18px
+		font-size: 24px
 		text-transform: capitalize
 		color: #FFFFFF
 	a

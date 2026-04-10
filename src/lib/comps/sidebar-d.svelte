@@ -33,13 +33,13 @@
 		<div class="accordion"  use:autoAnimate>
 			<!-- svelte-ignore a11y_no_noninteractive_element_interactions -->
 			<!-- svelte-ignore a11y_click_events_have_key_events -->
-			<p class="acco-title textgrey" on:click={() => toggleAccordion(wiki.slug)}>
+			<p class="acco-title" on:click={() => toggleAccordion(wiki.slug)}>
 				<a href="/{wiki.slug}">{wiki.label}</a>
 			</p>
 			{#if openSlug === wiki.slug}
 				<div class="accordion-items">
 					{#each wiki.entries as item}
-						<p><a href={item.linkpath}>{item.meta.title}</a></p>
+						<p class="textgrey"><a href={item.linkpath}>{item.meta.title}</a></p>
 					{/each}
 				</div>
 			{/if}
@@ -59,20 +59,20 @@
 	overflow-y: scroll
 
 .accordion
-	row-gap: 8px
+	row-gap: 1em
 	padding-bottom: 20px
-	padding-right: 8px
 	background: #FFFFFF
 	border-bottom: 1px solid var(--col-border)
 
 .accordion-items
-	row-gap: 8px
+	row-gap: 12px
 
 p.acco-title
 	text-transform: uppercase
-	font-size: 15px
+	font-size: 13.7px
 	cursor: pointer
 	user-select: none
+	font-family: 'Source Code Pro', monospace
 	a
 		text-decoration: none
 		color: inherit
@@ -81,7 +81,7 @@ p.acco-title
 
 .accordion-items
 	p
-		font-size: 14.5px
+		font-size: 14px
 		text-transform: capitalize
 		transition: all 0.2s cubic-bezier(0.640, 0.000, 0.000, 1.000)
 		a
@@ -89,7 +89,7 @@ p.acco-title
 			color: inherit
 		&:hover
 			color: var(--col-green)
-			font-size: 16px
+			font-weight: 500
 		
 
 </style>

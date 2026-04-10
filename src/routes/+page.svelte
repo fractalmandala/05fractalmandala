@@ -85,7 +85,7 @@
 	padding-bottom: 24px
 
 h1
-	font-weight: 600
+	font-weight: 700
 	margin-bottom: 1em
 	@media screen and (min-width: 1025px)
 		font-size: 42px
