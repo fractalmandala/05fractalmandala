@@ -223,3 +223,14 @@ export async function getJanapadaGroups() {
  const groupedPosts = eachfiled.filter(post => post.meta.group && post.meta.group.includes(group)).sort();
 	return groupedPosts
 }
+
+export function lockScroll(node: HTMLElement) {
+	const original = document.body.style.overflow;
+	document.body.style.overflow = 'hidden';
+
+	return {
+		destroy() {
+			document.body.style.overflow = original;
+		}
+	};
+}

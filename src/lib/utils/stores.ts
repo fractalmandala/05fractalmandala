@@ -12,3 +12,15 @@ export function toggleMenu(){
     })
   }
 }
+
+const storedSearchMode = browser ? JSON.parse(localStorage.getItem('searchMode') || 'false') : false;
+export const searchMode = writable(storedSearchMode)
+export function toggleSearch(){
+	if (browser) {
+		searchMode.update((mode) => {
+			const newMode = !mode;
+			localStorage.setItem('searchMode', JSON.stringify(newMode));
+			return newMode;
+		})
+	}
+}

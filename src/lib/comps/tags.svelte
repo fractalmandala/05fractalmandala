@@ -18,9 +18,9 @@
 	<div>
 		<h2>Tags</h2>
 	</div>
-	<div class="row wrap rgap8 cgap8 mtop-1">
+	<div class="row wrap rgap8 cgap8">
 		{#each tags as item}
-			<p class="wiki-labels"><a href="/wiki-writings/tags/{item.tag}">{item.tag}</a></p>
+			<p class="filter-btn"><a href="/wiki-writings/tags/{item.tag}">{item.tag}</a></p>
 		{/each}
 	</div>
 </div>
@@ -28,20 +28,26 @@
 
 <style lang="sass">
 
-p.wiki-labels
-	padding: 4px 16px
-	margin: 0
-	background: #e1e1e1
-	color: #000000
-	font-size: 14px
+.filter-btn
+	padding: 4px 12px
+	font-size: 12px
+	font-family: 'Source Code Pro', monospace
 	text-transform: uppercase
-	transition: all 0.07s ease
+	letter-spacing: 0.04em
+	border: 1px solid var(--col-border)
+	border-radius: 6px
+	background: var(--background)
+	color: var(--col-textgrey)
+	cursor: pointer
+	transition: all 0.15s
 	a
 		color: inherit
 	&:hover
+		border-color: var(--col-green)
+		color: var(--col-green)
+	&:click
 		background: var(--col-green)
-		color: #FFFFFF
-	@media screen and (max-width: 1024px)
-		font-size: 13px
+		border-color: var(--col-green)
+		color: var(--background)
 
 </style>

@@ -5,6 +5,7 @@
 	import Header from '$lib/comps/header.svelte'
 	import SidebarD from '$lib/comps/sidebar-d.svelte'
 	import SidebarM from '$lib/comps/sidebar-m.svelte'
+	import SearchModal from '$lib/comps/searchmodal.svelte'
 	import { onMount } from 'svelte';
 	import { afterNavigate } from '$app/navigation';
 	import { enhanceCodeBlocks } from '$lib/utils/code-copy';
@@ -45,12 +46,13 @@
 <footer>
 	<Footer/>
 </footer>
+<SearchModal/>
 
 <style lang="sass">
 
 .doc-grid
 	display: grid
-	grid-auto-template: rows
+	grid-auto-flow: rows
 	.main
 		min-width: 0
 		overflow-x: hidden
@@ -83,7 +85,7 @@ header
 	position: sticky
 	top: 0
 	background: #FFFFFF
-	z-index: 999
+	z-index: 699
 	@media screen and (min-width: 1025px)
 		padding-left: var(--pad-side)
 		padding-right: var(--pad-side)
@@ -94,7 +96,7 @@ header
 footer
 	height: 64px
 	background: #FFFFFF
-	z-index: 999
+	z-index: 699
 	@media screen and (min-width: 1025px)
 		padding-left: var(--pad-side)
 		padding-right: var(--pad-side)

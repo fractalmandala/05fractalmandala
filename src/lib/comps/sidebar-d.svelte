@@ -21,7 +21,7 @@
 		<div class="accordion"  use:autoAnimate>
 			<!-- svelte-ignore a11y_no_noninteractive_element_interactions -->
 			<!-- svelte-ignore a11y_click_events_have_key_events -->
-			<p class="acco-title" on:click={() => toggleAccordion(wiki.slug)}>
+			<p class="acco-title" onclick={() => toggleAccordion(wiki.slug)}>
 				<a href="/{wiki.slug}">{wiki.label}</a>
 			</p>
 			{#if openSlug === wiki.slug}

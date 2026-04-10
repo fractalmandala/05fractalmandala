@@ -4,7 +4,8 @@
 	import Mandala from "$lib/assets/mandala.svelte";
 	import Menu from "$lib/assets/menu.svelte";
 	import Close from "$lib/assets/close.svelte";
-	import { toggleMenu, menuMode } from "$lib/utils/stores";
+	import Search from '$lib/assets/searchicon.svelte'
+	import { toggleMenu, menuMode, toggleSearch, searchMode } from "$lib/utils/stores";
 
 	let text = "FRACTALMAṆḌALA";
 	const rootPath = $derived(page.url.pathname.split('/')[1]);
@@ -28,17 +29,51 @@
 		{#each WIKIS as wiki}
 			<p class:themed={rootPath === wiki.slug}><a href="/{wiki.slug}">{wiki.label}</a></p>
 		{/each}
+		<button class="searchbutton" onclick={toggleSearch}>
+			{#if $searchMode}
+			<Close/>
+			{:else}
+			<Search/>
+			{/if}
+		</button>
 	</nav>
-	<button class="menu" onclick={toggleMenu}>
-		{#if $menuMode}
+	<div class="on-mobile">
+		{#if !$menuMode}
+		<button class="search" onclick={toggleSearch}>
+			{#if $searchMode}
 			<Close />
 		{:else}
-			<Menu />
+			<Search />
 		{/if}
-	</button>
+		</button>
+		{/if}
+		<button class="menu" onclick={toggleMenu}>
+			{#if $menuMode}
+				<Close />
+			{:else}
+				<Menu />
+			{/if}
+		</button>
+	</div>
 </div>
 
 <style lang="sass">
+
+.on-mobile
+	flex-direction: row
+	align-items: center
+	justify-content: flex-end
+	@media screen and (min-width: 1025px)
+		display: none
+	@media screen and (max-width: 1024px)
+		display: flex
+		column-gap: var(--ds-std)
+
+.searchbutton
+	padding: 0
+	background: none
+	border: none
+	cursor: pointer
 
 .header-comp
 	display: flex
@@ -68,17 +103,14 @@
 	@media screen and (max-width: 1024px)
 		display: none
 
-.menu
+.menu, .search
 	background: none
 	border: none
 	padding: 0
 	cursor: pointer
-	@media screen and (min-width: 1025px)
-		display: none
-	@media screen and (max-width: 1024px)
-		display: flex
-		align-items: center
-		justify-content: center
+	display: flex
+	align-items: center
+	justify-content: center	
 
 .areaoflogo
 	display: flex

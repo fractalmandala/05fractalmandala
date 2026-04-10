@@ -47,7 +47,7 @@
 		</div>
 		<div class="grid two rgap8">
 			{#each sources as source}
-				<p class="wiki-items tt-c"><a href={source.href}>{source.title}</a></p>
+				<p class="wiki-items tt-c"><a href={source.link} target="_blank" rel="noreferrer">{source.title}</a></p>
 			{/each}
 		</div>
 	</div>
