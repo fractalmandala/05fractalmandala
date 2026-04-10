@@ -65,14 +65,6 @@ The chapter thus establishes the fundamental premise that Indian civilisation is
 
 With the emergence of the Indus Valley Civilization, Kosambi identifies the first fully developed urban phase of Indian history. This marks a decisive break from the dispersed, village-based agricultural communities described in the previous chapter. For the first time, we encounter large, planned cities, standardized material culture, and evidence of a complex economic system sustained by surplus production.
 
-![Image](https://www.harappa.com/sites/default/files/slides/f-107A.jpg)
-
-![Image](https://www.harappa.com/sites/default/files/slides/map-harappa-arcaeological-site-3.jpg)
-
-![Image](https://www.harappa.com/sites/default/files/slides/unicorn-seal_0.jpg)
-
-![Image](https://www.harappa.com/sites/default/files/styles/galleryformatter_slide/public/seal-bw-h10A.jpg)
-
 Kosambi approaches the Indus civilisation not as an isolated marvel, but as the culmination of earlier processes—the gradual intensification of agriculture, the consolidation of surplus, and the increasing integration of regional economies. The great cities such as Mohenjo-daro and Harappa are therefore not accidental achievements; they are the material expression of a society that has reached a high degree of organisation.
 
 One of the most striking features of this civilisation, as Kosambi emphasizes, is its **urban planning**. The cities exhibit a remarkable regularity: grid-like street patterns, standardized brick sizes, sophisticated drainage systems, and clearly demarcated residential and public spaces. This level of planning implies not only technical skill but also a central authority capable of coordinating large-scale construction and maintaining civic order.
@@ -101,14 +93,6 @@ At the same time, it introduces a theme that will recur throughout the book: the
 
 Kosambi’s treatment of the so-called “Aryan problem” is marked by a deliberate effort to move away from both colonial racial theories and overly simplistic nationalist reversals. He reframes the question not as one of racial identity, but as a problem of **cultural and social transformation**, grounded in material conditions and reflected in the textual record of the Rigveda.
 
-![Image](https://upload.wikimedia.org/wikipedia/commons/8/88/Vedas_palm_leaf_manuscript%2C_Tamil_Grantha_Script%2C_Sanskrit%2C_Tamil_Nadu.jpg)
-
-![Image](https://cdn11.bigcommerce.com/s-x49po/images/stencil/1500x1500/products/77113/121001/Nine_female_deities_performing_a_yagna_a_fire_sacrifice_an_old_vedic_ritual_where_offerings_are_made_to_the_god_of_fire_Agni__43389.1638002970.jpg?c=2)
-
-![Image](https://pbs.twimg.com/media/HEulow4bAAAxWkk.jpg)
-
-![Image](https://s3-us-west-2.amazonaws.com/content-markdown-images/pastures-of-ancient-india/image0.jpeg)
-
 The Rigvedic society, as reconstructed by Kosambi, is fundamentally different from the urban world of the Indus civilisation. It is **pastoral rather than urban**, organized around semi-nomadic clans whose wealth is measured primarily in cattle. The centrality of cattle is not merely economic but symbolic; it permeates ritual language, poetic imagery, and social valuation. Wealth is counted in herds, and conflict often takes the form of cattle raids rather than territorial conquest in the later agrarian sense.
 
 This society is structured around **tribal units (jana)**, led by chieftains whose authority is neither absolute nor bureaucratically institutionalized. Power is personal and contingent, dependent on prowess in war and the ability to distribute spoils. The absence of cities, monumental architecture, or complex administrative systems marks a clear contrast with the Indus phase. Instead, we encounter a world of mobility, oral tradition, and ritual performance.
@@ -136,8 +120,6 @@ The chapter concludes, implicitly, with a sense of transition. The pastoral, cla
 ## Chapter 4: The Later Vedic Transformation and the Emergence of Class Society
 
 Kosambi treats the later Vedic period not as a simple continuation of the Rigvedic world, but as a decisive transformation brought about by the consolidation of agriculture and the expansion of settled life. The earlier pastoral formations, with their fluid hierarchies and mobile clans, give way to more **stable agrarian communities**, and with this stability comes a new intensity of social differentiation.
-
-image_group{"aspect_ratio":"1:1","query":["iron plough ancient India reconstruction","later Vedic yajna ritual fire altar complex","early janapada settlement map India","Vedic sacrificial horse ashvamedha illustration"],"num_per_query":1}
 
 The most important material basis of this transformation is the **widespread use of iron technology**. While earlier societies had relied on stone and bronze, the introduction of iron tools makes it possible to clear dense forests—especially in the Gangetic plains—and bring new land under cultivation. This expansion of arable land dramatically increases the potential for surplus production, and it is this surplus that underwrites the emergence of more complex social and political structures.
 
@@ -170,14 +152,6 @@ At the same time, the very complexity of this system generates contradictions. T
 ## Chapter 5: The Rise of the State and the Age of the Mahājanapadas
 
 Kosambi now turns to a phase in which the transformations described in the later Vedic period culminate in the formation of **territorial states**. The earlier agrarian expansion, the consolidation of surplus, and the stratification of society produce conditions under which political authority can no longer remain diffuse or clan-based. It becomes institutional, territorial, and increasingly coercive.
-
-![Image](https://upload.wikimedia.org/wikipedia/commons/2/28/Mahajanapadas_%28c._500_BCE%29.png)
-
-![Image](https://upload.wikimedia.org/wikipedia/commons/7/75/Hoard_of_mostly_Mauryan_coins.jpg)
-
-![Image](https://upload.wikimedia.org/wikipedia/commons/3/3c/Rajgir_-_002_Old_City_Walls_%289242554013%29.jpg)
-
-![Image](https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2019/06/03/Pictures/_5527d4d4-85dc-11e9-8812-e0f6aa62d95d.jpg)
 
 The key units of this period are the **mahājanapadas**—large territorial polities that emerge across northern India, particularly in the Gangetic basin. These are not merely expanded tribes; they represent a qualitative shift in political organisation. Authority is now tied to defined territories rather than to kinship groups, and the extraction of surplus is systematized through taxation and administrative mechanisms.
 
@@ -213,14 +187,6 @@ Kosambi’s analysis underscores that the rise of the state is not merely a poli
 
 The processes described in the previous chapter—agrarian expansion, surplus extraction, political centralization—reach their first large-scale culmination in the rise of the Mauryan Empire. For Kosambi, the significance of the Maurya Empire lies not merely in its territorial extent, but in its role as an instrument of **integration**, bringing together diverse regions, economies, and social formations under a single political framework.
 
-![Image](https://upload.wikimedia.org/wikipedia/commons/3/38/Sarnath_capital.jpg)
-
-![Image](https://upload.wikimedia.org/wikipedia/commons/2/2f/Maurya_Empire%2C_c.250_BCE_network_model_v01.png)
-
-![Image](https://upload.wikimedia.org/wikipedia/commons/f/f7/3rd_century_BCE_Asoka_rock_edict%2C_Brahmi_script%2C_Brahmagiri_%28Isila%29%2C_Chitradurga%2C_Karnataka_2.jpg)
-
-![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Ashoka_Lauriya_Areraj_inscription.jpg/250px-Ashoka_Lauriya_Areraj_inscription.jpg)
-
 Kosambi approaches the Mauryan state as the logical outcome of earlier developments rather than as an isolated achievement. The expansion of agriculture in the Gangetic basin had created a dense and productive core region; the emergence of the mahājanapadas had already established the possibility of territorial states. What the Mauryas accomplish is the **extension and consolidation** of these tendencies on an unprecedented scale.
 
 The figure of Ashoka occupies a central place in this chapter, though Kosambi treats him less as a moral exemplar and more as a historical agent situated within specific conditions. The famous edicts of Ashoka, inscribed across the subcontinent, are not read simply as expressions of personal piety, but as **instruments of governance**—attempts to communicate, regulate, and unify a vast and heterogeneous population.
@@ -252,14 +218,6 @@ For Kosambi, the significance of the Mauryan Empire lies not in its longevity bu
 ## Chapter 7: Post-Mauryan Transformations and the Expansion of Agrarian Society
 
 The decline of the Maurya Empire does not inaugurate a period of simple political fragmentation or “decline” in any straightforward sense. Kosambi instead interprets the post-Mauryan period as one of **diffusion, regionalisation, and structural transformation**, in which the integrative mechanisms of the empire give way to a more dispersed but deeply rooted expansion of agrarian society.
-
-![Image](https://marudhararts.com/uploads/l/2048/2048005013.jpg)
-
-![Image](https://s3-ap-southeast-1.amazonaws.com/mint-news/coins-of-the-indo-greek-kings-menander.jpg)
-
-![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Karla_caves_Chaitya.jpg/330px-Karla_caves_Chaitya.jpg)
-
-![Image](https://bpu-images-v1.s3.eu-north-1.amazonaws.com/uploads/1721910891886_1.jpg)
 
 The most immediate political feature of this period is the emergence of a variety of regional powers—among them the Śuṅgas, Kāṇvas, Indo-Greeks, Śakas, and the Satavahana dynasty. These polities differ widely in origin, scale, and structure, but they share a common characteristic: none is able to replicate the level of centralised control achieved by the Mauryas. Instead, power becomes **more localized**, often mediated through networks of subordinate chiefs and local elites.
 
@@ -293,14 +251,6 @@ At the same time, these developments introduce new contradictions. The increasin
 
 Kosambi approaches the period associated with the Gupta Empire with a deliberate skepticism toward the conventional label of a “Golden Age.” While acknowledging the remarkable achievements in literature, art, and science, he insists that these cultural florescences must be understood in relation to the **underlying social and economic structures** that made them possible.
 
-![Image](https://www.aprearthouse.com/cdn/shop/articles/screenshot-2024-04-17-at-5.11.32-pm.png?v=1713357122)
-
-![Image](https://coinindia.com/Samudra-4773-29.20.jpg)
-
-![Image](https://upload.wikimedia.org/wikipedia/commons/d/dd/Temple_No.-_3%2C_Nalanda_Archaeological_Site.jpg)
-
-![Image](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/b9/82/5f/nalanda-university-ruins.jpg?h=500\&s=1\&w=900)
-
 The Gupta period represents, in Kosambi’s analysis, a phase of **relative political consolidation combined with increasing decentralization at the local level**. Unlike the Mauryan Empire, which maintained a highly centralized administrative apparatus, Gupta rule relies more heavily on a network of subordinate rulers, local chiefs, and landholders. This shift reflects deeper changes in the mode of surplus extraction.
 
 A defining feature of this period is the proliferation of **land grants**, particularly to Brahmins and religious institutions. These grants often include not only the land itself but also rights over its produce and the labour of those who cultivate it. Such transfers effectively remove portions of the agrarian surplus from direct state control and place them in the hands of local beneficiaries. Kosambi interprets this as a key step in the development of **early feudal tendencies** in India.
@@ -332,14 +282,6 @@ The chapter therefore stands as both an affirmation and a critique: an affirmati
 ## Chapter 9: The Development of Indian Feudalism and the Village Order
 
 In this chapter, Kosambi brings into sharper focus a process that has been gradually unfolding since the post-Mauryan period and becomes more pronounced after the Guptas: the formation of what he cautiously characterizes as **Indian feudalism**. This is not a direct replica of European feudalism, but a historically specific configuration of land relations, surplus extraction, and social hierarchy that emerges from the cumulative transformations of earlier centuries.
-
-![Image](https://cdn.create.vista.com/api/media/small/273498884/stock-photo-indian-traditional-rural-landscape-two-small-houses-thatched-roof-village)
-
-![Image](https://th-i.thgim.com/public/incoming/ndrg65/article69116869.ece/alternates/LANDSCAPE_1200/6702_19_1_2025_18_9_7_1_COPPERPLATEGRANTS.JPG)
-
-![Image](https://cdn.sanity.io/images/nlpqts3z/production/f484c7bdce933daa17ea94441f0580d04e376847-1918x1080.jpg)
-
-![Image](https://images.picxy.com/cache/2021/1/13/a27d129d8db7f902a40d91e1676f578a.jpg)
 
 The central mechanism driving this transformation is the **increasing prevalence of land grants**. What begins as occasional endowments to Brahmins or religious institutions expands into a widespread practice whereby rulers transfer rights over land, revenue, and often jurisdiction to local beneficiaries. These grants are frequently recorded on copper plates, detailing not only the boundaries of the land but also the privileges attached to it—tax exemptions, control over labour, and judicial authority.
 
@@ -374,14 +316,6 @@ Kosambi’s analysis ultimately reframes the structure of early medieval Indian 
 ## Chapter 10: Religion, Ideology, and the Social Formation of Indian Civilisation
 
 Having traced the material and structural evolution of Indian society, Kosambi turns in this chapter to the domain of religion—not as an autonomous sphere of belief, but as an **integral component of social formation**, deeply embedded in the processes of production, hierarchy, and integration. Religion, in his analysis, is neither illusion nor mere spirituality; it is a **historically conditioned system of symbols and practices** that both reflects and stabilizes the underlying social order.
-
-![Image](https://www.lotussculpture.com/images/puja1.jpg)
-
-![Image](https://static.toiimg.com/thumb/imgsize-122086%2Cmsid-50596267%2Cwidth-400%2Cresizemode-4/50596267.jpg)
-
-![Image](https://cdn.britannica.com/36/155836-050-89E7AA9E/Great-Stupa-Sanchi-India.jpg)
-
-![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4398.JPG/330px-East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4398.JPG)
 
 Kosambi begins by emphasizing the **layered nature of Indian religion**. What appears, in later periods, as a unified religious tradition is in fact the result of successive accretions—tribal cults, pastoral deities, agrarian fertility rituals, and philosophical speculations—brought together over time into a complex and internally differentiated whole. This layering corresponds closely to the historical processes described in earlier chapters: the transition from tribal to agrarian society, the incorporation of diverse populations, and the consolidation of social hierarchy.
 
