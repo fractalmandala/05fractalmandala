@@ -18,6 +18,13 @@
 
 <svelte:head>
 	<link rel="icon" href={favicon} />
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-1JFGGCTBC9"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'G-1JFGGCTBC9');
+	  </script>
 </svelte:head>
 
 <header>
