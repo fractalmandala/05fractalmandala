@@ -132,7 +132,7 @@
 				</div>
 			</div>
 		</div>
-
+		<!--
 		<div class="box-n">
 			<div>
 				{#if hasQuery}
@@ -143,7 +143,7 @@
 				{/if}
 			</div>
 		</div>
-	
+		-->
 		{#if results.length > 0}
 		<div class="grid two rgap8 cgap8" id="search-results" onclick={toggleSearch}>
 			{#each results as { item, titleHtml, excerpt } (item.link)}
