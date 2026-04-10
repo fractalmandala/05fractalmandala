@@ -10,13 +10,16 @@
 	<meta name="description" content="Writings on Indian history, dharma, consciousness, technology, design, fiction, and poetry." />
 </svelte:head>
 
-<Template showDesc={true} title="Writings" description="This wiki organizes my writings into major themes spanning Indian history, Vedic chronology, dharma and civilizational thought, consciousness and psychedelics, technology and web development, etc.">
+<Template showDesc={false} title="Writings">
+	<div>
+		<p>All my notes, writings, snippets organized into major themes spanning Indian history, Vedic chronology, dharma and civilizational thought, consciousness and psychedelics, technology and web development, etc.</p>
+	</div>
 	{#if data.data.length > 0}
 	<div class="box-1">
 		<div>
-			<h2>Topics</h2>
+			<h2>Themes</h2>
 		</div>
-		<div class="grid two rgap8 mtop-1 mbot-1">
+		<div class="grid two rgap8">
 			{#each data.data as item}
 				<p class="wiki-items tt-c"><a href={item.linkpath}>{item.meta.title}</a></p>
 			{/each}

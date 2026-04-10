@@ -1,6 +1,7 @@
 ---
 title: arishtanemi
 id: 8
+group: personalities
 ---
 
 The younger son of rajani [[kashi]], born in the clan of chakravartin [[bharata]]. An eccentric drashta and brother to rishi [[gritsamada]].

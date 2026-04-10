@@ -1,6 +1,7 @@
 ---
 title: pratishthana
 id: 51
+group: places
 ---
 
 The ancient name for prayag - confluence of ganga and yamuna, and still used by the city's old families. Was founded by ila, daughter of vaivasvat manu, and was the first capital of the somavanshi dynasty.

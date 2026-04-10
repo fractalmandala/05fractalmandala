@@ -1,6 +1,7 @@
 ---
 title: places
 id: 48
+group: category
 ---
 
 The places topic hub collects all places mentioned in the janapada sources and links each entry to its role in the wider civilizational narrative.

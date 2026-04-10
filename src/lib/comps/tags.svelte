@@ -18,7 +18,7 @@
 	<div>
 		<h2>Tags</h2>
 	</div>
-	<div class="row wrap rgap8 cgap8 mtop-2 mbot-1">
+	<div class="row wrap rgap8 cgap8 mtop-1">
 		{#each tags as item}
 			<p class="wiki-labels"><a href="/wiki-writings/tags/{item.tag}">{item.tag}</a></p>
 		{/each}

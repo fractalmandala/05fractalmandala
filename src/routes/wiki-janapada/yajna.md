@@ -1,6 +1,7 @@
 ---
 title: yajna
 id: 74
+group: culture
 ---
 
 The primary ritual of bharatavarsha.

@@ -1,6 +1,7 @@
 ---
 title: yaudheya
 id: 76
+group: places
 ---
 
 Ancient town along the sarasvati that was home to [[havishmana]] surya, and then to his son marici. In the ancient eras, people of yaudheya lived in underground dwelling pits.

@@ -1,6 +1,7 @@
 ---
 title: bhairavaghati
 id: 13
+group: places
 ---
 
 The forgotten settlement beyond the himalaya, location of the 4th great battle between daityas and adityas. Visited by [[sudas]] paijavana during his travels.

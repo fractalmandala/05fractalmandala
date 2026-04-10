@@ -1,6 +1,7 @@
 ---
 title: samvarna
 id: 58
+group: personalities
 ---
 
 [[bharata]] rajan in the line of the southern-panchalas. Elder cousin to [[sudas]] paijavana.

@@ -1,6 +1,7 @@
 ---
 title: bhagirathapura
 id: 12
+group: places
 ---
 
 The ancient village in the upper himalaya. It began as a site of tapasya by [[bhagiratha]], and is now a place of pilgrimage for the suryavanshi and janaka [[tribes]].

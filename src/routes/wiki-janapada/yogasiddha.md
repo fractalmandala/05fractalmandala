@@ -1,6 +1,7 @@
 ---
 title: yogasiddha
 id: 78
+group: personalities
 ---
 
 The exalted sister of rishi [[brihaspati]], who later migrated east and delivered the knowledge of dharma and yoga to the far-east islands outside of bharatavarsha.

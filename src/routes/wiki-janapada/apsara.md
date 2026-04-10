@@ -1,6 +1,7 @@
 ---
 title: apsara
 id: 7
+group: tribes
 ---
 
 The tribe from beyond the himalaya with a semi-mythic status among the people of the plains. Known to be masters of song and dance, remnants survive in forest such as naimisharanya.

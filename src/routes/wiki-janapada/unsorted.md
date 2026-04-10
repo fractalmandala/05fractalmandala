@@ -1,6 +1,7 @@
 ---
 title: unsorted
 id: 66
+group: category
 ---
 
 Unsorted items in the janapada.

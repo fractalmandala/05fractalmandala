@@ -1,6 +1,7 @@
 ---
 title: sivipuri
 id: 62
+group: places
 ---
 
 The old capital of the anavas, named after its founder - chakravartin sivi ausinara. Routinely faced attacks by [[dasa]] warriors before the reign of rajan [[divodasa]]. Now a peaceful, growing city.

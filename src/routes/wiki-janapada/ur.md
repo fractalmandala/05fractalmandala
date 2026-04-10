@@ -1,6 +1,7 @@
 ---
 title: ur
 id: 67
+group: places
 ---
 
 Far western city beyond kushavarsha. Major trade partner to the [[bharata]] janapada.

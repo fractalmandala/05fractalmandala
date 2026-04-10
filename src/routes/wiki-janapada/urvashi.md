@@ -1,6 +1,7 @@
 ---
 title: urvashi
 id: 68
+group: personalities
 ---
 
 The [[apsara]] wife of [[pururava]], and matriarch to the somavanshi dynasty.

@@ -1,6 +1,7 @@
 ---
 title: puru
 id: 53
+group: personalities
 ---
 
 The youngest son of chakravartin yayati, who inherited the primary kingdom between sarasvati and drishadvati rivers. Progenitor to the puru-bharatas.

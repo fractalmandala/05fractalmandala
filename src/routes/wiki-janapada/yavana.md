@@ -1,6 +1,7 @@
 ---
 title: yavana
 id: 77
+group: tribes
 ---
 
 A mleccha tribe from the far west. Yavanas often fought in [[dasa]] armies, though some yavana thinkers - calling themselves 'wisdom-lovers' often visit bharatavarsha to learn from its drashtas.

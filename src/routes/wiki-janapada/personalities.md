@@ -1,6 +1,7 @@
 ---
 title: personalities
 id: 47
+group: category
 ---
 
 The personalities topic hub collects all personalities mentioned in the janapada sources and links each entry to its role in the wider civilizational narrative.

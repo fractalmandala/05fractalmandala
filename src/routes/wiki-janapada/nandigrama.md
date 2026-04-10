@@ -1,6 +1,7 @@
 ---
 title: nandigrama
 id: 44
+group: places
 ---
 
 The village founded by [[bharata]], brother of chakravartin rama dasharathi (not to be confused with chakravartin [[bharata]] daushyanti). Sacked by haihaya yadavas many times over, and resettled each time.

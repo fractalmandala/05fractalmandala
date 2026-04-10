@@ -1,6 +1,7 @@
 ---
 title: nahusha
 id: 43
+group: personalities
 ---
 
 Chakravartin of lore and legend, who fortified the somavanshi foundations established by his grandfather [[pururava]] and father [[ayu]]. Waged many battles with the gandharvas before forming a lasting alliance with them.

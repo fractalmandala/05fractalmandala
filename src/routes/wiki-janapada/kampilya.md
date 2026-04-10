@@ -1,6 +1,7 @@
 ---
 title: kampilya
 id: 34
+group: places
 ---
 
 Capital city of the southern panchalas. Grand, awe-inspiring, and historic. Was marked for becoming the capital of chakravartin [[mandhatra]], who commissioned kampilya's famous surya and indra temples.

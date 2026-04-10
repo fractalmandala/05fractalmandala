@@ -1,6 +1,7 @@
 ---
 title: rohitashva
 id: 56
+group: places
 ---
 
 The suryavanshi refuge along the ganga, downstream of [[kashi]]. Was constructed by the suryavanshi rohit, after the sack of [[ayodhya]] by the haihayas. Today it serves as a suryavanshi fort.

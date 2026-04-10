@@ -1,6 +1,7 @@
 ---
 title: abhyavartin
 id: 1
+group: personalities
 ---
 
 An [[anava]] rajan who rose to the status of samrat. Key ally of rajan [[divodasa]] in the wars against [[dasa]] [[shambara]].

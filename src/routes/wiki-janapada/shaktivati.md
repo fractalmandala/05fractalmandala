@@ -1,6 +1,7 @@
 ---
 title: shaktivati
 id: 59
+group: places
 ---
 
 A [[yadava]] town on the charmanvati river, abandoned after the sack of haihayas.

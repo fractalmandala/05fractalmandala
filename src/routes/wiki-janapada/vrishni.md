@@ -1,6 +1,7 @@
 ---
 title: vrishni
 id: 72
+group: tribes
 ---
 
 A [[yadava]] subclan, found residing the yamuna river before its confluence with ganga.

@@ -1,6 +1,7 @@
 ---
 title: mandir
 id: 40
+group: culture
 ---
 
 Bharatavarsha is a body, dharma is its consciousness, mandirs are the synaptic nodes.

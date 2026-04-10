@@ -14,7 +14,7 @@
 
 <Template showNav={true} showDesc={false} link="/wiki-writings" linkLabel="Writings" title="tag- {data.tag}">
 	{#if data.posts.length > 0}
-	<div class="grid two rgap8 mtop-2 mbot-1">
+	<div class="grid two rgap8">
 		{#each data.posts as post}
 			<p class="wiki-items tt-c">
 				<a href={post.link}>{post.title}</a>
@@ -31,6 +31,6 @@
 
 .grid.two
 	border-bottom: 1px solid var(--col-border)
-	padding-bottom: 24px
+	padding-bottom: var(--ds-l)
 
 </style>

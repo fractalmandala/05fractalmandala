@@ -1,6 +1,7 @@
 ---
 title: yamaprastha
 id: 75
+group: places
 ---
 
 [[gandharva]] capital city during the era of chakravartin [[nahusha]].

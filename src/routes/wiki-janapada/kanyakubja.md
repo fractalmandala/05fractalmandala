@@ -1,6 +1,7 @@
 ---
 title: kanyakubja
 id: 36
+group: places
 ---
 
 Large urban center founded by chakravartin [[bharata]]. Named after a young hunch-backed girl he met here, who sold to him flowers and brought him respite during his ardous ashvamedha.

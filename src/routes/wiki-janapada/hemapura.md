@@ -1,6 +1,7 @@
 ---
 title: hemapura
 id: 31
+group: places
 ---
 
 [[dasa]] stronghold that was final base of [[shambara]]. Was sieged and destroyed by the final campaign of rajan [[divodasa]]. Currently a grain and small arms storage site.

@@ -1,6 +1,7 @@
 ---
 title: pushkara
 id: 55
+group: places
 ---
 
 Ancient site along the sarasvati, revered as a site where the adityas of the previous epochs resided. Underground caves in pushkara have revealed elaborate halls and architecture.

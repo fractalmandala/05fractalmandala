@@ -1,6 +1,7 @@
 ---
 title: angira
 id: 5
+group: personalities
 ---
 
 Ancient maharishi, the angara-rasa, a magicial metallurgist who instructed the primal adityas.

@@ -1,6 +1,7 @@
 ---
 title: yadava
 id: 73
+group: tribes
 ---
 
 One of the five pancha-gana [[tribes]] descended from chakravartin yayati nahushya. Named after yayati's eldest son - yadu. Several yadava subclans abound, [[vrishni]] and haihaya being more prominent among them.

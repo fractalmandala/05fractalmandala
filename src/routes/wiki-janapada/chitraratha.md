@@ -1,6 +1,7 @@
 ---
 title: chitraratha
 id: 18
+group: personalities
 ---
 
 The legendary [[gandharva]] chieftain who fought several battles with chakravartin [[nahusha]], before the two forged a last alliance and a lifelong friendship.

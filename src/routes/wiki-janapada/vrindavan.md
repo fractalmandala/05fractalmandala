@@ -1,6 +1,7 @@
 ---
 title: vrindavan
 id: 71
+group: places
 ---
 
 Village near [[mathura]], favoured grazing ground for the cattle herds of the [[vrishni]] yadavas.

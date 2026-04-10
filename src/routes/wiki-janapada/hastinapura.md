@@ -1,6 +1,7 @@
 ---
 title: hastinapura
 id: 29
+group: places
 ---
 
 Ancient city that was nearly razed to the ground by chakravartin [[mandhatra]]. Rehabilitated by chakravartin [[bharata]], it is now a capital city to the primary [[bharata]] lineage.

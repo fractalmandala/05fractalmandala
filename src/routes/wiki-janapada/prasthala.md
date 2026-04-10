@@ -1,6 +1,7 @@
 ---
 title: prasthala
 id: 50
+group: places
 ---
 
 Large urban center situated on the drishadvati river. Focal town for the flow of trade into and out of bharatavarsha. Briefly ruled by the anavas, it is now firmly under [[bharata]] control.

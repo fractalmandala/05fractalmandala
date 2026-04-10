@@ -1,6 +1,7 @@
 ---
 title: girivraja
 id: 25
+group: places
 ---
 
 Remote and fortified city of the eastern anavas. Precise location is unknown, but it controls all trade that flows to the east.

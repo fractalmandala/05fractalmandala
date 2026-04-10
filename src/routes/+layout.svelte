@@ -52,7 +52,7 @@
 		padding-left: var(--pad-side)
 		padding-right: var(--pad-side)
 		.main
-			padding-left: var(--pad-side)
+			padding-top: 32px
 		.side
 			border-right: 1px solid var(--col-border)
 			padding-top: 48px
@@ -67,6 +67,8 @@
 		padding-right: 16px
 		.side
 			display: none
+		.main
+			padding-top: 32px
 
 header
 	height: 64px

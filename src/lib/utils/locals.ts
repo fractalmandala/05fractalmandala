@@ -194,3 +194,59 @@ export async function getTagsWithCounts() {
 	}));
 	return tags.sort((a, b) => a.tag.localeCompare(b.tag));
 }
+
+export async function getJanapada(){
+	const allfiles = import.meta.glob('/src/routes/wiki-janapada/*.md')
+	const filed = Object.entries(allfiles)
+	const eachfiled = await Promise.all(
+		filed.map(async([path, resolver]) => {
+			// @ts-expect-error//why
+			const { metadata } = await resolver()
+			const pathitem = path.slice(11,-3)
+			return {
+				meta: metadata,
+				linkpath: pathitem
+			}
+		})
+	)
+	return eachfiled
+}
+
+export async function getJanapadaGroups() {
+    const allFiles = import.meta.glob('/src/routes/wiki-janapada/*.md');
+    const files = Object.entries(allFiles);
+    
+    const allGroups = await Promise.all(
+      files.map(async ([, resolver]) => {
+        // Define what the markdown module looks like
+        const module = await resolver() as { 
+            metadata: { group?: string | string[] } 
+        };
+        
+        return module.metadata.group;
+      })
+    );
+
+    // Flattening handles both single strings and arrays of groups
+    const distinctGroups = [...new Set(allGroups.flat().filter((group): group is string => !!group))].sort();
+    
+    return distinctGroups;
+}
+
+  export async function selectedJanapadaGroup(group:string){
+	const allfiles = import.meta.glob('/src/routes/wiki-janapada/*.md')
+	const filed = Object.entries(allfiles)
+	const eachfiled = await Promise.all(
+		filed.map(async([path, resolver]) => {
+			// @ts-expect-error//why
+			const { metadata } = await resolver()
+			const pathitem = path.slice(11,-3)
+			return {
+				meta: metadata,
+				linkpath: pathitem
+			}
+		})
+	)
+ const groupedPosts = eachfiled.filter(post => post.meta.group && post.meta.group.includes(group)).sort();
+	return groupedPosts
+}

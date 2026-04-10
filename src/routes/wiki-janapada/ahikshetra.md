@@ -1,6 +1,7 @@
 ---
 title: ahikshetra
 id: 2
+group: places
 ---
 
 Capital city of the north-panchalas, nestled at the foothills of the himalaya. A long and glorious past, it was founded as a simple ashrama by maharishi atri.

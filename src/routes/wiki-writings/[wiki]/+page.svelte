@@ -10,7 +10,7 @@
 </svelte:head>
 
 <Template showDesc={false} showNav={true} link="/wiki-writings" linkLabel="Writings" title={data.title}>
-	<article class="mtop-2">
+	<article>
 		<svelte:component this={data.content} />
 	</article>
 </Template>

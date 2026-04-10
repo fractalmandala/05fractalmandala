@@ -1,6 +1,7 @@
 ---
 title: brihaspati
 id: 17
+group: personalities
 ---
 
 The venerated and ancient drashta, descended from maharishi [[angira]], who was purohita and war-commander for chakravartin [[mandhatra]]. Some of the earliest mantras chanted by the bharatas are codified by him.

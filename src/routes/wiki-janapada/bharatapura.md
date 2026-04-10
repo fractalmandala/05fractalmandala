@@ -1,6 +1,7 @@
 ---
 title: bharatapura
 id: 16
+group: places
 ---
 
 Established as a retirement ashrama by chakravartin [[bharata]] after he stepped down from rule. Became capital city for his son suhotra, it is now a pilgrimage town.

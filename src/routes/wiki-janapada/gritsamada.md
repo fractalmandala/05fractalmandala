@@ -1,6 +1,7 @@
 ---
 title: gritsamada
 id: 26
+group: personalities
 ---
 
 The elder son of rajani [[kashi]], heir-apparent to the regency of [[kashi]]. A rishi with highly developed drishti. Uncle to [[sudas]] paijavana.

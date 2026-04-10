@@ -1,6 +1,7 @@
 ---
 title: aneni
 id: 4
+group: personalities
 ---
 
 The illustrious daughter of chakravartin [[mandhatra]] yauvanashva. She briefly ruled the western suryavanshi till her nephew came of age.

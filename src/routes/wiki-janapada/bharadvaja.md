@@ -1,6 +1,7 @@
 ---
 title: bharadvaja
 id: 14
+group: personalities
 ---
 
 A venerated maharishi among the [[bharata]] janapada, was purohita to rajan [[divodasa]]. Kindled the first vedi [[yajna]] along the sarasvati river.

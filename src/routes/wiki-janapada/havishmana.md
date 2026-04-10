@@ -1,6 +1,7 @@
 ---
 title: havishmana
 id: 30
+group: personalities
 ---
 
 The last and final surya, the death of whom galvanized marici havishmanaputra to unite the scattered solar [[tribes]].

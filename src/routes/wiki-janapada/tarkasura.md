@@ -1,6 +1,7 @@
 ---
 title: tarkasura
 id: 64
+group: personalities
 ---
 
 Mythic daitya figure of the ancient eras, revered by the anavas, druhyus and even the dasas. Shrines dedicated to him can be found across bharatavarsha.

@@ -1,6 +1,7 @@
 ---
 title: plaksha
 id: 49
+group: places
 ---
 
 Ancient town founded by maharishi kashyapa. The birthplace of [[bharata]], his sons, of [[divodasa]] and of [[sudas]] paijavana. Sacred pilgrimage town for all [[puru]]-bharatas.

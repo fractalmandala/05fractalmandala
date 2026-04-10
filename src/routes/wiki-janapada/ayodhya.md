@@ -1,6 +1,7 @@
 ---
 title: ayodhya
 id: 9
+group: places
 ---
 
 Ancient and grand capital of the suryavanshis, founded by ayuddha who was great-grandson to the solar founder ikshvaku. Was abandoned after the haihaya sack and reclaimed by sagara.

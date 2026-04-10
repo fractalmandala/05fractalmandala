@@ -1,6 +1,7 @@
 ---
 title: dirghatama
 id: 22
+group: personalities
 ---
 
 Possibly a younger brother to maharishi [[brihaspati]], though in suryavanshi records he is remembered as a nephew. A drashta whose mantras are considered sacred by the [[bharata]] janapada.

@@ -28,7 +28,7 @@
 </svelte:head>
 
 <Template showNav={true} showDesc={true} link="/wiki-writings" linkLabel="Writings" title={data.title} description={data.description}>
-	<article class="article-box mtop-2" use:externalLinks>
+	<article class="article-box" use:externalLinks>
 		<svelte:component this={data.content} />
 	</article>
 </Template>

@@ -1,6 +1,7 @@
 ---
 title: vitabhya
 id: 70
+group: places
 ---
 
 Ancient city at the confluence of the shatadru and sindhu rivers. Now abandoned, after repeated mleccha raids.

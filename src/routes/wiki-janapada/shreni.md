@@ -1,6 +1,7 @@
 ---
 title: shreni
 id: 61
+group: culture
 ---
 
 The name for a trading guild.

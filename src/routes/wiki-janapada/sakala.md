@@ -1,6 +1,7 @@
 ---
 title: sakala
 id: 57
+group: places
 ---
 
 Grand capital of the anavas, founded by maharishi kashyapa and later developed by samrat [[abhyavartin]] chayamana. Sacked several times by the dasas, especially during the era of [[dasa]] [[shambara]]. Resettled and constructed grander each time.
