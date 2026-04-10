@@ -129,3 +129,68 @@ export async function getVideos(){
 	)
 	return eachfiled.sort((a, b) => b.meta.sequence - a.meta.sequence);
 }
+
+export async function archiveGroups() {
+    const allfiles = import.meta.glob('/src/routes/wiki-writings/posts/*.md');
+    const filed = Object.entries(allfiles);
+    const eachfiled = await Promise.all(
+        filed.map(async ([, resolver]) => {
+            // @ts-expect-error
+            const { metadata } = await resolver();
+            if (!metadata?.date) return null;
+            const date = new Date(metadata.date as string);
+            if (isNaN(date.getTime())) return null;
+            const monthYear = date.toLocaleString('default', {
+                month: 'long',
+                year: 'numeric'
+            });
+            return { monthYear, date };
+        })
+    );
+    // remove nulls
+    const valid = eachfiled.filter((x): x is { monthYear: string; date: Date } => x !== null);
+    // Sort by date descending
+    valid.sort((a, b) => b.date.getTime() - a.date.getTime());
+    // Get unique labels while preserving order
+    const seen = new Set<string>();
+    return valid.filter(item => {
+        if (seen.has(item.monthYear)) return false;
+        seen.add(item.monthYear);
+        return true;
+    });
+}
+
+type PostModule = {
+	metadata?: {
+		date?: string;
+		tags?: string[];
+	};
+};
+
+export async function getTagsWithCounts() {
+	const posts = import.meta.glob('/src/routes/wiki-writings/posts/*.md');
+	const filed = Object.entries(posts);
+	const tagCounts = new Map<string, number>();
+
+	await Promise.all(
+		filed.map(async ([, resolver]) => {
+			const mod = (await resolver()) as PostModule;
+
+			if (!mod.metadata) return;
+
+			const tags = mod.metadata.tags;
+			if (!Array.isArray(tags)) return;
+
+			tags.forEach((tag) => {
+				if (typeof tag !== 'string' || !tag.trim()) return;
+				tagCounts.set(tag, (tagCounts.get(tag) ?? 0) + 1);
+			});
+		})
+	);
+
+	const tags = [...tagCounts.entries()].map(([tag, count]) => ({
+		tag,
+		count
+	}));
+	return tags.sort((a, b) => a.tag.localeCompare(b.tag));
+}

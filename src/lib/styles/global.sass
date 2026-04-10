@@ -5,7 +5,7 @@
 	--col-border: #e7e7e7
 	--col-textgrey: #5d5d5d
 	--col-textgreylight: #a7a7a7
-	--col-green: #37B24D
+	--col-green: #0CB600
 	--col-greendark: #277D36
 
 body, html
@@ -16,11 +16,20 @@ body, html
 
 p, em, li, ul, ol, cite, caption, blockquote, small, h6, h5, h4, h3, h2, h1
 	margin: 0
+	font-family: 'Google Sans Flex', sans-serif
+
+.font-two
+	font-family: 'Iosevka Charon', monospace
+
 
 .themed
 	color: var(--col-green)
 .themedark
 	color: var(--col-greendark)
+.textgrey
+	color: var(--col-textgrey)
+.textgreylight
+	color: var(--col-textgreylight)
 
 .tt-c
 	text-transform: capitalize
@@ -42,7 +51,7 @@ p, em, li, ul, ol, cite, caption, blockquote, small, h6, h5, h4, h3, h2, h1
 .wiki-home
 	a
 		text-decoration: none
-		color: #37B24D
+		color: var(--col-green)
 	p, li
 		white-space: pre-wrap
 		word-break: break-word
@@ -140,8 +149,10 @@ p, em, li, ul, ol, cite, caption, blockquote, small, h6, h5, h4, h3, h2, h1
 			grid-template-columns: 1fr 1fr
 		&.three
 			grid-template-columns: 1fr 1fr 1fr
+		&.four
+			grid-template-columns: 1fr 1fr 1fr 1fr
 	@media screen and (max-width: 1024px)
-		&.two, .three
+		&.two, .three, .four
 			grid-template-columns: 1fr
 
 // Code blocks
@@ -220,3 +231,7 @@ p, em, li, ul, ol, cite, caption, blockquote, small, h6, h5, h4, h3, h2, h1
 	row-gap: 48px
 .rgap64
 	row-gap: 64px
+
+.tightbox
+	@media screen and (min-width: 1025px)
+		width: 75%

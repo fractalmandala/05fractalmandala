@@ -54,10 +54,10 @@
 	align-items: center
 	column-gap: 16px
 	p
-		font-size: 12.5px
+		font-size: 13px
 		text-transform: uppercase
-		font-weight: 400
-		letter-spacing: -0.25px
+		font-weight: 500
+		color: #FFFFFF
 		a
 			text-decoration: none
 			color: inherit
@@ -87,7 +87,7 @@
 	column-gap: 0.5rem
 	.name
 		text-decoration: none
-		color: #000000
+		color: #FFFFFF
 		font-family: 'Iosevka Charon', monospace
 		font-size: 18.6px
 		font-weight: 600

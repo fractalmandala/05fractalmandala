@@ -9,7 +9,6 @@ date: 2023-01-01
 supergroup: miscellaneous
 kind: posts
 ---
-Hi,
 
 I'm Amrit, a writer and creator based in Gurgaon, India. With a decade+ background in management and product development, I am a co-founder at <a href="https://www.bodharesearch.in" target="_blank" rel="noreferrer">Bodha Research</a>, a research group and think tank. Apart from this site, I also develop and maintain Bodha's website.
 

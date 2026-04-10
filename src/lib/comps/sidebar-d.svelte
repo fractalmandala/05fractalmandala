@@ -2,6 +2,7 @@
 	import { onMount } from "svelte";
 	import { loadWiki, type WikiEntry } from "$lib/utils/locals";
 	import { WIKIS } from "$lib/wikis";
+	import autoAnimate from '@formkit/auto-animate';
 
 	let wikiData: { slug: string; label: string; entries: WikiEntry[] }[] = [];
 	let openSlug: string | null = null;
@@ -29,11 +30,11 @@
 
 <div class="sidebar-column">
 	{#each wikiData as wiki}
-		<div class="accordion">
+		<div class="accordion"  use:autoAnimate>
 			<!-- svelte-ignore a11y_no_noninteractive_element_interactions -->
 			<!-- svelte-ignore a11y_click_events_have_key_events -->
-			<p class="acco-title" on:click={() => toggleAccordion(wiki.slug)}>
-				<a href="/{wiki.slug}/+page">{wiki.label}</a>
+			<p class="acco-title textgrey" on:click={() => toggleAccordion(wiki.slug)}>
+				<a href="/{wiki.slug}">{wiki.label}</a>
 			</p>
 			{#if openSlug === wiki.slug}
 				<div class="accordion-items">
@@ -49,39 +50,46 @@
 <style lang="sass">
 
 .sidebar-column, .accordion, .accordion-items
-    display: flex
-    flex-direction: column
+	display: flex
+	flex-direction: column
 
 .sidebar-column
-    row-gap: 24px
-    height: calc(100vh - 240px)
-    overflow-y: scroll
+	row-gap: 24px
+	height: calc(100vh - 240px)
+	overflow-y: scroll
 
 .accordion
-    row-gap: 8px
+	row-gap: 8px
+	padding-bottom: 20px
+	padding-right: 8px
+	background: #FFFFFF
+	border-bottom: 1px solid var(--col-border)
 
 .accordion-items
-    row-gap: 4px
+	row-gap: 8px
 
 p.acco-title
-    text-transform: uppercase
-    font-size: 14px
-    font-weight: 600
-    cursor: pointer
-    user-select: none
-    a
-        text-decoration: none
-        color: inherit
-    &:hover
-        color: var(--col-green)
+	text-transform: uppercase
+	font-size: 15px
+	cursor: pointer
+	user-select: none
+	a
+		text-decoration: none
+		color: inherit
+	&:hover
+		color: var(--col-green)
 
 .accordion-items
-    p
-        font-size: 14px
-        text-transform: capitalize
-        color: var(--col-textgrey)
-    a
-        text-decoration: none
-        color: inherit
+	p
+		font-size: 14.5px
+		text-transform: capitalize
+		transition: all 0.2s cubic-bezier(0.640, 0.000, 0.000, 1.000)
+		a
+			text-decoration: none
+			color: inherit
+		&:hover
+			color: var(--col-green)
+			font-size: 16px
+		
 
 </style>

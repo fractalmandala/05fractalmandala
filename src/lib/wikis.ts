@@ -4,11 +4,11 @@
 export const WIKIS = [
   { slug: 'wiki-writings',     label: 'Writings' },
   { slug: 'wiki-civilization', label: 'Civilization' },
-  { slug: 'wiki-history',      label: 'Indian History' },
+  { slug: 'wiki-history',      label: 'History' },
   { slug: 'wiki-auro',         label: 'Sri Aurobindo' },
   { slug: 'wiki-srgsrs',       label: 'Sita Ram Goel & Ram Swarup' },
   { slug: 'wiki-thea',         label: 'Thea' },
-  { slug: 'wiki-janapada',     label: 'The Janapada' },
+  { slug: 'wiki-janapada',     label: 'Janapada' },
 ] as const;
 
 export type WikiSlug = typeof WIKIS[number]['slug'];
