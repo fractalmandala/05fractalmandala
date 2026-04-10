@@ -16,8 +16,8 @@ kind: posts
 <script lang="ts">
 
   import { Lightbox } from 'svelte-lightbox'
-  import Youtube from '$lib/comps/Youtuber.svelte'
-  import Youtube2 from '$lib/comps/Youtuber.svelte'
+  import Youtube from '$lib/comps/youtuber.svelte'
+  import Youtube2 from '$lib/comps/youtuber.svelte'
 
 </script>
 
